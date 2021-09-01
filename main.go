@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"encoding/json"
+	"encoding/m3u"
 	"fmt"
 	"io"
 	"io/ioutil"

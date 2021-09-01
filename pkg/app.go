@@ -34,8 +34,16 @@ func GetStreamTableSelector() string {
 
 // Stream represents a channel stream
 type Stream struct {
+	ID          string   `m3u:"id"`
 	Channel     string   `m3u:"channel"`
 	Link        string   `m3u:"link"`
+	Country     string   `m3u:"country"`
+	Liveliness  string   `m3u:"liveliness"`
+	Status      string   `m3u:"status"`
+	LastChecked string   `m3u:"lastChecked"`
+	Format      string   `m3u:"format"`
+	Mbps        string   `m3u:"mbps"`
+	URI         []string `m3u:"URI"`
 }
 
 type streamsData struct {
