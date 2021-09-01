@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"encoding/m3u"
+	"encoding/json"
 	"fmt"
 	"io"
 	"io/ioutil"
@@ -128,23 +128,23 @@ func checkNestedUrls() {
 }
 
 func writeToFile() {
-	streamsAll, err := m3u.MarshalIndent(app.Streams.All, "", "    ")
-	streamsCountry, err := m3u.MarshalIndent(app.Streams.ByCountry, "", "    ")
+	streamsAll, err := json.MarshalIndent(app.Streams.All, "", "    ")
+	streamsCountry, err := json.MarshalIndent(app.Streams.ByCountry, "", "    ")
 	if err != nil {
 		fmt.Println("error:", err)
 	}
 
 	os.MkdirAll("data/countries", os.ModePerm)
 
-	ioutil.WriteFile("data/all-streams.m3u", streamsAll, 0644)
-	ioutil.WriteFile("data/all-by-country.m3u", streamsCountry, 0644)
+	ioutil.WriteFile("data/all-streams.json", streamsAll, 0644)
+	ioutil.WriteFile("data/all-by-country.json", streamsCountry, 0644)
 	for key, val := range app.Streams.ByCountry {
-		// streamsCountry, err := m3u.Marshal(val)
-		streamsCountry, err := m3u.MarshalIndent(val, "", "    ")
+		// streamsCountry, err := json.Marshal(val)
+		streamsCountry, err := json.MarshalIndent(val, "", "    ")
 		if err != nil {
 			fmt.Println("error:", err)
 		}
-		ioutil.WriteFile("data/countries/"+key+".m3u", streamsCountry, 0644)
+		ioutil.WriteFile("data/countries/"+key+".json", streamsCountry, 0644)
 	}
 }
 
