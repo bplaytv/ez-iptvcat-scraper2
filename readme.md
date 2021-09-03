@@ -14,3 +14,7 @@ This project has no affiliation with iptvcat.com, or the streams shared on iptvc
 ## License
 
 MIT
+
+
+
+Looking for a way to also have the cron job convert the .json to .m3u, so that it can be used in lots of players.. only a handful can play json files.
