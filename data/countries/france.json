@@ -146,7 +146,7 @@
         "country": "france",
         "liveliness": "93",
         "status": "offline",
-        "lastChecked": "2021-09-04T00:00:00Z",
+        "lastChecked": "2021-09-05T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -224,6 +224,34 @@
         ]
     },
     {
+        "id": "686",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "685",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-09-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "683",
         "channel": "Fashion TV Midnite Secrets",
         "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8?checkedby:iptvcat.com",
@@ -261,34 +289,6 @@
         "lastChecked": "2021-09-05T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "686",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-09-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "685",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-09-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -466,7 +466,7 @@
         "channel": "Obosso TV",
         "link": "https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d\u0026token=\u0026checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2021-09-05T00:00:00Z",
         "format": "fhd 2k",
@@ -511,8 +511,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2021-09-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "13311, ...",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
