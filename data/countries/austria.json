@@ -1,11 +1,53 @@
 [
     {
+        "id": "1690246",
+        "channel": "ATV 2HD",
+        "link": "http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95651?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689596",
+        "channel": "ATV FHD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83274?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689600",
+        "channel": "ATV2",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83276?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
         "id": "1665325",
         "channel": "Baden TV",
         "link": "http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/43630?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "20",
-        "status": "online",
+        "liveliness": "19",
+        "status": "offline",
         "lastChecked": "2021-09-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -20,7 +62,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -34,7 +76,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -48,7 +90,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -62,7 +104,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -75,9 +117,9 @@
         "channel": "Kabel Eins TV",
         "link": "http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/43643?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "32",
+        "liveliness": "30",
         "status": "offline",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -91,7 +133,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -105,7 +147,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -119,7 +161,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -131,11 +173,179 @@
         "channel": "ORF 1 HD",
         "link": "http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/43617?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "37",
-        "status": "online",
+        "liveliness": "38",
+        "status": "offline",
         "lastChecked": "2021-09-06T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689806",
+        "channel": "ORF 2 HD",
+        "link": "http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95640?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689821",
+        "channel": "ORF 3 HD",
+        "link": "http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95641?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689840",
+        "channel": "ORF SPORT  HD",
+        "link": "http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95642?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689606",
+        "channel": "ORF2B HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83309?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689608",
+        "channel": "ORF2K HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83311?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689611",
+        "channel": "ORF2N HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83312?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689616",
+        "channel": "ORF2O HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83313?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689621",
+        "channel": "ORF2S HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83314?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689625",
+        "channel": "ORF2St HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83315?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689630",
+        "channel": "ORF2T HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83316?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689638",
+        "channel": "ORF2V HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83317?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689646",
+        "channel": "ORF2W HD RAW",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83318?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_"
         ]
@@ -147,9 +357,37 @@
         "country": "austria",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689654",
+        "channel": "PULS 24 FHD",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83322?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689667",
+        "channel": "R9",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83327?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_"
         ]
@@ -161,9 +399,37 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689671",
+        "channel": "RTL Austria",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83328?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1689679",
+        "channel": "RTL2 Austria",
+        "link": "http://nomorecable.eu:80/xDJixN4wBE/ARBX8u86XM/83329?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_"
         ]
@@ -175,7 +441,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
         "URI": [
@@ -187,9 +453,9 @@
         "channel": "Sat 1 Gold TV",
         "link": "http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/43642?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "33",
+        "liveliness": "32",
         "status": "offline",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -203,7 +469,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -217,7 +483,7 @@
         "country": "austria",
         "liveliness": "65",
         "status": "offline",
-        "lastChecked": "2021-09-05T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -231,7 +497,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -245,7 +511,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -259,7 +525,7 @@
         "country": "austria",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -273,7 +539,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -287,7 +553,7 @@
         "country": "austria",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -301,7 +567,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -316,7 +582,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-06T00:00:00Z",
+        "lastChecked": "2021-09-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
