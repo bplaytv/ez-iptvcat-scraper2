@@ -162,7 +162,7 @@
         "status": "online",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "7004, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -231,8 +231,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -274,7 +274,7 @@
         "status": "online",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
-        "mbps": "12145, ...",
+        "mbps": "6140, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -315,8 +315,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -357,8 +357,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -440,7 +440,7 @@
         "link": "http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
         "country": "malaysia",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "hd",
         "mbps": "3625",

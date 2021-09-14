@@ -70,12 +70,12 @@
         ]
     },
     {
-        "id": "132966",
-        "channel": "Canale 2 Altamura",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "55883",
+        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
         "mbps": "3883",
@@ -84,9 +84,9 @@
         ]
     },
     {
-        "id": "55883",
-        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com",
+        "id": "132966",
+        "channel": "Canale 2 Altamura",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "99",
         "status": "online",
@@ -145,7 +145,7 @@
         "link": "http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
@@ -243,8 +243,8 @@
         "link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
-        "status": "offline",
-        "lastChecked": "2021-09-12T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-09-13T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -350,20 +350,6 @@
         ]
     },
     {
-        "id": "132983",
-        "channel": "RDS Social TV",
-        "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
         "id": "1666",
         "channel": "RDS Social TV",
         "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8?checkedby:iptvcat.com",
@@ -373,6 +359,20 @@
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "132983",
+        "channel": "RDS Social TV",
+        "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-09-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "italy_-_-_-"
         ]
@@ -554,7 +554,7 @@
         "status": "online",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
-        "mbps": "1894",
+        "mbps": "2089, ...",
         "URI": [
             "italy_-_-_-"
         ]
@@ -569,20 +569,6 @@
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1653",
-        "channel": "Radionorba TV",
-        "link": "http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2021-09-12T00:00:00Z",
-        "format": "sd",
-        "mbps": "1677, ...",
         "URI": [
             "italy_-_-_-"
         ]
@@ -708,7 +694,7 @@
         "status": "online",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "4322",
         "URI": [
             "italy_-_-_-"
         ]
@@ -910,12 +896,26 @@
         ]
     },
     {
+        "id": "1705",
+        "channel": "TeleNordest",
+        "link": "http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "offline",
+        "lastChecked": "2021-09-13T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
         "id": "1706",
         "channel": "TeleNordest, TeleNordest Friuli",
         "link": "https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
@@ -930,20 +930,6 @@
         "link": "http://wms.shared.streamshow.it/telenord/telenord/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1705",
-        "channel": "TeleNordest",
-        "link": "http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
         "status": "online",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
@@ -1029,7 +1015,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "offline",
-        "lastChecked": "2021-09-12T00:00:00Z",
+        "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1266,7 +1252,7 @@
         "link": "https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
@@ -1281,7 +1267,7 @@
         "link": "https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-09-13T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
