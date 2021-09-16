@@ -6,7 +6,7 @@
         "country": "france",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -47,8 +47,8 @@
         "link": "https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "1680",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "1680",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -160,7 +160,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -188,51 +188,9 @@
         "country": "france",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1853",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "683",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "686",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "682",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "1836",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -244,7 +202,7 @@
         "country": "france",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -258,9 +216,51 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "683",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "682",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-09-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "686",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -271,8 +271,8 @@
         "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "678",
         "URI": [
@@ -286,7 +286,7 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -299,8 +299,8 @@
         "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "100",
-        "status": "offline",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -314,7 +314,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -328,7 +328,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -342,7 +342,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -356,9 +356,9 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "7986, ...",
+        "lastChecked": "2021-09-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -370,7 +370,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -384,7 +384,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -398,7 +398,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -412,7 +412,7 @@
         "country": "france",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
@@ -425,8 +425,8 @@
         "link": "https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc\u0026token=\u0026checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "1049",
         "URI": [
@@ -440,7 +440,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -454,7 +454,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
@@ -468,7 +468,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -482,7 +482,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -496,7 +496,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -510,9 +510,23 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "735",
+        "channel": "TV7 Colmar",
+        "link": "http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-09-16T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -524,7 +538,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -538,21 +552,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "2369",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "735",
-        "channel": "TV7 Colmar",
-        "link": "http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -566,7 +566,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -580,7 +580,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -592,9 +592,9 @@
         "channel": "i24 News HD",
         "link": "http://s2.famousiptv.com:8080/princeT2021/T7p2Tm9qgTduKnhq/8179?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-13T00:00:00Z",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2021-09-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
