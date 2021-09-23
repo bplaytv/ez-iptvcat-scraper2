@@ -4,9 +4,9 @@
         "channel": "(Sport) RMC Sport 4",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/5950?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3252",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "france",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -61,8 +61,8 @@
         "link": "https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1680",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1680",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -160,7 +160,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1847",
         "URI": [
@@ -216,9 +216,23 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "686",
+        "channel": "Fashion TV Midnite Secrets",
+        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -230,7 +244,7 @@
         "country": "france",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -244,7 +258,7 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -258,21 +272,7 @@
         "country": "france",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "686",
-        "channel": "Fashion TV Midnite Secrets",
-        "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -286,7 +286,7 @@
         "country": "france",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "678",
         "URI": [
@@ -300,7 +300,7 @@
         "country": "france",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -314,7 +314,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -328,7 +328,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -342,7 +342,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -356,7 +356,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -370,7 +370,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "7986, ...",
         "URI": [
@@ -384,7 +384,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -398,7 +398,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -412,7 +412,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -425,8 +425,8 @@
         "link": "https://webtvmonacoinfo.mc/live/prod_720/index.m3u8?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
@@ -440,7 +440,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1049",
         "URI": [
@@ -454,7 +454,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -468,9 +468,9 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "13311, ...",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -482,7 +482,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -496,23 +496,9 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "726",
-        "channel": "TV5Monde Info",
-        "link": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -524,9 +510,37 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "726",
+        "channel": "TV5Monde Info",
+        "link": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "734",
+        "channel": "TV7 Colmar",
+        "link": "http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -538,7 +552,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -552,21 +566,7 @@
         "country": "france",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2369",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "734",
-        "channel": "TV7 Colmar",
-        "link": "http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -580,7 +580,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -594,7 +594,7 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -606,9 +606,9 @@
         "channel": "(BE)  Bx1 Belge",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3916?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -620,25 +620,11 @@
         "channel": "(BE)  Bx1 Belge",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3916?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729077",
-        "channel": "(BE) AB3",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2951?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -648,11 +634,25 @@
         "channel": "(BE) AB3",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2951?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "91",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729077",
+        "channel": "(BE) AB3",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2951?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -662,9 +662,9 @@
         "channel": "(BE) Bel RTL",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2957?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -676,9 +676,9 @@
         "channel": "(BE) Bel RTL",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2957?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -690,11 +690,11 @@
         "channel": "(BE) CLUB RTL HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2014?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -704,11 +704,11 @@
         "channel": "(BE) CLUB RTL HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2014?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -718,9 +718,9 @@
         "channel": "(BE) Ketnet Junior",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/6989?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "79",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -732,9 +732,9 @@
         "channel": "(BE) Ketnet Junior",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/6989?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -746,25 +746,11 @@
         "channel": "(BE) LA DEUX HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2010?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729743",
-        "channel": "(BE) LA UNE HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2012?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -774,11 +760,25 @@
         "channel": "(BE) LA UNE HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2012?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13873",
+        "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729743",
+        "channel": "(BE) LA UNE HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2012?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -788,11 +788,11 @@
         "channel": "(BE) La Trois",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2011?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -802,25 +802,11 @@
         "channel": "(BE) La Trois",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2011?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "81",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729728",
-        "channel": "(BE) RTL TVI HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2958?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "liveliness": "79",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -830,9 +816,23 @@
         "channel": "(BE) RTL TVI HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2958?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729728",
+        "channel": "(BE) RTL TVI HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2958?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -844,9 +844,9 @@
         "channel": "(BE) Serie",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2952?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -858,9 +858,9 @@
         "channel": "(BE) Serie",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2952?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "79",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -872,9 +872,9 @@
         "channel": "(FR)  La Tele",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3911?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "84",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -886,25 +886,11 @@
         "channel": "(FR)  TZiK  TV",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/7144?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "liveliness": "84",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729327",
-        "channel": "(FR) 13eme Rue",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4431?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -914,8 +900,8 @@
         "channel": "(FR) 13eme Rue",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4431?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "90",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -924,13 +910,13 @@
         ]
     },
     {
-        "id": "1728245",
-        "channel": "(FR) 6TER",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2123?checkedby:iptvcat.com",
+        "id": "1729327",
+        "channel": "(FR) 13eme Rue",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4431?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -942,9 +928,23 @@
         "channel": "(FR) 6TER",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2123?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1728245",
+        "channel": "(FR) 6TER",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2123?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -958,9 +958,9 @@
         "country": "france",
         "liveliness": "80",
         "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1677",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -970,25 +970,11 @@
         "channel": "(FR) AB1",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2524?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729374",
-        "channel": "(FR) Action",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1235?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -998,11 +984,39 @@
         "channel": "(FR) Action",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1235?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "84",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729374",
+        "channel": "(FR) Action",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1235?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729597",
+        "channel": "(FR) Animaux",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2532?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1013,24 +1027,10 @@
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2532?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729597",
-        "channel": "(FR) Animaux",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2532?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1040,11 +1040,11 @@
         "channel": "(FR) Arte HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2125?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "77",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1054,11 +1054,11 @@
         "channel": "(FR) Arte HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2125?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "56",
+        "liveliness": "69",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1068,11 +1068,11 @@
         "channel": "(FR) BFM TV",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2052?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
+        "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1082,9 +1082,9 @@
         "channel": "(FR) BFM TV",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2052?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1096,11 +1096,11 @@
         "channel": "(FR) Boomerang",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1242?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1110,9 +1110,9 @@
         "channel": "(FR) Boomerang",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1242?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "79",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1124,9 +1124,9 @@
         "channel": "(FR) C Star",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4028?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "83",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1139,24 +1139,10 @@
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4028?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729447",
-        "channel": "(FR) C8 HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2526?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1168,7 +1154,21 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729447",
+        "channel": "(FR) C8 HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2526?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1182,7 +1182,7 @@
         "country": "france",
         "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1194,9 +1194,9 @@
         "channel": "(FR) Canal J",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1241?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1208,9 +1208,9 @@
         "channel": "(FR) Canal+",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/546?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "liveliness": "76",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1222,25 +1222,11 @@
         "channel": "(FR) Canal+",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/546?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1967",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1727929",
-        "channel": "(FR) Canal+Cinema HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/547?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1250,11 +1236,25 @@
         "channel": "(FR) Canal+Cinema HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/547?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1727929",
+        "channel": "(FR) Canal+Cinema HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/547?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1264,9 +1264,9 @@
         "channel": "(FR) Canal+Decale HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4010?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1278,9 +1278,9 @@
         "channel": "(FR) Canal+Decale HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4010?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1292,11 +1292,11 @@
         "channel": "(FR) Canal+Family HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1224?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1306,11 +1306,11 @@
         "channel": "(FR) Canal+Family HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1224?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1320,9 +1320,9 @@
         "channel": "(FR) Canal_Play 1",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1600?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "930",
         "URI": [
@@ -1336,7 +1336,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "930",
         "URI": [
@@ -1348,9 +1348,9 @@
         "channel": "(FR) Canal_Play 11",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1610?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3758",
         "URI": [
@@ -1362,9 +1362,9 @@
         "channel": "(FR) Canal_Play 11",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1610?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3758",
         "URI": [
@@ -1376,9 +1376,9 @@
         "channel": "(FR) Canal_Play 2",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1601?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -1392,23 +1392,9 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "823",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729692",
-        "channel": "(FR) Canal_Play 3",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1602?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1116",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1418,9 +1404,23 @@
         "channel": "(FR) Canal_Play 3",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1602?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "85",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1116",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729692",
+        "channel": "(FR) Canal_Play 3",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1602?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1116",
         "URI": [
@@ -1432,9 +1432,9 @@
         "channel": "(FR) Canal_Play 4",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1603?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1446,9 +1446,9 @@
         "channel": "(FR) Canal_Play 5",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1604?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "920",
         "URI": [
@@ -1460,25 +1460,11 @@
         "channel": "(FR) Canal_Play 5",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1604?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "920",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729699",
-        "channel": "(FR) Canal_Play 6",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1605?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "930",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1488,9 +1474,23 @@
         "channel": "(FR) Canal_Play 6",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1605?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "930",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729699",
+        "channel": "(FR) Canal_Play 6",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1605?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "930",
         "URI": [
@@ -1502,9 +1502,9 @@
         "channel": "(FR) Canal_Play 7",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1606?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "58",
+        "liveliness": "57",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1516,25 +1516,11 @@
         "channel": "(FR) Canal_Play 8",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1607?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "82",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729705",
-        "channel": "(FR) Canal_Play 9",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1608?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "930",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1544,9 +1530,23 @@
         "channel": "(FR) Canal_Play 9",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1608?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "930",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729705",
+        "channel": "(FR) Canal_Play 9",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1608?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "930",
         "URI": [
@@ -1558,23 +1558,9 @@
         "channel": "(FR) Cherie 25",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2050?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1728035",
-        "channel": "(FR) Cine FX",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2049?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "70",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1586,25 +1572,25 @@
         "channel": "(FR) Cine FX",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2049?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "72",
+        "liveliness": "78",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1728037",
-        "channel": "(FR) Cine Polar",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2048?checkedby:iptvcat.com",
+        "id": "1728035",
+        "channel": "(FR) Cine FX",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2049?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "liveliness": "69",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "5287",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1614,11 +1600,25 @@
         "channel": "(FR) Cine Polar",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2048?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "76",
+        "liveliness": "74",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1728037",
+        "channel": "(FR) Cine Polar",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2048?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1628,11 +1628,11 @@
         "channel": "(FR) Cine+Classic HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/637?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "76",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1642,25 +1642,11 @@
         "channel": "(FR) Cine+Classic HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/637?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729271",
-        "channel": "(FR) Cine+Emotion HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1234?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1670,9 +1656,9 @@
         "channel": "(FR) Cine+Emotion HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1234?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1680,15 +1666,15 @@
         ]
     },
     {
-        "id": "1727945",
-        "channel": "(FR) Cine+Famiz",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1222?checkedby:iptvcat.com",
+        "id": "1729271",
+        "channel": "(FR) Cine+Emotion HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1234?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1698,9 +1684,23 @@
         "channel": "(FR) Cine+Famiz",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1222?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "73",
+        "liveliness": "71",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1727945",
+        "channel": "(FR) Cine+Famiz",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1222?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1712,11 +1712,11 @@
         "channel": "(FR) Cine+Frisson",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1221?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "84",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "8378",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1726,11 +1726,11 @@
         "channel": "(FR) Cine+Frisson",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1221?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "73",
+        "liveliness": "71",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1740,11 +1740,11 @@
         "channel": "(FR) Cine+Premier",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/549?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3625",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1754,25 +1754,11 @@
         "channel": "(FR) Cine+Premier",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/549?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1727961",
-        "channel": "(FR) Comedie+",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1219?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1782,9 +1768,9 @@
         "channel": "(FR) Comedie+",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1219?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
+        "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1792,15 +1778,15 @@
         ]
     },
     {
-        "id": "1728841",
-        "channel": "(FR) Discovery HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1249?checkedby:iptvcat.com",
+        "id": "1727961",
+        "channel": "(FR) Comedie+",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1219?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1810,9 +1796,9 @@
         "channel": "(FR) Discovery HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1249?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "81",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1820,15 +1806,15 @@
         ]
     },
     {
-        "id": "1728845",
-        "channel": "(FR) Discovery Science HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1245?checkedby:iptvcat.com",
+        "id": "1728841",
+        "channel": "(FR) Discovery HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1249?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1838,9 +1824,9 @@
         "channel": "(FR) Discovery Science HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1245?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "81",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -1848,15 +1834,15 @@
         ]
     },
     {
-        "id": "1729564",
-        "channel": "(FR) Disney Channel",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1244?checkedby:iptvcat.com",
+        "id": "1728845",
+        "channel": "(FR) Discovery Science HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1245?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "79",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "7114",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1866,25 +1852,25 @@
         "channel": "(FR) Disney Channel",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1244?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1728711",
-        "channel": "(FR) Disney Cinema",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/4030?checkedby:iptvcat.com",
+        "id": "1729564",
+        "channel": "(FR) Disney Channel",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1244?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1894,25 +1880,25 @@
         "channel": "(FR) Disney Cinema",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4030?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1729559",
-        "channel": "(FR) Disney Junior",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3788?checkedby:iptvcat.com",
+        "id": "1728711",
+        "channel": "(FR) Disney Cinema",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/4030?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1922,25 +1908,25 @@
         "channel": "(FR) Disney Junior",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3788?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "8378",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1729416",
-        "channel": "(FR) Euronews TV",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2047?checkedby:iptvcat.com",
+        "id": "1729559",
+        "channel": "(FR) Disney Junior",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3788?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1950,9 +1936,9 @@
         "channel": "(FR) Euronews TV",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2047?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "69",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1960,15 +1946,15 @@
         ]
     },
     {
-        "id": "1729228",
-        "channel": "(FR) France 2 HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/550?checkedby:iptvcat.com",
+        "id": "1729416",
+        "channel": "(FR) Euronews TV",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2047?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -1978,25 +1964,25 @@
         "channel": "(FR) France 2 HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/550?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1729232",
-        "channel": "(FR) France 3 HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/642?checkedby:iptvcat.com",
+        "id": "1729228",
+        "channel": "(FR) France 2 HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/550?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2006,11 +1992,25 @@
         "channel": "(FR) France 3 HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/642?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729232",
+        "channel": "(FR) France 3 HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/642?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2020,11 +2020,11 @@
         "channel": "(FR) France 4 HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/643?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "85",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2034,9 +2034,9 @@
         "channel": "(FR) France 5 HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/644?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "81",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2048,9 +2048,23 @@
         "channel": "(FR) France 5 HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/644?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "69",
+        "liveliness": "73",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1727917",
+        "channel": "(FR) France O HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1621?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "81",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2062,25 +2076,25 @@
         "channel": "(FR) France O HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1621?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1727917",
-        "channel": "(FR) France O HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1621?checkedby:iptvcat.com",
+        "id": "1728857",
+        "channel": "(FR) GOLF+",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/4386?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2092,23 +2106,9 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1728857",
-        "channel": "(FR) GOLF+",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/4386?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2118,9 +2118,9 @@
         "channel": "(FR) Game One",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2518?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "67",
+        "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2132,9 +2132,9 @@
         "channel": "(FR) Game One",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2518?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "79",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2146,9 +2146,9 @@
         "channel": "(FR) Histoire",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3403?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "90",
+        "liveliness": "86",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2160,11 +2160,11 @@
         "channel": "(FR) Histoire",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3403?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2174,9 +2174,9 @@
         "channel": "(FR) KTO TV",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/6958?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "42",
+        "liveliness": "38",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1677",
         "URI": [
@@ -2188,11 +2188,11 @@
         "channel": "(FR) LCI",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2580?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "69",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2202,9 +2202,9 @@
         "channel": "(FR) LCI",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2580?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
+        "liveliness": "72",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2216,11 +2216,11 @@
         "channel": "(FR) M6",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/7943?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2230,11 +2230,11 @@
         "channel": "(FR) M6",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/7943?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "76",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2244,9 +2244,9 @@
         "channel": "(FR) M6 HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1588?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2258,9 +2258,9 @@
         "channel": "(FR) M6 HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1588?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2272,9 +2272,9 @@
         "channel": "(FR) M6 Music",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2120?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -2286,9 +2286,23 @@
         "channel": "(FR) M6 Music",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2120?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729549",
+        "channel": "(FR) Mangas",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1240?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -2300,25 +2314,11 @@
         "channel": "(FR) Mangas",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1240?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729549",
-        "channel": "(FR) Mangas",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1240?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2328,9 +2328,9 @@
         "channel": "(FR) NRJ 12",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2537?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2342,9 +2342,9 @@
         "channel": "(FR) NRJ 12",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2537?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2356,9 +2356,9 @@
         "channel": "(FR) Nat Geo HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1232?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "84",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2370,9 +2370,9 @@
         "channel": "(FR) Nat Geo HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1232?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2386,9 +2386,9 @@
         "country": "france",
         "liveliness": "81",
         "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2398,9 +2398,9 @@
         "channel": "(FR) Nat Geo Wild HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1239?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
+        "liveliness": "72",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2412,7 +2412,7 @@
         "channel": "(FR) Nickelodeon Junior",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1246?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "81",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
         "format": "hd",
@@ -2426,11 +2426,11 @@
         "channel": "(FR) Nickelodeon Junior",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1246?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2440,9 +2440,9 @@
         "channel": "(FR) Ocs_Choc HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/524?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2454,11 +2454,11 @@
         "channel": "(FR) Ocs_Choc HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/524?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2468,11 +2468,11 @@
         "channel": "(FR) Ocs_City HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3380?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "90",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2482,9 +2482,9 @@
         "channel": "(FR) Ocs_City HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3380?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -2496,11 +2496,11 @@
         "channel": "(FR) Ocs_Geants HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1228?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2510,11 +2510,11 @@
         "channel": "(FR) Ocs_Geants HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1228?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "90",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2524,11 +2524,11 @@
         "channel": "(FR) Ocs_Max HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2331?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2538,25 +2538,11 @@
         "channel": "(FR) Ocs_Max HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2331?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729321",
-        "channel": "(FR) Paris Premiere",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4258?checkedby:iptvcat.com",
-        "country": "france",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2566,11 +2552,25 @@
         "channel": "(FR) Paris Premiere",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4258?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729321",
+        "channel": "(FR) Paris Premiere",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4258?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2580,11 +2580,11 @@
         "channel": "(FR) Piwi+",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4031?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "67",
+        "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "3799",
+        "mbps": "1509",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2594,25 +2594,11 @@
         "channel": "(FR) Piwi+",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4031?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "64",
+        "liveliness": "72",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3799",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1728811",
-        "channel": "(FR) Planete + CI HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/551?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "75",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2622,25 +2608,25 @@
         "channel": "(FR) Planete + CI HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/551?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1728839",
-        "channel": "(FR) Planete+ HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2044?checkedby:iptvcat.com",
+        "id": "1728811",
+        "channel": "(FR) Planete + CI HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/551?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2650,9 +2636,9 @@
         "channel": "(FR) Planete+ HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2044?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2660,13 +2646,13 @@
         ]
     },
     {
-        "id": "1728828",
-        "channel": "(FR) RMC Decouverte",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2043?checkedby:iptvcat.com",
+        "id": "1728839",
+        "channel": "(FR) Planete+ HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2044?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2678,11 +2664,25 @@
         "channel": "(FR) RMC Decouverte",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2043?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1894",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1728828",
+        "channel": "(FR) RMC Decouverte",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2043?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "59",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2692,9 +2692,9 @@
         "channel": "(FR) RMC STORY",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2573?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "84",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2706,9 +2706,9 @@
         "channel": "(FR) RMC STORY",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2573?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2720,9 +2720,9 @@
         "channel": "(FR) Rouge TV",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3790?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2736,23 +2736,9 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1728028",
-        "channel": "(FR) Rtl 9 HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/4027?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2762,11 +2748,25 @@
         "channel": "(FR) Rtl 9 HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4027?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1728028",
+        "channel": "(FR) Rtl 9 HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/4027?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2776,8 +2776,8 @@
         "channel": "(FR) Serie Club HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1227?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "91",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
@@ -2790,11 +2790,11 @@
         "channel": "(FR) Serie Club HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1227?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "60",
+        "liveliness": "58",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2804,9 +2804,9 @@
         "channel": "(FR) Syfy HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/638?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2819,8 +2819,8 @@
         "link": "http://hbox.cdnss.me:80/tring123/tring123/638?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "73",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2832,11 +2832,11 @@
         "channel": "(FR) TEVA HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2041?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2846,9 +2846,23 @@
         "channel": "(FR) TEVA HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2041?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1727899",
+        "channel": "(FR) TF1",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/7944?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2860,39 +2874,11 @@
         "channel": "(FR) TF1",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/7944?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1727899",
-        "channel": "(FR) TF1",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/7944?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729252",
-        "channel": "(FR) TF1 Series Films HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2572?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "94",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2902,9 +2888,23 @@
         "channel": "(FR) TF1 Series Films HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2572?checkedby:iptvcat.com",
         "country": "france",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729252",
+        "channel": "(FR) TF1 Series Films HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2572?checkedby:iptvcat.com",
+        "country": "france",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2916,11 +2916,11 @@
         "channel": "(FR) TIJI",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4032?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "liveliness": "74",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2930,9 +2930,23 @@
         "channel": "(FR) TIJI",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4032?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1728011",
+        "channel": "(FR) TMC HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1237?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2944,25 +2958,11 @@
         "channel": "(FR) TMC HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1237?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1728011",
-        "channel": "(FR) TMC HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1237?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -2972,25 +2972,11 @@
         "channel": "(FR) Tcm Cinema HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3393?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "44",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729568",
-        "channel": "(FR) Teletoon HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2575?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "58",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3000,9 +2986,9 @@
         "channel": "(FR) Teletoon HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2575?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "72",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -3010,15 +2996,15 @@
         ]
     },
     {
-        "id": "1729441",
-        "channel": "(FR) Trek",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1622?checkedby:iptvcat.com",
+        "id": "1729568",
+        "channel": "(FR) Teletoon HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2575?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "64",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3028,25 +3014,25 @@
         "channel": "(FR) Trek",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1622?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1728015",
-        "channel": "(FR) Tv Breizh",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2519?checkedby:iptvcat.com",
+        "id": "1729441",
+        "channel": "(FR) Trek",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1622?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "44",
+        "liveliness": "86",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3056,8 +3042,8 @@
         "channel": "(FR) Tv Breizh",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2519?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "67",
-        "status": "online",
+        "liveliness": "64",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -3066,15 +3052,15 @@
         ]
     },
     {
-        "id": "1729591",
-        "channel": "(FR) Ushuaia tv HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1236?checkedby:iptvcat.com",
+        "id": "1728015",
+        "channel": "(FR) Tv Breizh",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2519?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "81",
+        "liveliness": "45",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3084,11 +3070,25 @@
         "channel": "(FR) Ushuaia tv HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1236?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729591",
+        "channel": "(FR) Ushuaia tv HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1236?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3098,11 +3098,11 @@
         "channel": "(FR) Voyage",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2040?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "79",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3112,11 +3112,11 @@
         "channel": "(FR) Voyage",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2040?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3126,11 +3126,11 @@
         "channel": "(Sport) Beinsports-FR-1-HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/6041?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
+        "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3140,9 +3140,9 @@
         "channel": "(Sport) Beinsports-FR-1-HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/6041?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -3154,11 +3154,11 @@
         "channel": "(Sport) Beinsports-FR-3-HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/6043?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
+        "liveliness": "76",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4874",
+        "mbps": "3179",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3168,11 +3168,11 @@
         "channel": "(Sport) Beinsports-FR-3-HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/6043?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3179",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3182,11 +3182,11 @@
         "channel": "(Sport) Canal+Sport",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1226?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3196,23 +3196,9 @@
         "channel": "(Sport) Canal+Sport",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1226?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729664",
-        "channel": "(Sport) Equidia Live HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2522?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3224,11 +3210,25 @@
         "channel": "(Sport) Equidia Live HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2522?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729664",
+        "channel": "(Sport) Equidia Live HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2522?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "84",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3238,11 +3238,11 @@
         "channel": "(Sport) EuroSport 1 HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2127?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "8378",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3252,11 +3252,11 @@
         "channel": "(Sport) EuroSport 1 HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2127?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "77",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "78",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "5287",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3266,25 +3266,11 @@
         "channel": "(Sport) EuroSport 2 HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2055?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "81",
+        "liveliness": "78",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1728890",
-        "channel": "(Sport) Foot +24",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2521?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3294,9 +3280,9 @@
         "channel": "(Sport) Foot +24",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2521?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3304,15 +3290,15 @@
         ]
     },
     {
-        "id": "1729646",
-        "channel": "(Sport) Infosport+",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1238?checkedby:iptvcat.com",
+        "id": "1728890",
+        "channel": "(Sport) Foot +24",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2521?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3322,25 +3308,25 @@
         "channel": "(Sport) Infosport+",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1238?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1729635",
-        "channel": "(Sport) RMC Sport 1",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3072?checkedby:iptvcat.com",
+        "id": "1729646",
+        "channel": "(Sport) Infosport+",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1238?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3350,9 +3336,9 @@
         "channel": "(Sport) RMC Sport 1",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3072?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "81",
+        "liveliness": "78",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -3360,13 +3346,13 @@
         ]
     },
     {
-        "id": "1729641",
-        "channel": "(Sport) RMC Sport 2",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3073?checkedby:iptvcat.com",
+        "id": "1729635",
+        "channel": "(Sport) RMC Sport 1",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3072?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3378,11 +3364,25 @@
         "channel": "(Sport) RMC Sport 2",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3073?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3179",
+        "mbps": "6241",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729641",
+        "channel": "(Sport) RMC Sport 2",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3073?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3392,11 +3392,11 @@
         "channel": "(Sport) RMC Sport 4",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/5950?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "3252",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3406,9 +3406,9 @@
         "channel": "(BE)  Bx1 Belge",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3916?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3420,25 +3420,11 @@
         "channel": "(BE)  Bx1 Belge",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3916?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729077",
-        "channel": "(BE) AB3",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2951?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3448,11 +3434,25 @@
         "channel": "(BE) AB3",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2951?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "91",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729077",
+        "channel": "(BE) AB3",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2951?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3462,9 +3462,9 @@
         "channel": "(BE) Bel RTL",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2957?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -3476,9 +3476,9 @@
         "channel": "(BE) Bel RTL",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2957?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -3490,11 +3490,11 @@
         "channel": "(BE) CLUB RTL HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2014?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3504,11 +3504,11 @@
         "channel": "(BE) CLUB RTL HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2014?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3518,9 +3518,9 @@
         "channel": "(BE) Ketnet Junior",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/6989?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "79",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3532,9 +3532,9 @@
         "channel": "(BE) Ketnet Junior",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/6989?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3546,25 +3546,11 @@
         "channel": "(BE) LA DEUX HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2010?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729743",
-        "channel": "(BE) LA UNE HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2012?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3574,11 +3560,25 @@
         "channel": "(BE) LA UNE HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2012?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13873",
+        "mbps": "11126",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729743",
+        "channel": "(BE) LA UNE HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2012?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3588,11 +3588,11 @@
         "channel": "(BE) La Trois",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2011?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3602,25 +3602,11 @@
         "channel": "(BE) La Trois",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2011?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "81",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729728",
-        "channel": "(BE) RTL TVI HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2958?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "liveliness": "79",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3630,9 +3616,23 @@
         "channel": "(BE) RTL TVI HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2958?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729728",
+        "channel": "(BE) RTL TVI HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2958?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -3644,9 +3644,9 @@
         "channel": "(BE) Serie",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2952?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3658,9 +3658,9 @@
         "channel": "(BE) Serie",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2952?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "79",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3672,9 +3672,9 @@
         "channel": "(FR)  La Tele",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3911?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "84",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3686,25 +3686,11 @@
         "channel": "(FR)  TZiK  TV",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/7144?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "liveliness": "84",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729327",
-        "channel": "(FR) 13eme Rue",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4431?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3714,8 +3700,8 @@
         "channel": "(FR) 13eme Rue",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4431?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "90",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -3724,13 +3710,13 @@
         ]
     },
     {
-        "id": "1728245",
-        "channel": "(FR) 6TER",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2123?checkedby:iptvcat.com",
+        "id": "1729327",
+        "channel": "(FR) 13eme Rue",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4431?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3742,9 +3728,23 @@
         "channel": "(FR) 6TER",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2123?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1728245",
+        "channel": "(FR) 6TER",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2123?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3758,9 +3758,9 @@
         "country": "france",
         "liveliness": "80",
         "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1677",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3770,25 +3770,11 @@
         "channel": "(FR) AB1",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2524?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729374",
-        "channel": "(FR) Action",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1235?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3798,11 +3784,39 @@
         "channel": "(FR) Action",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1235?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "84",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729374",
+        "channel": "(FR) Action",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1235?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729597",
+        "channel": "(FR) Animaux",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2532?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3813,24 +3827,10 @@
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2532?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729597",
-        "channel": "(FR) Animaux",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2532?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3840,11 +3840,11 @@
         "channel": "(FR) Arte HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2125?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "77",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3854,11 +3854,11 @@
         "channel": "(FR) Arte HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2125?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "56",
+        "liveliness": "69",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3868,11 +3868,11 @@
         "channel": "(FR) BFM TV",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2052?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
+        "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3882,9 +3882,9 @@
         "channel": "(FR) BFM TV",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2052?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3896,11 +3896,11 @@
         "channel": "(FR) Boomerang",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1242?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3910,9 +3910,9 @@
         "channel": "(FR) Boomerang",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1242?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "79",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3924,9 +3924,9 @@
         "channel": "(FR) C Star",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4028?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "83",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -3939,24 +3939,10 @@
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4028?checkedby:iptvcat.com",
         "country": "france",
         "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729447",
-        "channel": "(FR) C8 HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2526?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -3968,7 +3954,21 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729447",
+        "channel": "(FR) C8 HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2526?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3982,7 +3982,7 @@
         "country": "france",
         "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3994,9 +3994,9 @@
         "channel": "(FR) Canal J",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1241?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4008,9 +4008,9 @@
         "channel": "(FR) Canal+",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/546?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "liveliness": "76",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4022,25 +4022,11 @@
         "channel": "(FR) Canal+",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/546?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1967",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1727929",
-        "channel": "(FR) Canal+Cinema HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/547?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4050,11 +4036,25 @@
         "channel": "(FR) Canal+Cinema HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/547?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1727929",
+        "channel": "(FR) Canal+Cinema HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/547?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4064,9 +4064,9 @@
         "channel": "(FR) Canal+Decale HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/4010?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4078,9 +4078,9 @@
         "channel": "(FR) Canal+Decale HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4010?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4092,11 +4092,11 @@
         "channel": "(FR) Canal+Family HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1224?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4106,11 +4106,11 @@
         "channel": "(FR) Canal+Family HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1224?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4120,9 +4120,9 @@
         "channel": "(FR) Canal_Play 1",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1600?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "930",
         "URI": [
@@ -4136,7 +4136,7 @@
         "country": "france",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "930",
         "URI": [
@@ -4148,9 +4148,9 @@
         "channel": "(FR) Canal_Play 11",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1610?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3758",
         "URI": [
@@ -4162,9 +4162,9 @@
         "channel": "(FR) Canal_Play 11",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1610?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3758",
         "URI": [
@@ -4176,9 +4176,9 @@
         "channel": "(FR) Canal_Play 2",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1601?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -4192,23 +4192,9 @@
         "country": "france",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "823",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729692",
-        "channel": "(FR) Canal_Play 3",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1602?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1116",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4218,9 +4204,23 @@
         "channel": "(FR) Canal_Play 3",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1602?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "85",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1116",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729692",
+        "channel": "(FR) Canal_Play 3",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1602?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1116",
         "URI": [
@@ -4232,9 +4232,9 @@
         "channel": "(FR) Canal_Play 4",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1603?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4246,9 +4246,9 @@
         "channel": "(FR) Canal_Play 5",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1604?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "920",
         "URI": [
@@ -4260,25 +4260,11 @@
         "channel": "(FR) Canal_Play 5",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1604?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "920",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729699",
-        "channel": "(FR) Canal_Play 6",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1605?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "930",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4288,9 +4274,23 @@
         "channel": "(FR) Canal_Play 6",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1605?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "96",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "930",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729699",
+        "channel": "(FR) Canal_Play 6",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1605?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "930",
         "URI": [
@@ -4302,9 +4302,9 @@
         "channel": "(FR) Canal_Play 7",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1606?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "58",
+        "liveliness": "57",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4316,25 +4316,11 @@
         "channel": "(FR) Canal_Play 8",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1607?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "82",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729705",
-        "channel": "(FR) Canal_Play 9",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1608?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "930",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4344,9 +4330,23 @@
         "channel": "(FR) Canal_Play 9",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1608?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "930",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729705",
+        "channel": "(FR) Canal_Play 9",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1608?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "930",
         "URI": [
@@ -4358,23 +4358,9 @@
         "channel": "(FR) Cherie 25",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2050?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1728035",
-        "channel": "(FR) Cine FX",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2049?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "70",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4386,25 +4372,25 @@
         "channel": "(FR) Cine FX",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2049?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "72",
+        "liveliness": "78",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1728037",
-        "channel": "(FR) Cine Polar",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/2048?checkedby:iptvcat.com",
+        "id": "1728035",
+        "channel": "(FR) Cine FX",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2049?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2021-09-21T00:00:00Z",
+        "liveliness": "69",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "5287",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4414,11 +4400,25 @@
         "channel": "(FR) Cine Polar",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2048?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "76",
+        "liveliness": "74",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1728037",
+        "channel": "(FR) Cine Polar",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/2048?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4428,11 +4428,11 @@
         "channel": "(FR) Cine+Classic HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/637?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "76",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4442,25 +4442,11 @@
         "channel": "(FR) Cine+Classic HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/637?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1729271",
-        "channel": "(FR) Cine+Emotion HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1234?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4470,9 +4456,9 @@
         "channel": "(FR) Cine+Emotion HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1234?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4480,15 +4466,15 @@
         ]
     },
     {
-        "id": "1727945",
-        "channel": "(FR) Cine+Famiz",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1222?checkedby:iptvcat.com",
+        "id": "1729271",
+        "channel": "(FR) Cine+Emotion HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1234?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4498,9 +4484,23 @@
         "channel": "(FR) Cine+Famiz",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1222?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "73",
+        "liveliness": "71",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1727945",
+        "channel": "(FR) Cine+Famiz",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1222?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4512,11 +4512,11 @@
         "channel": "(FR) Cine+Frisson",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1221?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "84",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "8378",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4526,11 +4526,11 @@
         "channel": "(FR) Cine+Frisson",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1221?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "73",
+        "liveliness": "71",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4540,11 +4540,11 @@
         "channel": "(FR) Cine+Premier",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/549?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3625",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4554,25 +4554,11 @@
         "channel": "(FR) Cine+Premier",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/549?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
-        "URI": [
-            "france_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "1727961",
-        "channel": "(FR) Comedie+",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1219?checkedby:iptvcat.com",
-        "country": "france",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4582,9 +4568,9 @@
         "channel": "(FR) Comedie+",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1219?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "75",
+        "liveliness": "71",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4592,15 +4578,15 @@
         ]
     },
     {
-        "id": "1728841",
-        "channel": "(FR) Discovery HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1249?checkedby:iptvcat.com",
+        "id": "1727961",
+        "channel": "(FR) Comedie+",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1219?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "87",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4610,9 +4596,9 @@
         "channel": "(FR) Discovery HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1249?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "81",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4620,15 +4606,15 @@
         ]
     },
     {
-        "id": "1728845",
-        "channel": "(FR) Discovery Science HD",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/1245?checkedby:iptvcat.com",
+        "id": "1728841",
+        "channel": "(FR) Discovery HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1249?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4638,9 +4624,9 @@
         "channel": "(FR) Discovery Science HD",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1245?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "81",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -4648,15 +4634,15 @@
         ]
     },
     {
-        "id": "1729564",
-        "channel": "(FR) Disney Channel",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1244?checkedby:iptvcat.com",
+        "id": "1728845",
+        "channel": "(FR) Discovery Science HD",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/1245?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
+        "liveliness": "79",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "5287",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "7114",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4666,25 +4652,25 @@
         "channel": "(FR) Disney Channel",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/1244?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1728711",
-        "channel": "(FR) Disney Cinema",
-        "link": "http://hbox.cdnss.me:80/tring123/tring123/4030?checkedby:iptvcat.com",
+        "id": "1729564",
+        "channel": "(FR) Disney Channel",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/1244?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "88",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4694,25 +4680,25 @@
         "channel": "(FR) Disney Cinema",
         "link": "http://hbox.cdnss.me:80/bestcs/bestcs/4030?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "76",
+        "status": "offline",
         "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1729559",
-        "channel": "(FR) Disney Junior",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3788?checkedby:iptvcat.com",
+        "id": "1728711",
+        "channel": "(FR) Disney Cinema",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/4030?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4722,25 +4708,25 @@
         "channel": "(FR) Disney Junior",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/3788?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "8378",
+        "mbps": "5287",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1729416",
-        "channel": "(FR) Euronews TV",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2047?checkedby:iptvcat.com",
+        "id": "1729559",
+        "channel": "(FR) Disney Junior",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/3788?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4750,9 +4736,9 @@
         "channel": "(FR) Euronews TV",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/2047?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "69",
+        "status": "offline",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4760,15 +4746,15 @@
         ]
     },
     {
-        "id": "1729228",
-        "channel": "(FR) France 2 HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/550?checkedby:iptvcat.com",
+        "id": "1729416",
+        "channel": "(FR) Euronews TV",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/2047?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
@@ -4778,9 +4764,23 @@
         "channel": "(FR) France 2 HD",
         "link": "http://hbox.cdnss.me:80/tring123/tring123/550?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "89",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "lastChecked": "2021-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "france_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1729228",
+        "channel": "(FR) France 2 HD",
+        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/550?checkedby:iptvcat.com",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4788,15 +4788,15 @@
         ]
     },
     {
-        "id": "1729232",
+        "id": "1727905",
         "channel": "(FR) France 3 HD",
-        "link": "http://hbox.cdnss.me:80/bestcs/bestcs/642?checkedby:iptvcat.com",
+        "link": "http://hbox.cdnss.me:80/tring123/tring123/642?checkedby:iptvcat.com",
         "country": "france",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-09-22T00:00:00Z",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3799",
+        "mbps": "5020",
         "URI": [
             "france_-_-_-_-_-_-_"
         ]
