@@ -112,9 +112,9 @@
         ]
     },
     {
-        "id": "1582",
+        "id": "1583",
         "channel": "Canale 7",
-        "link": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
@@ -126,9 +126,9 @@
         ]
     },
     {
-        "id": "1583",
+        "id": "1582",
         "channel": "Canale 7",
-        "link": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com",
+        "link": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
@@ -182,20 +182,6 @@
         ]
     },
     {
-        "id": "1591",
-        "channel": "DeeJay TV",
-        "link": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
         "id": "1592",
         "channel": "DeeJay TV",
         "link": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8?checkedby:iptvcat.com",
@@ -205,6 +191,20 @@
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1591",
+        "channel": "DeeJay TV",
+        "link": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "italy_-_-_-"
         ]
@@ -350,20 +350,6 @@
         ]
     },
     {
-        "id": "1666",
-        "channel": "RDS Social TV",
-        "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
         "id": "132983",
         "channel": "RDS Social TV",
         "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8?checkedby:iptvcat.com",
@@ -373,6 +359,20 @@
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1666",
+        "channel": "RDS Social TV",
+        "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "italy_-_-_-"
         ]
@@ -448,20 +448,6 @@
         ]
     },
     {
-        "id": "1637",
-        "channel": "Radio Capital TV",
-        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "421",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
         "id": "1638",
         "channel": "Radio Capital TV",
         "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
@@ -532,6 +518,20 @@
         ]
     },
     {
+        "id": "1637",
+        "channel": "Radio Capital TV",
+        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "421",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
         "id": "1646",
         "channel": "Radio Lombardia TV",
         "link": "https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?checkedby:iptvcat.com",
@@ -574,20 +574,6 @@
         ]
     },
     {
-        "id": "1655",
-        "channel": "Rai 3",
-        "link": "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
         "id": "1654",
         "channel": "Rai 3",
         "link": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8?checkedby:iptvcat.com",
@@ -602,15 +588,15 @@
         ]
     },
     {
-        "id": "1661",
-        "channel": "Rai News 24",
-        "link": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001\u0026checkedby:iptvcat.com",
+        "id": "1655",
+        "channel": "Rai 3",
+        "link": "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262, ...",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "italy_-_-_-"
         ]
@@ -625,6 +611,20 @@
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1661",
+        "channel": "Rai News 24",
+        "link": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "italy_-_-_-"
         ]
@@ -770,6 +770,20 @@
         ]
     },
     {
+        "id": "1728",
+        "channel": "TV2000",
+        "link": "http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
         "id": "1726",
         "channel": "TV2000",
         "link": "http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8?checkedby:iptvcat.com",
@@ -787,20 +801,6 @@
         "id": "1727",
         "channel": "TV2000",
         "link": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1728",
-        "channel": "TV2000",
-        "link": "http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "99",
         "status": "online",
@@ -896,11 +896,11 @@
         ]
     },
     {
-        "id": "1708",
+        "id": "132991",
         "channel": "TeleQuattro",
-        "link": "http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?checkedby:iptvcat.com",
+        "link": "http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
@@ -910,11 +910,11 @@
         ]
     },
     {
-        "id": "132991",
+        "id": "1708",
         "channel": "TeleQuattro",
-        "link": "http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
@@ -1058,21 +1058,7 @@
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1740",
-        "channel": "Videolina (Sardegna)",
-        "link": "http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "1212",
+        "mbps": "5036",
         "URI": [
             "italy_-_-_-"
         ]
@@ -1092,6 +1078,20 @@
         ]
     },
     {
+        "id": "1740",
+        "channel": "Videolina (Sardegna)",
+        "link": "http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1212",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
         "id": "693928",
         "channel": "Videostar Canale 193",
         "link": "https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/chunklist_w1657085036.m3u8?checkedby:iptvcat.com",
@@ -1101,20 +1101,6 @@
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1618",
-        "channel": "m2o TV",
-        "link": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
         "URI": [
             "italy_-_-_-"
         ]
@@ -1157,6 +1143,20 @@
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1618",
+        "channel": "m2o TV",
+        "link": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
         "URI": [
             "italy_-_-_-"
         ]

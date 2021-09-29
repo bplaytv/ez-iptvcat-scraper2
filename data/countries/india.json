@@ -568,7 +568,7 @@
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
-        "mbps": "899, ...",
+        "mbps": "1490, ...",
         "URI": [
             "india_-_-_-_-_-_-_"
         ]
@@ -862,7 +862,7 @@
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
-        "mbps": "1299",
+        "mbps": "1764, ...",
         "URI": [
             "india_-_-_-_-_-_-_"
         ]
@@ -985,10 +985,10 @@
         "link": "https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
-        "mbps": "917",
+        "mbps": "1357",
         "URI": [
             "india_-_-_-_-_-_-_"
         ]
@@ -1201,7 +1201,7 @@
         "mbps": "4318",
         "URI": [
             "india_-_-_-_-_-_-_",
-            "canada"
+            "canada_-_-_-_"
         ]
     },
     {
@@ -1253,20 +1253,6 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
-        "URI": [
-            "india_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "693883",
-        "channel": "Republic TV",
-        "link": "https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8?checkedby:iptvcat.com",
-        "country": "india",
-        "liveliness": "98",
-        "status": "offline",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -2083,7 +2069,7 @@
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
-        "mbps": "899, ...",
+        "mbps": "1490, ...",
         "URI": [
             "india_-_-_-_-_-_-_"
         ]
@@ -2377,7 +2363,7 @@
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
-        "mbps": "1299",
+        "mbps": "1764, ...",
         "URI": [
             "india_-_-_-_-_-_-_"
         ]
@@ -2500,10 +2486,10 @@
         "link": "https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
-        "mbps": "917",
+        "mbps": "1357",
         "URI": [
             "india_-_-_-_-_-_-_"
         ]
@@ -2716,7 +2702,7 @@
         "mbps": "4318",
         "URI": [
             "india_-_-_-_-_-_-_",
-            "canada"
+            "canada_-_-_-_"
         ]
     },
     {
@@ -2768,20 +2754,6 @@
         "country": "india",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
-        "URI": [
-            "india_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "693883",
-        "channel": "Republic TV",
-        "link": "https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8?checkedby:iptvcat.com",
-        "country": "india",
-        "liveliness": "98",
-        "status": "offline",
         "lastChecked": "2021-09-28T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -2903,48 +2875,47 @@
         ]
     },
     {
-        "id": "132871",
-        "channel": "Santhora TV",
-        "link": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "india",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "india_-_-_-_-_-_-_",
-            "germany"
-        ]
-    },
-    {
-        "id": "132871",
-        "channel": "Santhora TV",
-        "link": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "india",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-09-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "india_-_-_-_-_-_-_",
-            "germany"
-        ]
-    },
-    {
-        "id": "379",
-        "channel": "Prime Canada TV",
-        "link": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:iptvcat.com",
+        "id": "132927",
+        "channel": "Suvarna News 24×7",
+        "link": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8?checkedby:iptvcat.com",
         "country": "india",
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1008",
+        "URI": [
+            "india_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "132871",
+        "channel": "Santhora TV",
+        "link": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "india",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "5991",
         "URI": [
             "india_-_-_-_-_-_-_",
-            "canada"
+            "germany"
+        ]
+    },
+    {
+        "id": "132871",
+        "channel": "Santhora TV",
+        "link": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "india",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "india_-_-_-_-_-_-_",
+            "germany"
         ]
     },
     {
@@ -2989,7 +2960,22 @@
         "mbps": "4318",
         "URI": [
             "india_-_-_-_-_-_-_",
-            "canada"
+            "canada_-_-_-_"
+        ]
+    },
+    {
+        "id": "379",
+        "channel": "Prime Canada TV",
+        "link": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:iptvcat.com",
+        "country": "india",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-09-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "india_-_-_-_-_-_-_",
+            "canada_-_-_-_"
         ]
     }
 ]
