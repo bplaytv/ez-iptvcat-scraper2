@@ -6,7 +6,7 @@
         "country": "singapore",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-01T00:00:00Z",
+        "lastChecked": "2021-10-02T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -20,7 +20,35 @@
         "country": "singapore",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-01T00:00:00Z",
+        "lastChecked": "2021-10-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "singapore_-_"
+        ]
+    },
+    {
+        "id": "1337462",
+        "channel": "CNA (1080p) [Geo-blocked]",
+        "link": "https://i.mjh.nz/au/Sydney/tv.cna.m3u8?checkedby:iptvcat.com",
+        "country": "singapore",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-10-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "singapore_-_"
+        ]
+    },
+    {
+        "id": "24731",
+        "channel": "CNA HD",
+        "link": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com",
+        "country": "singapore",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-10-02T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
