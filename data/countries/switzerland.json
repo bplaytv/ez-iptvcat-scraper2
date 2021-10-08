@@ -4,9 +4,9 @@
         "channel": "3+",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1119\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -18,11 +18,53 @@
         "channel": "6+ FHD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8489?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "50",
+        "liveliness": "44",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "136",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876149",
+        "channel": "BLUE SPORT 1 (TELECLUB SPORT)",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83527?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876150",
+        "channel": "BLUE SPORT 2",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83528?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876992",
+        "channel": "BLUE ZOOM  DE FHD",
+        "link": "http://vip.vistatv.live:8080/ceray509/sHtLf79CVh/59250?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -33,8 +75,8 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/24718?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -48,7 +90,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -62,7 +104,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -76,7 +118,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -88,9 +130,9 @@
         "channel": "COMEDY CENTRAL/VIVA FHD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8491?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "38",
+        "liveliness": "53",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -104,7 +146,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -118,7 +160,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -130,9 +172,9 @@
         "channel": "DIE NEUE ZEIT",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/24302?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "67",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -144,9 +186,9 @@
         "channel": "DISCOVERY CHANNEL HD",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83550?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -158,9 +200,9 @@
         "channel": "DISNEY CHANNEL",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8492?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "60",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -174,7 +216,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -188,9 +230,37 @@
         "country": "switzerland",
         "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
-        "mbps": "2883",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875972",
+        "channel": "FOX FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5113?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876204",
+        "channel": "KANAL 9",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83536?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -202,9 +272,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -216,7 +286,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -229,10 +299,10 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/23665?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "56",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -244,7 +314,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -258,7 +328,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -272,7 +342,21 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876019",
+        "channel": "MY SPORTS 1 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2125?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -284,9 +368,23 @@
         "channel": "MY SPORTS 1 HD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8495?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "31",
+        "liveliness": "27",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876023",
+        "channel": "MY SPORTS 2 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2126?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -298,11 +396,137 @@
         "channel": "MY SPORTS 2 HD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8496?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "8",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876025",
+        "channel": "MY SPORTS 3 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2127?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876029",
+        "channel": "MY SPORTS 4 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2128?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876031",
+        "channel": "MY SPORTS 5 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2129?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876014",
+        "channel": "MY SPORTS FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/4641?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876642",
+        "channel": "Pluto TV Action Sports",
+        "link": "http://vip.vistatv.live:8080/ceray509/sHtLf79CVh/59184?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3799",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876754",
+        "channel": "Pluto TV IGN",
+        "link": "http://vip.vistatv.live:8080/ceray509/sHtLf79CVh/59204?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "1765",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875890",
+        "channel": "ROUGE TV FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/12905?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875906",
+        "channel": "RSI LA 1 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5146?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875902",
+        "channel": "RSI LA 1 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2142?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -312,9 +536,37 @@
         "channel": "RSI LA 2 FHD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8483?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "69",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "63",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875913",
+        "channel": "RSI LA 2 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5135?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875910",
+        "channel": "RSI LA 2 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2143?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -326,11 +578,25 @@
         "channel": "RSI La 1",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1123\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "136",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876397",
+        "channel": "RSI La 1",
+        "link": "http://vip.vistatv.live:8080/ceray509/sHtLf79CVh/59117?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -340,11 +606,39 @@
         "channel": "RTS Deux",
         "link": "http://strimer05.vlagor-iptv.com:80/live.ts?channelId=1126\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "75",
+        "liveliness": "60",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875886",
+        "channel": "RTS Deux FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/12060?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875882",
+        "channel": "RTS Deux HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/324?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "10149",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -354,9 +648,9 @@
         "channel": "RTS UN",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1125\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -368,11 +662,39 @@
         "channel": "RTS UN FHD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8485?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "56",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875880",
+        "channel": "RTS Un FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/12061?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875877",
+        "channel": "RTS Un HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/323?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "10149",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -384,7 +706,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -398,7 +720,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -412,7 +734,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -426,7 +748,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -440,7 +762,7 @@
         "country": "switzerland",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -452,9 +774,9 @@
         "channel": "SAT.1",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83553?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "56",
+        "liveliness": "45",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -466,9 +788,9 @@
         "channel": "SRF 1",
         "link": "http://strimer03.vlagor-iptv.com:80/live.ts?channelId=170\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "78",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -480,9 +802,37 @@
         "channel": "SRF 1 HD",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83520?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "43",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875894",
+        "channel": "SRF 1 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/613?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876062",
+        "channel": "SRF 1 HD",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83520?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -494,11 +844,25 @@
         "channel": "SRF 2",
         "link": "http://strimer03.vlagor-iptv.com:80/live.ts?channelId=171\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875898",
+        "channel": "SRF 2 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/1412?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -509,8 +873,36 @@
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8514?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "53",
+        "status": "online",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875933",
+        "channel": "SRF INFO HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2144?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876058",
+        "channel": "SRF INFO HD",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83522?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -524,9 +916,149 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876147",
+        "channel": "TELE ZURI HD",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83519?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875931",
+        "channel": "TELE ZURICH FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2749?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875993",
+        "channel": "TELECLUB CARTOON NETWORK FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5131?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875983",
+        "channel": "TELECLUB DISCOVERY CHANNEL FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5124?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875987",
+        "channel": "TELECLUB HISTORY FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5115?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875976",
+        "channel": "TELECLUB NAT GEO FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5117?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875980",
+        "channel": "TELECLUB NAT GEO WILD FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5118?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875968",
+        "channel": "TELECLUB SKY ATLANTIC FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5111?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876316",
+        "channel": "TELETICINO HD",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83541?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875925",
+        "channel": "TV 25 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2145?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -538,7 +1070,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -550,9 +1082,9 @@
         "channel": "TVM 3",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83537?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "44",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -564,9 +1096,9 @@
         "channel": "TVO HD",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83534?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "43",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -580,7 +1112,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -592,9 +1124,9 @@
         "channel": "Tele Basel",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1030\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "70",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -608,9 +1140,51 @@
         "country": "switzerland",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875956",
+        "channel": "TeleClub Action FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/587?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875997",
+        "channel": "TeleClub Blue Sport 1 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2140?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876003",
+        "channel": "TeleClub Blue Sport 2 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2141?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -620,11 +1194,39 @@
         "channel": "TeleClub Cinema",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1120\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875946",
+        "channel": "TeleClub Cinema FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/588?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875950",
+        "channel": "TeleClub Emotion FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/591?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -634,9 +1236,9 @@
         "channel": "TeleClub Sport 1",
         "link": "http://strimer06.vlagor-iptv.com:80/live.ts?channelId=1121\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "86",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -648,11 +1250,53 @@
         "channel": "TeleClub Sport 2",
         "link": "http://strimer03.vlagor-iptv.com:80/live.ts?channelId=1122\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876007",
+        "channel": "TeleClub Sports Event 1 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/35266?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876011",
+        "channel": "TeleClub Sports Event 2 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/35267?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875964",
+        "channel": "TeleClub Zoom HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2583?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -662,9 +1306,9 @@
         "channel": "TeleClub Zurih",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1029\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "70",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -678,7 +1322,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -690,9 +1334,9 @@
         "channel": "V SPORT PREMIUM",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83545?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -704,9 +1348,9 @@
         "channel": "3+",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1119\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -718,11 +1362,53 @@
         "channel": "6+ FHD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8489?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "50",
+        "liveliness": "44",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "136",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876149",
+        "channel": "BLUE SPORT 1 (TELECLUB SPORT)",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83527?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876150",
+        "channel": "BLUE SPORT 2",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83528?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876992",
+        "channel": "BLUE ZOOM  DE FHD",
+        "link": "http://vip.vistatv.live:8080/ceray509/sHtLf79CVh/59250?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -733,8 +1419,8 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/24718?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -748,7 +1434,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -762,7 +1448,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -776,7 +1462,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -788,9 +1474,9 @@
         "channel": "COMEDY CENTRAL/VIVA FHD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8491?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "38",
+        "liveliness": "53",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -804,7 +1490,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -818,7 +1504,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -830,9 +1516,9 @@
         "channel": "DIE NEUE ZEIT",
         "link": "http://pascaltv.site:8080/F12611/b199b47b/24302?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "68",
+        "liveliness": "67",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -844,9 +1530,9 @@
         "channel": "DISCOVERY CHANNEL HD",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83550?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -858,9 +1544,9 @@
         "channel": "DISNEY CHANNEL",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8492?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "60",
+        "liveliness": "56",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -874,7 +1560,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1810",
         "URI": [
@@ -888,9 +1574,37 @@
         "country": "switzerland",
         "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
-        "mbps": "2883",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875972",
+        "channel": "FOX FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5113?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876204",
+        "channel": "KANAL 9",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83536?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -902,9 +1616,9 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -916,7 +1630,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -929,10 +1643,10 @@
         "link": "http://pascaltv.site:8080/F12611/b199b47b/23665?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "56",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -944,7 +1658,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -958,7 +1672,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -972,7 +1686,21 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876019",
+        "channel": "MY SPORTS 1 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2125?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -984,9 +1712,23 @@
         "channel": "MY SPORTS 1 HD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8495?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "31",
+        "liveliness": "27",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876023",
+        "channel": "MY SPORTS 2 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2126?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -998,11 +1740,137 @@
         "channel": "MY SPORTS 2 HD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8496?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "8",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876025",
+        "channel": "MY SPORTS 3 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2127?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876029",
+        "channel": "MY SPORTS 4 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2128?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876031",
+        "channel": "MY SPORTS 5 FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2129?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876014",
+        "channel": "MY SPORTS FULL HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/4641?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876642",
+        "channel": "Pluto TV Action Sports",
+        "link": "http://vip.vistatv.live:8080/ceray509/sHtLf79CVh/59184?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3799",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876754",
+        "channel": "Pluto TV IGN",
+        "link": "http://vip.vistatv.live:8080/ceray509/sHtLf79CVh/59204?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "1765",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875890",
+        "channel": "ROUGE TV FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/12905?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875906",
+        "channel": "RSI LA 1 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5146?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875902",
+        "channel": "RSI LA 1 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2142?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1012,9 +1880,37 @@
         "channel": "RSI LA 2 FHD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8483?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "69",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "63",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875913",
+        "channel": "RSI LA 2 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5135?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875910",
+        "channel": "RSI LA 2 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2143?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1026,11 +1922,25 @@
         "channel": "RSI La 1",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1123\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
-        "format": "sd",
-        "mbps": "136",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876397",
+        "channel": "RSI La 1",
+        "link": "http://vip.vistatv.live:8080/ceray509/sHtLf79CVh/59117?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1040,11 +1950,39 @@
         "channel": "RTS Deux",
         "link": "http://strimer05.vlagor-iptv.com:80/live.ts?channelId=1126\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "75",
+        "liveliness": "60",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875886",
+        "channel": "RTS Deux FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/12060?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875882",
+        "channel": "RTS Deux HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/324?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "10149",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1054,9 +1992,9 @@
         "channel": "RTS UN",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1125\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -1068,11 +2006,39 @@
         "channel": "RTS UN FHD",
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8485?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "67",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "56",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875880",
+        "channel": "RTS Un FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/12061?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875877",
+        "channel": "RTS Un HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/323?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "10149",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1084,7 +2050,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
         "URI": [
@@ -1098,7 +2064,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1112,7 +2078,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1126,7 +2092,7 @@
         "country": "switzerland",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1140,7 +2106,7 @@
         "country": "switzerland",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1152,9 +2118,9 @@
         "channel": "SAT.1",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83553?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "56",
+        "liveliness": "45",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1166,9 +2132,9 @@
         "channel": "SRF 1",
         "link": "http://strimer03.vlagor-iptv.com:80/live.ts?channelId=170\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "78",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1180,9 +2146,37 @@
         "channel": "SRF 1 HD",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83520?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "43",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875894",
+        "channel": "SRF 1 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/613?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876062",
+        "channel": "SRF 1 HD",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83520?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1194,11 +2188,25 @@
         "channel": "SRF 2",
         "link": "http://strimer03.vlagor-iptv.com:80/live.ts?channelId=171\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875898",
+        "channel": "SRF 2 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/1412?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1209,8 +2217,36 @@
         "link": "http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8514?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "53",
+        "status": "online",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875933",
+        "channel": "SRF INFO HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2144?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876058",
+        "channel": "SRF INFO HD",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83522?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1224,9 +2260,149 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876147",
+        "channel": "TELE ZURI HD",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83519?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875931",
+        "channel": "TELE ZURICH FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2749?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875993",
+        "channel": "TELECLUB CARTOON NETWORK FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5131?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875983",
+        "channel": "TELECLUB DISCOVERY CHANNEL FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5124?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875987",
+        "channel": "TELECLUB HISTORY FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5115?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875976",
+        "channel": "TELECLUB NAT GEO FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5117?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875980",
+        "channel": "TELECLUB NAT GEO WILD FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5118?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875968",
+        "channel": "TELECLUB SKY ATLANTIC FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/5111?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876316",
+        "channel": "TELETICINO HD",
+        "link": "http://ruzgariptv.us:8000/mahmutali/5334711453/83541?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875925",
+        "channel": "TV 25 HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2145?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1238,7 +2414,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1250,9 +2426,9 @@
         "channel": "TVM 3",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83537?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "44",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1264,9 +2440,9 @@
         "channel": "TVO HD",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83534?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "43",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "33",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1280,7 +2456,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1292,9 +2468,9 @@
         "channel": "Tele Basel",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1030\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "70",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1308,9 +2484,51 @@
         "country": "switzerland",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875956",
+        "channel": "TeleClub Action FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/587?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875997",
+        "channel": "TeleClub Blue Sport 1 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2140?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876003",
+        "channel": "TeleClub Blue Sport 2 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2141?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1320,11 +2538,39 @@
         "channel": "TeleClub Cinema",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1120\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "82",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875946",
+        "channel": "TeleClub Cinema FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/588?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875950",
+        "channel": "TeleClub Emotion FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/591?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1334,9 +2580,9 @@
         "channel": "TeleClub Sport 1",
         "link": "http://strimer06.vlagor-iptv.com:80/live.ts?channelId=1121\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "86",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1348,11 +2594,53 @@
         "channel": "TeleClub Sport 2",
         "link": "http://strimer03.vlagor-iptv.com:80/live.ts?channelId=1122\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876007",
+        "channel": "TeleClub Sports Event 1 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/35266?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1876011",
+        "channel": "TeleClub Sports Event 2 FHD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/35267?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "switzerland_-_-_"
+        ]
+    },
+    {
+        "id": "1875964",
+        "channel": "TeleClub Zoom HD",
+        "link": "http://theking365tv.me:2103/NTNRY/aeF3wWsK/2583?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "switzerland_-_-_"
         ]
@@ -1362,9 +2650,9 @@
         "channel": "TeleClub Zurih",
         "link": "http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1029\u0026deviceUser=rasim\u0026devicePass=chaiiiirrrr\u0026uid=2582\u0026checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "88",
-        "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "liveliness": "70",
+        "status": "offline",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1378,7 +2666,7 @@
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1390,9 +2678,9 @@
         "channel": "V SPORT PREMIUM",
         "link": "http://satlok.xyz:8000/NEZZ18/NEZZ1805/83545?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2021-10-07T00:00:00Z",
+        "lastChecked": "2021-10-08T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
