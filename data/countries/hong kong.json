@@ -1,26 +1,12 @@
 [
     {
-        "id": "1032",
-        "channel": "FTV News, 民视新聞",
-        "link": "http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:iptvcat.com",
-        "country": "hong kong",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2021-10-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "hong_kong_-_-_-_"
-        ]
-    },
-    {
         "id": "1037",
         "channel": "澳视葡文",
         "link": "http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8?checkedby:iptvcat.com",
         "country": "hong kong",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-10-25T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-10-27T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -34,7 +20,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-26T00:00:00Z",
+        "lastChecked": "2021-10-27T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -48,23 +34,9 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "offline",
-        "lastChecked": "2021-10-25T00:00:00Z",
+        "lastChecked": "2021-10-27T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
-        "URI": [
-            "hong_kong_-_-_-_"
-        ]
-    },
-    {
-        "id": "1032",
-        "channel": "FTV News, 民视新聞",
-        "link": "http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:iptvcat.com",
-        "country": "hong kong",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2021-10-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
         "URI": [
             "hong_kong_-_-_-_"
         ]
@@ -75,8 +47,8 @@
         "link": "http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8?checkedby:iptvcat.com",
         "country": "hong kong",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-10-25T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-10-27T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -90,7 +62,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-10-26T00:00:00Z",
+        "lastChecked": "2021-10-27T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -104,7 +76,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "offline",
-        "lastChecked": "2021-10-25T00:00:00Z",
+        "lastChecked": "2021-10-27T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
