@@ -4,9 +4,9 @@
         "channel": "111tv",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122714?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -46,9 +46,9 @@
         "channel": "Alto Adige TV",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122708?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1699",
         "URI": [
@@ -88,9 +88,9 @@
         "channel": "Boing",
         "link": "http://103.194.169.171:8282/IT:BOING/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -102,9 +102,9 @@
         "channel": "CANALE 7",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122689?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -118,7 +118,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -154,13 +154,13 @@
         ]
     },
     {
-        "id": "55883",
-        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com",
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "3883",
         "URI": [
@@ -174,1381 +174,9 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "3883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175322",
-        "channel": "Canale 5",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122690?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1583",
-        "channel": "Canale 7",
-        "link": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1582",
-        "channel": "Canale 7",
-        "link": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1584",
-        "channel": "Canale 8",
-        "link": "http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1588",
-        "channel": "Carina TV",
-        "link": "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1587",
-        "channel": "Carina TV",
-        "link": "http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124636",
-        "channel": "Cartoonito",
-        "link": "http://103.194.169.171:8282/IT:Cartoonito_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124555",
-        "channel": "Cielo HD",
-        "link": "http://103.194.169.171:8282/IT:CIELOHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175421",
-        "channel": "DISNEY JR",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122664?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124610",
-        "channel": "DMAX HD",
-        "link": "http://103.194.169.171:8282/IT:Dmax_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1592",
-        "channel": "DeeJay TV",
-        "link": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1591",
-        "channel": "DeeJay TV",
-        "link": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "132967",
-        "channel": "Deejay TV",
-        "link": "https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175410",
-        "channel": "Discovery Channel",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122669?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "13",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1226",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175417",
-        "channel": "Discovery Science",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122666?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175419",
-        "channel": "Discovery Travel \u0026 Living",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122665?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175422",
-        "channel": "Dmax",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122663?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175451",
-        "channel": "Eagle Cinema Prima Visione",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122655?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "5041",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1600",
-        "channel": "Euro Indie Music Chart TV",
-        "link": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1308",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124620",
-        "channel": "Euronews",
-        "link": "http://103.194.169.171:8282/IT:Euronews/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175685",
-        "channel": "FOOD NETWORK",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122629?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124656",
-        "channel": "Focus",
-        "link": "http://103.194.169.171:8282/IT:Focus/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1136535",
-        "channel": "Food Network",
-        "link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124630",
-        "channel": "Food Network HD",
-        "link": "http://103.194.169.171:8282/IT_FOODNETWORK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1136536",
-        "channel": "Giallo - github.com/Free-IPTV",
-        "link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124628",
-        "channel": "Giallo HD",
-        "link": "http://103.194.169.171:8282/IT:GIALLO/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1606",
-        "channel": "Icaro TV",
-        "link": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175700",
-        "channel": "Inter Channel",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122617?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124570",
-        "channel": "Italia 1 HD (HI)",
-        "link": "http://103.194.169.171:8282/IT:italia1_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "693911",
-        "channel": "Italia 2",
-        "link": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1607",
-        "channel": "Italia 2 TV",
-        "link": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175711",
-        "channel": "K2",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122610?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124648",
-        "channel": "K2",
-        "link": "http://103.194.169.171:8282/IT:K2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175714",
-        "channel": "LA 7",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122608?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124590",
-        "channel": "LA5",
-        "link": "http://103.194.169.171:8282/IT:LA5_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124614",
-        "channel": "LA7D",
-        "link": "http://103.194.169.171:8282/IT_LA7D/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124612",
-        "channel": "La7 HD",
-        "link": "http://103.194.169.171:8282/IT:LA7D/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124604",
-        "channel": "MEDIASET DUE",
-        "link": "http://103.194.169.171:8282/IT_MEDIASET_DUE/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175756",
-        "channel": "MTV Hits",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122594?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "13",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124606",
-        "channel": "Mediaset Extra",
-        "link": "http://103.194.169.171:8282/IT_MEDIASET_EXTRA/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124592",
-        "channel": "Mediaset Iris",
-        "link": "http://103.194.169.171:8282/IT:Mediaset_Iris_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175749",
-        "channel": "Motor Trend",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122596?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "13",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124655",
-        "channel": "Motortrend HD",
-        "link": "http://103.194.169.171:8282/IT:MOTORTTREND_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175760",
-        "channel": "NAT GEO",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122592?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "13",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124626",
-        "channel": "Novoe HD",
-        "link": "http://103.194.169.171:8282/IT:NovoeHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1621",
-        "channel": "Orler TV",
-        "link": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1738",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175805",
-        "channel": "PREMIUM STORIES",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122567?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124646",
-        "channel": "Paramount Chanel",
-        "link": "http://103.194.169.171:8282/IT_PARAMOUNT_NETWORK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175783",
-        "channel": "Pesca e Caccia",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122583?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175784",
-        "channel": "Premium Action",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122582?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175785",
-        "channel": "Premium Cinema + 24",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122579?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175786",
-        "channel": "Premium Cinema 1",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122578?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175797",
-        "channel": "Premium Comedy",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122571?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175804",
-        "channel": "Premium Energy",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122569?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175811",
-        "channel": "Primafila 3",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122562?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "5224",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175822",
-        "channel": "Primafila 9",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122557?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3485",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "693915",
-        "channel": "RADIO FRECCIA",
-        "link": "https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2244",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124669",
-        "channel": "RADIO FRECCIA HD",
-        "link": "http://103.194.169.171:8282/IT_RADIOFRECCIA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124671",
-        "channel": "RADIO ITALY TV HD",
-        "link": "http://103.194.169.171:8282/IT_RADIO_ITALY_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124672",
-        "channel": "RADIO MONTECARLO",
-        "link": "http://103.194.169.171:8282/IT_RADIO_MONTECARLO/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124670",
-        "channel": "RADIO NORBA",
-        "link": "http://103.194.169.171:8282/IT_RADIONORBA/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124674",
-        "channel": "RADIO RADIO TV",
-        "link": "http://103.194.169.171:8282/IT_RADIO_RADIO_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124675",
-        "channel": "RADIO ZETA HD",
-        "link": "http://103.194.169.171:8282/IT_RADIO_ZETA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175073",
-        "channel": "RAI 1",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122734?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175074",
-        "channel": "RAI 2",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122733?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175075",
-        "channel": "RAI 3",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122732?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175086",
-        "channel": "RAI Italia",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122728?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175100",
-        "channel": "RAI SPORT 1",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122722?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175130",
-        "channel": "RDS Social TV",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122717?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "132983",
-        "channel": "RDS Social TV",
-        "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1666",
-        "channel": "RDS Social TV",
-        "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175146",
-        "channel": "RETE 4",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122715?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175845",
-        "channel": "RSI La 1",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122538?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "693919",
-        "channel": "RTL 102.5 BEST",
-        "link": "https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2244, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124677",
-        "channel": "RTL 102.5 NEWS",
-        "link": "http://103.194.169.171:8282/IT_RTL1025_NEWS/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "8378",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124676",
-        "channel": "RTL102.5 HD",
-        "link": "http://103.194.169.171:8282/IT_RTL1025_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1678",
-        "channel": "RTP",
-        "link": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2063",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175856",
-        "channel": "RTTR TV",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122535?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1633",
-        "channel": "Radio 51",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "693913",
-        "channel": "Radio 51 Lombardia",
-        "link": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1634",
-        "channel": "Radio Birikina TV",
-        "link": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "132972",
-        "channel": "Radio Capital TV",
-        "link": "https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1638",
-        "channel": "Radio Capital TV",
-        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1637",
-        "channel": "Radio Capital TV",
-        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "421",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1641",
-        "channel": "Radio Capital TV",
-        "link": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1639",
-        "channel": "Radio Capital TV",
-        "link": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175148",
-        "channel": "111tv",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122714?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124574",
-        "channel": "20 Mediaset Italia HD",
-        "link": "http://103.194.169.171:8282/IT:20Mediaset_Italia_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1569",
-        "channel": "51 Radio TV",
-        "link": "http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175214",
-        "channel": "Alto Adige TV",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122708?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1574",
-        "channel": "Aurora Arte",
-        "link": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1575",
-        "channel": "Azzurra TV",
-        "link": "https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1699",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124632",
-        "channel": "Boing",
-        "link": "http://103.194.169.171:8282/IT:BOING/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2175323",
-        "channel": "CANALE 7",
-        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122689?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "14",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124661",
-        "channel": "CINE34",
-        "link": "http://103.194.169.171:8282/IT_CINE34/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1576",
-        "channel": "CafèTV24",
-        "link": "http://srv3.meway.tv:1957/cafe/live/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124598",
-        "channel": "Canal 5 HD",
-        "link": "http://103.194.169.171:8282/IT:Canal_5_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
         "URI": [
             "italy_-_-_-"
         ]
@@ -1559,36 +187,8 @@
         "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "132966",
-        "channel": "Canale 2 Altamura",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3883",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "3883",
         "URI": [
@@ -1600,25 +200,11 @@
         "channel": "Canale 5",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122690?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1583",
-        "channel": "Canale 7",
-        "link": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
         "URI": [
             "italy_-_-_-"
         ]
@@ -1630,7 +216,21 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1583",
+        "channel": "Canale 7",
+        "link": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -1644,7 +244,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -1658,7 +258,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -1672,7 +272,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -1686,7 +286,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1698,9 +298,9 @@
         "channel": "Cielo HD",
         "link": "http://103.194.169.171:8282/IT:CIELOHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -1712,9 +312,9 @@
         "channel": "DISNEY JR",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122664?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1728,7 +328,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -1742,7 +342,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1756,7 +356,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1770,7 +370,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1782,9 +382,9 @@
         "channel": "Discovery Channel",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122669?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1226",
         "URI": [
@@ -1796,9 +396,9 @@
         "channel": "Discovery Science",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122666?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1810,9 +410,9 @@
         "channel": "Discovery Travel \u0026 Living",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122665?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1824,9 +424,9 @@
         "channel": "Dmax",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122663?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1838,9 +438,9 @@
         "channel": "Eagle Cinema Prima Visione",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122655?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "5041",
         "URI": [
@@ -1854,7 +454,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1308",
         "URI": [
@@ -1866,9 +466,9 @@
         "channel": "Euronews",
         "link": "http://103.194.169.171:8282/IT:Euronews/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1880,9 +480,9 @@
         "channel": "FOOD NETWORK",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122629?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1896,7 +496,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1910,7 +510,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1924,7 +524,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -1938,7 +538,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1952,7 +552,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -1966,7 +566,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1978,9 +578,9 @@
         "channel": "Inter Channel",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122617?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1992,9 +592,9 @@
         "channel": "Italia 1 HD (HI)",
         "link": "http://103.194.169.171:8282/IT:italia1_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -2008,7 +608,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -2022,7 +622,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -2034,9 +634,9 @@
         "channel": "K2",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122610?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2048,9 +648,9 @@
         "channel": "K2",
         "link": "http://103.194.169.171:8282/IT:K2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2062,9 +662,9 @@
         "channel": "LA 7",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122608?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2078,7 +678,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2090,9 +690,9 @@
         "channel": "LA7D",
         "link": "http://103.194.169.171:8282/IT_LA7D/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2104,9 +704,9 @@
         "channel": "La7 HD",
         "link": "http://103.194.169.171:8282/IT:LA7D/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2120,7 +720,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2132,9 +732,9 @@
         "channel": "MTV Hits",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122594?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2148,7 +748,7 @@
         "country": "italy",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2162,7 +762,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2174,9 +774,9 @@
         "channel": "Motor Trend",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122596?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2190,7 +790,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -2202,9 +802,9 @@
         "channel": "NAT GEO",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122592?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2218,7 +818,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -2232,7 +832,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1738",
         "URI": [
@@ -2244,9 +844,9 @@
         "channel": "PREMIUM STORIES",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122567?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2258,9 +858,9 @@
         "channel": "Paramount Chanel",
         "link": "http://103.194.169.171:8282/IT_PARAMOUNT_NETWORK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2272,9 +872,9 @@
         "channel": "Pesca e Caccia",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122583?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2286,9 +886,9 @@
         "channel": "Premium Action",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122582?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2300,9 +900,9 @@
         "channel": "Premium Cinema + 24",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122579?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2314,9 +914,9 @@
         "channel": "Premium Cinema 1",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122578?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2328,9 +928,9 @@
         "channel": "Premium Comedy",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122571?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -2342,9 +942,9 @@
         "channel": "Premium Energy",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122569?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2356,9 +956,9 @@
         "channel": "Primafila 3",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122562?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "5224",
         "URI": [
@@ -2370,9 +970,9 @@
         "channel": "Primafila 9",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122557?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3485",
         "URI": [
@@ -2385,8 +985,8 @@
         "link": "https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2244",
         "URI": [
@@ -2400,7 +1000,7 @@
         "country": "italy",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2414,7 +1014,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -2426,9 +1026,9 @@
         "channel": "RADIO MONTECARLO",
         "link": "http://103.194.169.171:8282/IT_RADIO_MONTECARLO/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2442,7 +1042,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -2454,9 +1054,9 @@
         "channel": "RADIO RADIO TV",
         "link": "http://103.194.169.171:8282/IT_RADIO_RADIO_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2468,9 +1068,9 @@
         "channel": "RADIO ZETA HD",
         "link": "http://103.194.169.171:8282/IT_RADIO_ZETA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2482,9 +1082,9 @@
         "channel": "RAI 1",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122734?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2496,9 +1096,9 @@
         "channel": "RAI 2",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122733?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2510,9 +1110,9 @@
         "channel": "RAI 3",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122732?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -2524,9 +1124,9 @@
         "channel": "RAI Italia",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122728?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "3429",
         "URI": [
@@ -2538,9 +1138,9 @@
         "channel": "RAI SPORT 1",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122722?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2552,9 +1152,9 @@
         "channel": "RDS Social TV",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122717?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2568,7 +1168,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -2582,7 +1182,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2594,9 +1194,9 @@
         "channel": "RETE 4",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122715?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -2608,9 +1208,9 @@
         "channel": "RSI La 1",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122538?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2624,7 +1224,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2244, ...",
         "URI": [
@@ -2638,7 +1238,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "8378",
         "URI": [
@@ -2652,7 +1252,7 @@
         "country": "italy",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2666,7 +1266,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2063",
         "URI": [
@@ -2678,9 +1278,9 @@
         "channel": "RTTR TV",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122535?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -2694,7 +1294,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -2708,7 +1308,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -2722,51 +1322,9 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "132972",
-        "channel": "Radio Capital TV",
-        "link": "https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1638",
-        "channel": "Radio Capital TV",
-        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1637",
-        "channel": "Radio Capital TV",
-        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "421",
         "URI": [
             "italy_-_-_-"
         ]
@@ -2778,23 +1336,9 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1639",
-        "channel": "Radio Capital TV",
-        "link": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
         "URI": [
             "italy_-_-_-"
         ]
@@ -2806,9 +1350,1465 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "132972",
+        "channel": "Radio Capital TV",
+        "link": "https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1639",
+        "channel": "Radio Capital TV",
+        "link": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1638",
+        "channel": "Radio Capital TV",
+        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175148",
+        "channel": "111tv",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122714?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124574",
+        "channel": "20 Mediaset Italia HD",
+        "link": "http://103.194.169.171:8282/IT:20Mediaset_Italia_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1569",
+        "channel": "51 Radio TV",
+        "link": "http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175214",
+        "channel": "Alto Adige TV",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122708?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1574",
+        "channel": "Aurora Arte",
+        "link": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1575",
+        "channel": "Azzurra TV",
+        "link": "https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1699",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124632",
+        "channel": "Boing",
+        "link": "http://103.194.169.171:8282/IT:BOING/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175323",
+        "channel": "CANALE 7",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122689?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124661",
+        "channel": "CINE34",
+        "link": "http://103.194.169.171:8282/IT_CINE34/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1576",
+        "channel": "CafèTV24",
+        "link": "http://srv3.meway.tv:1957/cafe/live/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124598",
+        "channel": "Canal 5 HD",
+        "link": "http://103.194.169.171:8282/IT:Canal_5_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "3883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "132966",
+        "channel": "Canale 2 Altamura",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "3883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "55883",
+        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "3883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175322",
+        "channel": "Canale 5",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122690?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1582",
+        "channel": "Canale 7",
+        "link": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1583",
+        "channel": "Canale 7",
+        "link": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1584",
+        "channel": "Canale 8",
+        "link": "http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1588",
+        "channel": "Carina TV",
+        "link": "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1587",
+        "channel": "Carina TV",
+        "link": "http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124636",
+        "channel": "Cartoonito",
+        "link": "http://103.194.169.171:8282/IT:Cartoonito_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124555",
+        "channel": "Cielo HD",
+        "link": "http://103.194.169.171:8282/IT:CIELOHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175421",
+        "channel": "DISNEY JR",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122664?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124610",
+        "channel": "DMAX HD",
+        "link": "http://103.194.169.171:8282/IT:Dmax_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1592",
+        "channel": "DeeJay TV",
+        "link": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1591",
+        "channel": "DeeJay TV",
+        "link": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "132967",
+        "channel": "Deejay TV",
+        "link": "https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175410",
+        "channel": "Discovery Channel",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122669?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1226",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175417",
+        "channel": "Discovery Science",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122666?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175419",
+        "channel": "Discovery Travel \u0026 Living",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122665?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175422",
+        "channel": "Dmax",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122663?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175451",
+        "channel": "Eagle Cinema Prima Visione",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122655?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "5041",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1600",
+        "channel": "Euro Indie Music Chart TV",
+        "link": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1308",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124620",
+        "channel": "Euronews",
+        "link": "http://103.194.169.171:8282/IT:Euronews/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175685",
+        "channel": "FOOD NETWORK",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122629?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124656",
+        "channel": "Focus",
+        "link": "http://103.194.169.171:8282/IT:Focus/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1136535",
+        "channel": "Food Network",
+        "link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124630",
+        "channel": "Food Network HD",
+        "link": "http://103.194.169.171:8282/IT_FOODNETWORK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1136536",
+        "channel": "Giallo - github.com/Free-IPTV",
+        "link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124628",
+        "channel": "Giallo HD",
+        "link": "http://103.194.169.171:8282/IT:GIALLO/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1606",
+        "channel": "Icaro TV",
+        "link": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175700",
+        "channel": "Inter Channel",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122617?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124570",
+        "channel": "Italia 1 HD (HI)",
+        "link": "http://103.194.169.171:8282/IT:italia1_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "693911",
+        "channel": "Italia 2",
+        "link": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1607",
+        "channel": "Italia 2 TV",
+        "link": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175711",
+        "channel": "K2",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122610?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124648",
+        "channel": "K2",
+        "link": "http://103.194.169.171:8282/IT:K2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175714",
+        "channel": "LA 7",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122608?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124590",
+        "channel": "LA5",
+        "link": "http://103.194.169.171:8282/IT:LA5_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124614",
+        "channel": "LA7D",
+        "link": "http://103.194.169.171:8282/IT_LA7D/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124612",
+        "channel": "La7 HD",
+        "link": "http://103.194.169.171:8282/IT:LA7D/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124604",
+        "channel": "MEDIASET DUE",
+        "link": "http://103.194.169.171:8282/IT_MEDIASET_DUE/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175756",
+        "channel": "MTV Hits",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122594?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124606",
+        "channel": "Mediaset Extra",
+        "link": "http://103.194.169.171:8282/IT_MEDIASET_EXTRA/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124592",
+        "channel": "Mediaset Iris",
+        "link": "http://103.194.169.171:8282/IT:Mediaset_Iris_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175749",
+        "channel": "Motor Trend",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122596?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124655",
+        "channel": "Motortrend HD",
+        "link": "http://103.194.169.171:8282/IT:MOTORTTREND_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175760",
+        "channel": "NAT GEO",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122592?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124626",
+        "channel": "Novoe HD",
+        "link": "http://103.194.169.171:8282/IT:NovoeHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1621",
+        "channel": "Orler TV",
+        "link": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1738",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175805",
+        "channel": "PREMIUM STORIES",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122567?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124646",
+        "channel": "Paramount Chanel",
+        "link": "http://103.194.169.171:8282/IT_PARAMOUNT_NETWORK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175783",
+        "channel": "Pesca e Caccia",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122583?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175784",
+        "channel": "Premium Action",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122582?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175785",
+        "channel": "Premium Cinema + 24",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122579?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175786",
+        "channel": "Premium Cinema 1",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122578?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175797",
+        "channel": "Premium Comedy",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122571?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175804",
+        "channel": "Premium Energy",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122569?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175811",
+        "channel": "Primafila 3",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122562?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "5224",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175822",
+        "channel": "Primafila 9",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122557?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3485",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "693915",
+        "channel": "RADIO FRECCIA",
+        "link": "https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2244",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124669",
+        "channel": "RADIO FRECCIA HD",
+        "link": "http://103.194.169.171:8282/IT_RADIOFRECCIA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124671",
+        "channel": "RADIO ITALY TV HD",
+        "link": "http://103.194.169.171:8282/IT_RADIO_ITALY_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124672",
+        "channel": "RADIO MONTECARLO",
+        "link": "http://103.194.169.171:8282/IT_RADIO_MONTECARLO/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124670",
+        "channel": "RADIO NORBA",
+        "link": "http://103.194.169.171:8282/IT_RADIONORBA/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124674",
+        "channel": "RADIO RADIO TV",
+        "link": "http://103.194.169.171:8282/IT_RADIO_RADIO_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124675",
+        "channel": "RADIO ZETA HD",
+        "link": "http://103.194.169.171:8282/IT_RADIO_ZETA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175073",
+        "channel": "RAI 1",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122734?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175074",
+        "channel": "RAI 2",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122733?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175075",
+        "channel": "RAI 3",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122732?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175086",
+        "channel": "RAI Italia",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122728?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "3429",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175100",
+        "channel": "RAI SPORT 1",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122722?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175130",
+        "channel": "RDS Social TV",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122717?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "132983",
+        "channel": "RDS Social TV",
+        "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1666",
+        "channel": "RDS Social TV",
+        "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175146",
+        "channel": "RETE 4",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122715?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175845",
+        "channel": "RSI La 1",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122538?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "693919",
+        "channel": "RTL 102.5 BEST",
+        "link": "https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2244, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124677",
+        "channel": "RTL 102.5 NEWS",
+        "link": "http://103.194.169.171:8282/IT_RTL1025_NEWS/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "8378",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2124676",
+        "channel": "RTL102.5 HD",
+        "link": "http://103.194.169.171:8282/IT_RTL1025_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1678",
+        "channel": "RTP",
+        "link": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2063",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "2175856",
+        "channel": "RTTR TV",
+        "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122535?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "9",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1633",
+        "channel": "Radio 51",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "693913",
+        "channel": "Radio 51 Lombardia",
+        "link": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1634",
+        "channel": "Radio Birikina TV",
+        "link": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1641",
+        "channel": "Radio Capital TV",
+        "link": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1640",
+        "channel": "Radio Capital TV",
+        "link": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "132972",
+        "channel": "Radio Capital TV",
+        "link": "https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1639",
+        "channel": "Radio Capital TV",
+        "link": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1638",
+        "channel": "Radio Capital TV",
+        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1637",
+        "channel": "Radio Capital TV",
+        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "421",
         "URI": [
             "italy_-_-_-"
         ]
@@ -2820,7 +2820,7 @@
         "country": "italy",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "10439",
         "URI": [
@@ -2834,7 +2834,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2848,7 +2848,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2862,7 +2862,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2876,7 +2876,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2888,9 +2888,9 @@
         "channel": "Rai Gulp",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122729?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2898,13 +2898,13 @@
         ]
     },
     {
-        "id": "132979",
+        "id": "1661",
         "channel": "Rai News 24",
-        "link": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001\u0026checkedby:iptvcat.com",
+        "link": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001\u0026checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -2918,7 +2918,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2926,29 +2926,15 @@
         ]
     },
     {
-        "id": "1661",
+        "id": "132979",
         "channel": "Rai News 24",
-        "link": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001\u0026checkedby:iptvcat.com",
+        "link": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001\u0026checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "2124554",
-        "channel": "Rai Premium",
-        "link": "http://103.194.169.171:8282/IT:Rai_Premium_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "italy_-_-_-"
         ]
@@ -2958,9 +2944,9 @@
         "channel": "Rai Scuola",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122723?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -2972,9 +2958,9 @@
         "channel": "Rai Sport plus HD",
         "link": "http://103.194.169.171:8282/IT:Rai_Sport_plus_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -2986,9 +2972,9 @@
         "channel": "Rai Sport+",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122720?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3000,9 +2986,9 @@
         "channel": "Rai Yoyo HD",
         "link": "http://103.194.169.171:8282/IT:RAIYOYO/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3014,9 +3000,9 @@
         "channel": "Rai premium",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122724?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "136",
         "URI": [
@@ -3030,7 +3016,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3042,9 +3028,9 @@
         "channel": "Real Time HD",
         "link": "http://103.194.169.171:8282/IT:Realtime_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -3058,7 +3044,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -3072,7 +3058,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -3086,7 +3072,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -3098,9 +3084,9 @@
         "channel": "Roma TV Sport",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122539?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3112,9 +3098,9 @@
         "channel": "SKY CINEMA COMEDY",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122520?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3126,9 +3112,9 @@
         "channel": "SKY CINEMA DRAMA",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122519?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "6473",
         "URI": [
@@ -3140,9 +3126,9 @@
         "channel": "SKY PRIMAFILA 8",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122503?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3482",
         "URI": [
@@ -3154,9 +3140,9 @@
         "channel": "SKY UNO",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122474?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3170,7 +3156,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -3182,9 +3168,9 @@
         "channel": "SPORT ITALIA +24",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122470?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3198,7 +3184,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3210,9 +3196,9 @@
         "channel": "Sky Atlantic",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122529?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3224,9 +3210,9 @@
         "channel": "Sky Cinema Classic",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122522?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -3238,9 +3224,9 @@
         "channel": "Sky Cinema Family",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122517?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3066",
         "URI": [
@@ -3252,9 +3238,9 @@
         "channel": "Sky Cinema Uno",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122513?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -3266,9 +3252,9 @@
         "channel": "Sky News",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122511?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -3280,9 +3266,9 @@
         "channel": "Sky PrimaFila 2",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122509?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3294,25 +3280,11 @@
         "channel": "Sky Sport NBA",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122480?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "132989",
-        "channel": "Sophia TV",
-        "link": "https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322",
         "URI": [
             "italy_-_-_-"
         ]
@@ -3324,9 +3296,23 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "132989",
+        "channel": "Sophia TV",
+        "link": "https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
         "URI": [
             "italy_-_-_-"
         ]
@@ -3336,9 +3322,9 @@
         "channel": "Sport Italia",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122471?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3350,9 +3336,9 @@
         "channel": "Studio 100",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122469?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -3366,7 +3352,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -3380,7 +3366,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3392,9 +3378,9 @@
         "channel": "TGcom24",
         "link": "http://103.194.169.171:8282/IT_TGCOM24/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -3406,9 +3392,9 @@
         "channel": "TREND TV HD",
         "link": "http://103.194.169.171:8282/IT_TREND_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -3422,7 +3408,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -3436,7 +3422,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -3450,7 +3436,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "4481",
         "URI": [
@@ -3464,7 +3450,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "673",
         "URI": [
@@ -3478,7 +3464,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "565",
         "URI": [
@@ -3492,7 +3478,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -3506,7 +3492,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -3520,7 +3506,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2369",
         "URI": [
@@ -3534,7 +3520,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -3548,23 +3534,9 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1708",
-        "channel": "TeleQuattro",
-        "link": "http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
         "URI": [
             "italy_-_-_-"
         ]
@@ -3576,7 +3548,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -3584,15 +3556,15 @@
         ]
     },
     {
-        "id": "1714",
-        "channel": "TeleVideo Agrigento",
-        "link": "https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?checkedby:iptvcat.com",
+        "id": "1708",
+        "channel": "TeleQuattro",
+        "link": "http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
-        "mbps": "1500",
+        "mbps": "2851",
         "URI": [
             "italy_-_-_-"
         ]
@@ -3604,7 +3576,21 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1500",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1714",
+        "channel": "TeleVideo Agrigento",
+        "link": "https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1500",
         "URI": [
@@ -3618,7 +3604,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -3632,7 +3618,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3482",
         "URI": [
@@ -3646,7 +3632,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -3658,9 +3644,9 @@
         "channel": "Top Crime HD",
         "link": "http://103.194.169.171:8282/IT:TOP_CRIME_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -3674,7 +3660,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -3688,7 +3674,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "5287",
         "URI": [
@@ -3702,7 +3688,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3716,7 +3702,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3730,9 +3716,9 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5036",
         "URI": [
             "italy_-_-_-"
         ]
@@ -3744,7 +3730,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1237",
         "URI": [
@@ -3758,7 +3744,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1237",
         "URI": [
@@ -3772,9 +3758,23 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1162543",
+        "channel": "m2o TV",
+        "link": "https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "italy_-_-_-"
         ]
@@ -3786,7 +3786,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3800,23 +3800,9 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1162543",
-        "channel": "m2o TV",
-        "link": "https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
         "URI": [
             "italy_-_-_-"
         ]
@@ -3828,7 +3814,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -3840,9 +3826,9 @@
         "channel": "111tv",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122714?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3856,7 +3842,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -3870,7 +3856,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -3882,9 +3868,9 @@
         "channel": "Alto Adige TV",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122708?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3898,7 +3884,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -3912,7 +3898,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1699",
         "URI": [
@@ -3924,9 +3910,9 @@
         "channel": "Boing",
         "link": "http://103.194.169.171:8282/IT:BOING/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -3938,9 +3924,9 @@
         "channel": "CANALE 7",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122689?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -3954,7 +3940,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -3968,7 +3954,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -3982,7 +3968,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -3990,13 +3976,13 @@
         ]
     },
     {
-        "id": "55883",
-        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com",
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "3883",
         "URI": [
@@ -4010,7 +3996,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "3883",
         "URI": [
@@ -4018,13 +4004,13 @@
         ]
     },
     {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com",
+        "id": "55883",
+        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
+        "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "3883",
         "URI": [
@@ -4036,25 +4022,11 @@
         "channel": "Canale 5",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122690?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1583",
-        "channel": "Canale 7",
-        "link": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
         "URI": [
             "italy_-_-_-"
         ]
@@ -4066,7 +4038,21 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1583",
+        "channel": "Canale 7",
+        "link": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4080,7 +4066,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4094,7 +4080,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4108,7 +4094,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4122,7 +4108,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -4134,9 +4120,9 @@
         "channel": "Cielo HD",
         "link": "http://103.194.169.171:8282/IT:CIELOHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -4148,9 +4134,9 @@
         "channel": "DISNEY JR",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122664?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -4164,7 +4150,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -4178,7 +4164,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -4192,7 +4178,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4206,7 +4192,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -4218,9 +4204,9 @@
         "channel": "Discovery Channel",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122669?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1226",
         "URI": [
@@ -4232,9 +4218,9 @@
         "channel": "Discovery Science",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122666?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4246,9 +4232,9 @@
         "channel": "Discovery Travel \u0026 Living",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122665?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4260,9 +4246,9 @@
         "channel": "Dmax",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122663?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4274,9 +4260,9 @@
         "channel": "Eagle Cinema Prima Visione",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122655?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "5041",
         "URI": [
@@ -4290,7 +4276,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1308",
         "URI": [
@@ -4302,9 +4288,9 @@
         "channel": "Euronews",
         "link": "http://103.194.169.171:8282/IT:Euronews/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -4316,9 +4302,9 @@
         "channel": "FOOD NETWORK",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122629?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4332,7 +4318,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -4346,7 +4332,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4360,7 +4346,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -4374,7 +4360,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4388,7 +4374,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -4402,7 +4388,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4414,9 +4400,9 @@
         "channel": "Inter Channel",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122617?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4428,9 +4414,9 @@
         "channel": "Italia 1 HD (HI)",
         "link": "http://103.194.169.171:8282/IT:italia1_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -4444,7 +4430,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4458,7 +4444,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4470,9 +4456,9 @@
         "channel": "K2",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122610?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4484,9 +4470,9 @@
         "channel": "K2",
         "link": "http://103.194.169.171:8282/IT:K2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4498,9 +4484,9 @@
         "channel": "LA 7",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122608?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4514,7 +4500,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -4526,9 +4512,9 @@
         "channel": "LA7D",
         "link": "http://103.194.169.171:8282/IT_LA7D/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -4540,9 +4526,9 @@
         "channel": "La7 HD",
         "link": "http://103.194.169.171:8282/IT:LA7D/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4556,7 +4542,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -4568,9 +4554,9 @@
         "channel": "MTV Hits",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122594?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4584,7 +4570,7 @@
         "country": "italy",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -4598,7 +4584,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -4610,9 +4596,9 @@
         "channel": "Motor Trend",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122596?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4626,7 +4612,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -4638,9 +4624,9 @@
         "channel": "NAT GEO",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122592?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "13",
+        "liveliness": "8",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4654,7 +4640,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
@@ -4668,7 +4654,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1738",
         "URI": [
@@ -4680,9 +4666,9 @@
         "channel": "PREMIUM STORIES",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122567?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4694,9 +4680,9 @@
         "channel": "Paramount Chanel",
         "link": "http://103.194.169.171:8282/IT_PARAMOUNT_NETWORK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4708,9 +4694,9 @@
         "channel": "Pesca e Caccia",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122583?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4722,9 +4708,9 @@
         "channel": "Premium Action",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122582?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4736,9 +4722,9 @@
         "channel": "Premium Cinema + 24",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122579?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4750,9 +4736,9 @@
         "channel": "Premium Cinema 1",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122578?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4764,9 +4750,9 @@
         "channel": "Premium Comedy",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122571?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -4778,9 +4764,9 @@
         "channel": "Premium Energy",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122569?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4792,9 +4778,9 @@
         "channel": "Primafila 3",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122562?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "5224",
         "URI": [
@@ -4806,9 +4792,9 @@
         "channel": "Primafila 9",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122557?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3485",
         "URI": [
@@ -4821,8 +4807,8 @@
         "link": "https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2244",
         "URI": [
@@ -4836,7 +4822,7 @@
         "country": "italy",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4850,7 +4836,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -4862,9 +4848,9 @@
         "channel": "RADIO MONTECARLO",
         "link": "http://103.194.169.171:8282/IT_RADIO_MONTECARLO/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -4878,7 +4864,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -4890,9 +4876,9 @@
         "channel": "RADIO RADIO TV",
         "link": "http://103.194.169.171:8282/IT_RADIO_RADIO_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4904,9 +4890,9 @@
         "channel": "RADIO ZETA HD",
         "link": "http://103.194.169.171:8282/IT_RADIO_ZETA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4918,9 +4904,9 @@
         "channel": "RAI 1",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122734?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4932,9 +4918,9 @@
         "channel": "RAI 2",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122733?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4946,9 +4932,9 @@
         "channel": "RAI 3",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122732?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -4960,9 +4946,9 @@
         "channel": "RAI Italia",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122728?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "3429",
         "URI": [
@@ -4974,9 +4960,9 @@
         "channel": "RAI SPORT 1",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122722?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -4988,9 +4974,9 @@
         "channel": "RDS Social TV",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122717?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -5004,7 +4990,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -5018,7 +5004,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -5030,9 +5016,9 @@
         "channel": "RETE 4",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122715?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -5044,9 +5030,9 @@
         "channel": "RSI La 1",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122538?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5060,7 +5046,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2244, ...",
         "URI": [
@@ -5074,7 +5060,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "8378",
         "URI": [
@@ -5088,7 +5074,7 @@
         "country": "italy",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5102,7 +5088,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "2063",
         "URI": [
@@ -5114,9 +5100,9 @@
         "channel": "RTTR TV",
         "link": "http://xiptv.vip:8080/abdo1234/1234abdo/122535?checkedby:iptvcat.com",
         "country": "italy",
-        "liveliness": "14",
+        "liveliness": "9",
         "status": "offline",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -5130,7 +5116,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -5144,7 +5130,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -5158,51 +5144,9 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "132972",
-        "channel": "Radio Capital TV",
-        "link": "https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1638",
-        "channel": "Radio Capital TV",
-        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357, ...",
-        "URI": [
-            "italy_-_-_-"
-        ]
-    },
-    {
-        "id": "1637",
-        "channel": "Radio Capital TV",
-        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?checkedby:iptvcat.com",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "421",
         "URI": [
             "italy_-_-_-"
         ]
@@ -5214,7 +5158,35 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1640",
+        "channel": "Radio Capital TV",
+        "link": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "132972",
+        "channel": "Radio Capital TV",
+        "link": "https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -5228,9 +5200,23 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-17T00:00:00Z",
+        "lastChecked": "2021-12-18T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
+        "URI": [
+            "italy_-_-_-"
+        ]
+    },
+    {
+        "id": "1638",
+        "channel": "Radio Capital TV",
+        "link": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-12-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357, ...",
         "URI": [
             "italy_-_-_-"
         ]
