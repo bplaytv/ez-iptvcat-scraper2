@@ -1,14 +1,140 @@
 [
     {
+        "id": "2199907",
+        "channel": "ATV",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141479?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199109",
+        "channel": "ATV 2",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9186?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199108",
+        "channel": "ATV HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9187?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199913",
+        "channel": "ATV2",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141481?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199919",
+        "channel": "AUSTRIA 24 TV HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141482?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199873",
+        "channel": "AUSTRIA 24 Wien",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25800?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199937",
+        "channel": "COMEDY CENTRAL/VIVA",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141490?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199941",
+        "channel": "DMAX",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141491?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "148",
         "channel": "Dorf TV",
         "link": "https://stream.openplayout.org/hls/dorf.m3u8?checkedby:iptvcat.com",
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199816",
+        "channel": "Dorf TV",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25795?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -20,7 +146,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -34,7 +160,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -48,12 +174,26 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "germany"
+        ]
+    },
+    {
+        "id": "2199947",
+        "channel": "KABEL EINS HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141492?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -63,7 +203,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -77,7 +217,21 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199899",
+        "channel": "KroneHit TV",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25802?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -91,9 +245,163 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199949",
+        "channel": "Kronehit HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141493?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199853",
+        "channel": "OE24",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25799?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199923",
+        "channel": "OE24 TV HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141484?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199925",
+        "channel": "ORF I HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141485?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199931",
+        "channel": "ORF II HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141487?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199933",
+        "channel": "ORF III HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141489?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199769",
+        "channel": "ORF Sports HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/19182?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199111",
+        "channel": "ORF1 HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9190?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "67",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199112",
+        "channel": "ORF2 HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9189?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199745",
+        "channel": "ORF3 HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9188?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200008",
+        "channel": "Orf Sport + HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/151264?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -105,7 +413,91 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199953",
+        "channel": "PROSIEBEN",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141494?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199994",
+        "channel": "PULS 24",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141501?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199956",
+        "channel": "PULS 4",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141495?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199792",
+        "channel": "PULS 4 Austria",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9185?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199843",
+        "channel": "Puls 24 HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25798?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199835",
+        "channel": "R9",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25797?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -119,9 +511,37 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199962",
+        "channel": "RTL",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141496?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199970",
+        "channel": "RTL NITRO",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141498?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -133,9 +553,79 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199976",
+        "channel": "SAT 1",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141499?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199982",
+        "channel": "SAT 1 GOLD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141500?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199996",
+        "channel": "SIXX AUSTRIA",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141502?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200046",
+        "channel": "SKY Sport Austria 4 HD+",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/151265?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200000",
+        "channel": "SUPER RTL",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141503?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -147,9 +637,107 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199986",
+        "channel": "ServuS",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/160988?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199889",
+        "channel": "ServusTV HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25801?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200022",
+        "channel": "Sky Sport Austria 1 HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46448?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200016",
+        "channel": "Sky Sport Austria 1 HD+",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46447?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200029",
+        "channel": "Sky Sport Austria 2 HD+",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46449?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200056",
+        "channel": "Sky Sport Austria 5 HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/151266?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200050",
+        "channel": "Sky Sport Austria 6 HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46450?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -161,7 +749,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -175,7 +763,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -189,9 +777,23 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200006",
+        "channel": "VOX",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141504?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -203,9 +805,121 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199907",
+        "channel": "ATV",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141479?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199109",
+        "channel": "ATV 2",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9186?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199108",
+        "channel": "ATV HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9187?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199913",
+        "channel": "ATV2",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141481?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199919",
+        "channel": "AUSTRIA 24 TV HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141482?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199873",
+        "channel": "AUSTRIA 24 Wien",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25800?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199937",
+        "channel": "COMEDY CENTRAL/VIVA",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141490?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199941",
+        "channel": "DMAX",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141491?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -217,9 +931,23 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199816",
+        "channel": "Dorf TV",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25795?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -231,7 +959,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -245,7 +973,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -259,12 +987,26 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "germany"
+        ]
+    },
+    {
+        "id": "2199947",
+        "channel": "KABEL EINS HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141492?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -274,7 +1016,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -288,7 +1030,21 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199899",
+        "channel": "KroneHit TV",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25802?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -302,9 +1058,163 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199949",
+        "channel": "Kronehit HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141493?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199853",
+        "channel": "OE24",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25799?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199923",
+        "channel": "OE24 TV HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141484?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199925",
+        "channel": "ORF I HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141485?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199931",
+        "channel": "ORF II HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141487?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199933",
+        "channel": "ORF III HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141489?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199769",
+        "channel": "ORF Sports HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/19182?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199111",
+        "channel": "ORF1 HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9190?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "67",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199112",
+        "channel": "ORF2 HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9189?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199745",
+        "channel": "ORF3 HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9188?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200008",
+        "channel": "Orf Sport + HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/151264?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -316,7 +1226,91 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199953",
+        "channel": "PROSIEBEN",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141494?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199994",
+        "channel": "PULS 24",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141501?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199956",
+        "channel": "PULS 4",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141495?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199792",
+        "channel": "PULS 4 Austria",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9185?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199843",
+        "channel": "Puls 24 HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25798?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199835",
+        "channel": "R9",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25797?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -330,9 +1324,37 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199962",
+        "channel": "RTL",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141496?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199970",
+        "channel": "RTL NITRO",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141498?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -344,9 +1366,79 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199976",
+        "channel": "SAT 1",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141499?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199982",
+        "channel": "SAT 1 GOLD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141500?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199996",
+        "channel": "SIXX AUSTRIA",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141502?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200046",
+        "channel": "SKY Sport Austria 4 HD+",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/151265?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200000",
+        "channel": "SUPER RTL",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141503?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -358,9 +1450,107 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199986",
+        "channel": "ServuS",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/160988?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2199889",
+        "channel": "ServusTV HD",
+        "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25801?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200022",
+        "channel": "Sky Sport Austria 1 HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46448?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200016",
+        "channel": "Sky Sport Austria 1 HD+",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46447?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200029",
+        "channel": "Sky Sport Austria 2 HD+",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46449?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200056",
+        "channel": "Sky Sport Austria 5 HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/151266?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200050",
+        "channel": "Sky Sport Austria 6 HD",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46450?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -372,7 +1562,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -386,7 +1576,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -400,9 +1590,23 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "austria_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2200006",
+        "channel": "VOX",
+        "link": "http://aslanvip.mneprox.com:8080/faruk08/faruk0808/141504?checkedby:iptvcat.com",
+        "country": "austria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-"
         ]
@@ -414,7 +1618,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -428,12 +1632,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "germany"
         ]
     },
     {
@@ -443,12 +1647,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-23T00:00:00Z",
+        "lastChecked": "2021-12-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "germany"
         ]
     }
 ]
