@@ -4,23 +4,9 @@
         "channel": "ATV 2",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9186?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2223965",
-        "channel": "ATV 2 HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5784.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -32,25 +18,11 @@
         "channel": "ATV HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9187?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "liveliness": "79",
+        "status": "online",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2223956",
-        "channel": "ATV HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5783.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -60,9 +32,9 @@
         "channel": "AUSTRIA 24 Wien",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25800?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -76,7 +48,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -88,9 +60,9 @@
         "channel": "Dorf TV",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25795?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "75",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -104,7 +76,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -118,7 +90,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -132,12 +104,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "germany"
         ]
     },
     {
@@ -147,7 +119,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -161,7 +133,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -173,9 +145,9 @@
         "channel": "KroneHit TV",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25802?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "80",
+        "liveliness": "78",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -189,21 +161,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2223975",
-        "channel": "OE 24 NEWS",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5793.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -217,37 +175,9 @@
         "country": "austria",
         "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224125",
-        "channel": "ORF SPORT FHD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5803.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2223857",
-        "channel": "ORF SPORT+ HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5780.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -259,7 +189,7 @@
         "country": "austria",
         "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -273,7 +203,7 @@
         "country": "austria",
         "liveliness": "77",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -285,9 +215,9 @@
         "channel": "ORF2 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9189?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "86",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -299,9 +229,9 @@
         "channel": "ORF3 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9188?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "81",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -315,7 +245,7 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -329,9 +259,9 @@
         "country": "austria",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -343,7 +273,7 @@
         "country": "austria",
         "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -355,11 +285,11 @@
         "channel": "R9",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25797?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -371,7 +301,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -385,23 +315,9 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224110",
-        "channel": "SERVUS TV HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5800.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -413,7 +329,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -427,51 +343,9 @@
         "country": "austria",
         "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224157",
-        "channel": "Sky Sport Austria 3 FHD (match time)",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5806.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224114",
-        "channel": "Sport 1+ HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5802.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224094",
-        "channel": "TLC Austria",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5798.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -483,7 +357,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -497,7 +371,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -511,7 +385,7 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -525,7 +399,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -537,23 +411,9 @@
         "channel": "ATV 2",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9186?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2223965",
-        "channel": "ATV 2 HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5784.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -565,25 +425,11 @@
         "channel": "ATV HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9187?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "liveliness": "79",
+        "status": "online",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2223956",
-        "channel": "ATV HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5783.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -593,9 +439,9 @@
         "channel": "AUSTRIA 24 Wien",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25800?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -609,7 +455,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -621,9 +467,9 @@
         "channel": "Dorf TV",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25795?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "75",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -637,7 +483,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -651,7 +497,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -665,12 +511,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "germany"
         ]
     },
     {
@@ -680,7 +526,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -694,7 +540,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -706,9 +552,9 @@
         "channel": "KroneHit TV",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25802?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "80",
+        "liveliness": "78",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -722,21 +568,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2223975",
-        "channel": "OE 24 NEWS",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5793.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -750,37 +582,9 @@
         "country": "austria",
         "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224125",
-        "channel": "ORF SPORT FHD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5803.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2223857",
-        "channel": "ORF SPORT+ HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5780.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -792,7 +596,7 @@
         "country": "austria",
         "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -806,7 +610,7 @@
         "country": "austria",
         "liveliness": "77",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -818,9 +622,9 @@
         "channel": "ORF2 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9189?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "86",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -832,9 +636,9 @@
         "channel": "ORF3 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9188?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "81",
+        "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -848,7 +652,7 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -862,9 +666,9 @@
         "country": "austria",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -876,7 +680,7 @@
         "country": "austria",
         "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -888,11 +692,11 @@
         "channel": "R9",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25797?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -904,7 +708,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -918,23 +722,9 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224110",
-        "channel": "SERVUS TV HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5800.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -946,7 +736,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -960,51 +750,9 @@
         "country": "austria",
         "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224157",
-        "channel": "Sky Sport Austria 3 FHD (match time)",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5806.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224114",
-        "channel": "Sport 1+ HD",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5802.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2224094",
-        "channel": "TLC Austria",
-        "link": "http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/5798.ts?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2022-01-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1016,7 +764,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1030,7 +778,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1044,7 +792,7 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1058,7 +806,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1072,12 +820,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "germany"
         ]
     },
     {
@@ -1087,12 +835,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-09T00:00:00Z",
+        "lastChecked": "2022-01-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_",
-            "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "germany"
         ]
     }
 ]
