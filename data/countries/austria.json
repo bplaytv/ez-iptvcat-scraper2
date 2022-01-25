@@ -1,42 +1,14 @@
 [
     {
-        "id": "2248653",
-        "channel": "ATV 1 HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141479?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2199109",
         "channel": "ATV 2",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9186?checkedby:iptvcat.com",
         "country": "austria",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248656",
-        "channel": "ATV 2 HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141481?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "68",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -46,25 +18,11 @@
         "channel": "ATV HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9187?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "84",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248661",
-        "channel": "AUSTRIA 24 TV HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141482?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -74,39 +32,11 @@
         "channel": "AUSTRIA 24 Wien",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25800?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248686",
-        "channel": "COMEDY CENTRAL/VIVA",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141490?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248693",
-        "channel": "DMAX",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141491?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -118,7 +48,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -132,7 +62,7 @@
         "country": "austria",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -146,7 +76,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -160,7 +90,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -174,26 +104,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2248701",
-        "channel": "KABEL EINS HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141492?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -203,7 +119,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -217,7 +133,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -229,9 +145,9 @@
         "channel": "KroneHit TV",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25802?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "87",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -245,21 +161,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248710",
-        "channel": "Kronehit HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141493?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -273,65 +175,9 @@
         "country": "austria",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248665",
-        "channel": "OE24 TV HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141484?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248671",
-        "channel": "ORF I HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141485?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248676",
-        "channel": "ORF II HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141487?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248681",
-        "channel": "ORF III HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141489?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -341,11 +187,11 @@
         "channel": "ORF Sports HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/19182?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -355,11 +201,11 @@
         "channel": "ORF1 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9190?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -369,9 +215,9 @@
         "channel": "ORF2 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9189?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -385,23 +231,9 @@
         "country": "austria",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248848",
-        "channel": "Orf Sport + HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/151264?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "mbps": "3625",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -413,51 +245,9 @@
         "country": "austria",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248720",
-        "channel": "PROSIEBEN",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141494?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248789",
-        "channel": "PULS 24",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141501?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248724",
-        "channel": "PULS 4",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141495?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -469,9 +259,9 @@
         "country": "austria",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -481,9 +271,9 @@
         "channel": "Puls 24 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25798?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -495,9 +285,9 @@
         "channel": "R9",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25797?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -511,23 +301,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248732",
-        "channel": "RTL",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141496?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -539,65 +315,9 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248750",
-        "channel": "SAT 1",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141499?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248765",
-        "channel": "SAT 1 GOLD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141500?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248807",
-        "channel": "SIXX AUSTRIA",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141502?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248819",
-        "channel": "SUPER RTL",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141503?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -609,23 +329,9 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248773",
-        "channel": "ServuS",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/160988?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -635,11 +341,11 @@
         "channel": "ServusTV HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25801?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -651,7 +357,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -665,7 +371,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -679,23 +385,9 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248835",
-        "channel": "VOX",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141504?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -707,23 +399,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248653",
-        "channel": "ATV 1 HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141479?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -735,23 +413,9 @@
         "country": "austria",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248656",
-        "channel": "ATV 2 HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141481?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "68",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -761,25 +425,11 @@
         "channel": "ATV HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9187?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "84",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248661",
-        "channel": "AUSTRIA 24 TV HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141482?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -789,39 +439,11 @@
         "channel": "AUSTRIA 24 Wien",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25800?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248686",
-        "channel": "COMEDY CENTRAL/VIVA",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141490?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248693",
-        "channel": "DMAX",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141491?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -833,7 +455,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -847,7 +469,7 @@
         "country": "austria",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -861,7 +483,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -875,7 +497,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -889,26 +511,12 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_",
             "germany_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2248701",
-        "channel": "KABEL EINS HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141492?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -918,7 +526,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -932,7 +540,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -944,9 +552,9 @@
         "channel": "KroneHit TV",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25802?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "87",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -960,21 +568,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248710",
-        "channel": "Kronehit HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141493?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -988,65 +582,9 @@
         "country": "austria",
         "liveliness": "82",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248665",
-        "channel": "OE24 TV HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141484?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248671",
-        "channel": "ORF I HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141485?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248676",
-        "channel": "ORF II HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141487?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248681",
-        "channel": "ORF III HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141489?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1056,11 +594,11 @@
         "channel": "ORF Sports HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/19182?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1070,11 +608,11 @@
         "channel": "ORF1 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9190?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1084,9 +622,9 @@
         "channel": "ORF2 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/9189?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1100,23 +638,9 @@
         "country": "austria",
         "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248848",
-        "channel": "Orf Sport + HD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/151264?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "mbps": "3625",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1128,51 +652,9 @@
         "country": "austria",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248720",
-        "channel": "PROSIEBEN",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141494?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248789",
-        "channel": "PULS 24",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141501?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248724",
-        "channel": "PULS 4",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141495?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1184,9 +666,9 @@
         "country": "austria",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1196,9 +678,9 @@
         "channel": "Puls 24 HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25798?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "82",
+        "liveliness": "83",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1210,9 +692,9 @@
         "channel": "R9",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25797?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1226,23 +708,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248732",
-        "channel": "RTL",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141496?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1254,65 +722,9 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "13324, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248750",
-        "channel": "SAT 1",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141499?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248765",
-        "channel": "SAT 1 GOLD",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141500?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248807",
-        "channel": "SIXX AUSTRIA",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141502?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248819",
-        "channel": "SUPER RTL",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141503?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1324,23 +736,9 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248773",
-        "channel": "ServuS",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/160988?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1350,11 +748,11 @@
         "channel": "ServusTV HD",
         "link": "http://190.115.29.22:8080/carter/GUV1bMq2VK/25801?checkedby:iptvcat.com",
         "country": "austria",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1366,7 +764,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1380,7 +778,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1394,23 +792,9 @@
         "country": "austria",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2248835",
-        "channel": "VOX",
-        "link": "http://mneplayer.etya-iptv.com:8080/ali56/ali5656/141504?checkedby:iptvcat.com",
-        "country": "austria",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2022-01-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "austria_-_-_-_-_-_-_-_"
         ]
@@ -1422,7 +806,7 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1436,7 +820,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1451,7 +835,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-24T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
