@@ -6,7 +6,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "belgium",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -32,9 +32,9 @@
         "channel": "BEL Radio PROS (Webradio)",
         "link": "https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8?checkedby:iptvcat.com",
         "country": "belgium",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -62,9 +62,23 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "2743",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997, ...",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317411",
+        "channel": "CANVAS HD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37651?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-"
         ]
@@ -76,7 +90,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -90,7 +104,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -104,7 +118,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -118,7 +132,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -132,7 +146,21 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317427",
+        "channel": "LN24 HD [FR]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37617?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -146,7 +174,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -160,7 +188,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -174,7 +202,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -188,7 +216,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -202,9 +230,107 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317415",
+        "channel": "PLAY SPORTS 1 FHD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37650?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317421",
+        "channel": "PLAY SPORTS 2 FHD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37649?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317461",
+        "channel": "Pickx+ HD [FR]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37565?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317469",
+        "channel": "Pickx+ Sports 1 FR HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37564?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317474",
+        "channel": "Pickx+ Sports 6 FR HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37554?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317480",
+        "channel": "Pickx+ Sports 9 NL HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37547?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317439",
+        "channel": "Play 5 HD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37602?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "belgium_-_-_-_-_-"
         ]
@@ -216,7 +342,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -230,7 +356,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -244,7 +370,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -258,12 +384,12 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
             "belgium_-_-_-_-_-",
-            "france_-_-_-_-_-_-_-_-_-_-"
+            "france"
         ]
     },
     {
@@ -273,7 +399,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -287,9 +413,23 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317442",
+        "channel": "TLC HD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37592?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "belgium_-_-_-_-_-"
         ]
@@ -301,7 +441,7 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -315,9 +455,23 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317452",
+        "channel": "VTM FHD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37589?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-"
         ]
@@ -329,7 +483,21 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317433",
+        "channel": "njam! HD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37603?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -343,7 +511,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -357,7 +525,7 @@
         "country": "belgium",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -369,9 +537,9 @@
         "channel": "BEL Radio PROS (Webradio)",
         "link": "https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8?checkedby:iptvcat.com",
         "country": "belgium",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -385,7 +553,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -399,9 +567,23 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "2743",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997, ...",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317411",
+        "channel": "CANVAS HD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37651?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-"
         ]
@@ -413,7 +595,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -427,7 +609,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -441,7 +623,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -455,7 +637,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -469,7 +651,21 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317427",
+        "channel": "LN24 HD [FR]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37617?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
@@ -483,7 +679,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -497,7 +693,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -511,7 +707,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -525,7 +721,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -539,9 +735,107 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317415",
+        "channel": "PLAY SPORTS 1 FHD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37650?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317421",
+        "channel": "PLAY SPORTS 2 FHD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37649?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317461",
+        "channel": "Pickx+ HD [FR]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37565?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317469",
+        "channel": "Pickx+ Sports 1 FR HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37564?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317474",
+        "channel": "Pickx+ Sports 6 FR HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37554?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317480",
+        "channel": "Pickx+ Sports 9 NL HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37547?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317439",
+        "channel": "Play 5 HD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37602?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "belgium_-_-_-_-_-"
         ]
@@ -553,7 +847,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -567,7 +861,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -581,7 +875,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
@@ -595,12 +889,12 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
             "belgium_-_-_-_-_-",
-            "france_-_-_-_-_-_-_-_-_-_-"
+            "france"
         ]
     },
     {
@@ -610,7 +904,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -624,9 +918,23 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317442",
+        "channel": "TLC HD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37592?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "belgium_-_-_-_-_-"
         ]
@@ -638,7 +946,7 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -652,9 +960,23 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317452",
+        "channel": "VTM FHD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37589?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-"
         ]
@@ -666,7 +988,21 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2317433",
+        "channel": "njam! HD [NL]",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37603?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -680,12 +1016,12 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
             "belgium_-_-_-_-_-",
-            "france_-_-_-_-_-_-_-_-_-_-"
+            "france"
         ]
     },
     {
@@ -695,12 +1031,12 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-06T00:00:00Z",
+        "lastChecked": "2022-02-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
             "belgium_-_-_-_-_-",
-            "france_-_-_-_-_-_-_-_-_-_-"
+            "france"
         ]
     }
 ]
