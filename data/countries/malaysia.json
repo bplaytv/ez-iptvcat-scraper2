@@ -2,13 +2,13 @@
     {
         "id": "1504",
         "channel": "ABN SAT (1280×720), ABNsat",
-        "link": "http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/60bc4834f1e06dc9d617d2e587f632df.m3u8",
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "1490",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -16,11 +16,11 @@
     {
         "id": "9156",
         "channel": "AE | Hawas TV, Hawas TV, HAWAS TV (1280×720)",
-        "link": "https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/8debdde463b99414730e77c522ec6de1.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -30,11 +30,11 @@
     {
         "id": "2146",
         "channel": "Ajyal TV, AJYAL TV (1920×1080)",
-        "link": "http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/b5b5c70dcf188c6f30cf0877928f7682.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -44,11 +44,11 @@
     {
         "id": "9113",
         "channel": "AL HAYAT (1280×720)",
-        "link": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/23b0f6ab8c802feaa32a981489a7bd87.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -58,13 +58,13 @@
     {
         "id": "9116",
         "channel": "Al Horreya, AL HORREYA TV (1920×1080), EG | Al Horreya",
-        "link": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/bf8aebeddc053fd44819dddb6a2246b6.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "9546, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -72,11 +72,11 @@
     {
         "id": "9120",
         "channel": "AL KARMA TV (1920×1080)",
-        "link": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/6570cc997d5e65fad12fd44e056d2e6e.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -86,11 +86,11 @@
     {
         "id": "5945",
         "channel": "AL KASS 1 (1024×576), Al Kass Sports",
-        "link": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/59392f657eb380db614fc0b2b54b67f9.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -100,11 +100,11 @@
     {
         "id": "2236",
         "channel": "AL KASS 2 (1024×576), Al Kass Two",
-        "link": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/c8f78d07f5f808230acc3de4c29d2a5a.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -114,11 +114,11 @@
     {
         "id": "5946",
         "channel": "AL KASS 3 (1024×576), Al Kass Sports 3",
-        "link": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/6a5272fc5842e01ad789a4c593444155.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -128,11 +128,11 @@
     {
         "id": "2235",
         "channel": "AL KASS 5 (1024×576), Al Kass Five",
-        "link": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/f98628aaef655b68a7a89b89bbdb2ee7.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -142,11 +142,11 @@
     {
         "id": "9128",
         "channel": "Al Mamlaka TV, AL MAMLAKA TV (1920×1080)",
-        "link": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/5c5699c766288e5037c62d02418ba1a9.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -156,11 +156,11 @@
     {
         "id": "9131",
         "channel": "AL SHARJAH KALBA (1920×1080), Sharqiya from Kalba TV",
-        "link": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/c850402c0c6880d4149acabbc43b560b.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
@@ -170,11 +170,11 @@
     {
         "id": "9126",
         "channel": "Al Khalij TV, Al Khalij TV (1280×720)",
-        "link": "http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/8522242a5c33cf0dd43fece73edb0d86.m3u8",
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -182,27 +182,13 @@
         ]
     },
     {
-        "id": "9140",
-        "channel": "CHANNEL 4 TEEN (1920×1080)",
-        "link": "https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8?checkedby:iptvcat.com",
-        "country": "malaysia",
-        "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2022-02-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "1765",
-        "URI": [
-            "malaysia_-_-_-_-"
-        ]
-    },
-    {
         "id": "9146",
         "channel": "DUBAI ONE (1920×1080)",
-        "link": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/47dacc0d5e2f8d3e283882d9ab676455.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -212,13 +198,13 @@
     {
         "id": "9147",
         "channel": "DUBAI RACING 1 (1920×1080)",
-        "link": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/b0ec32fea555682b9ce91b4faf8313a7.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -226,11 +212,11 @@
     {
         "id": "9148",
         "channel": "DUBAI RACING 2 (1920×1080)",
-        "link": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/2e1bce2ef174205fcc26e1788abbec9a.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -240,13 +226,13 @@
     {
         "id": "9149",
         "channel": "DUBAI RACING 3 (1920×1080)",
-        "link": "http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/5f6ebdfe34d1984d42386579e2c1edc6.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
-        "mbps": "12145",
+        "mbps": "6140",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -254,11 +240,11 @@
     {
         "id": "9150",
         "channel": "DUBAI SPORTS 1 (1920×1080)",
-        "link": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/adca0a882821a4c592d62daf7b093bae.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -268,13 +254,13 @@
     {
         "id": "9151",
         "channel": "DUBAI SPORTS 2 (1920×1080), SPORT : Dubai Sports 2, SPORT | Dubai Sports 2",
-        "link": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/8f70877c8c0698ad38917bbb81a6b664.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "11126, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -282,13 +268,13 @@
     {
         "id": "9152",
         "channel": "DUBAI SPORTS 3 (1920×1080)",
-        "link": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/12c9af5d77733ea1885fc266ee84201e.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
-        "format": "sd",
-        "mbps": "523",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -296,11 +282,11 @@
     {
         "id": "9167",
         "channel": "M24 (1280×720)",
-        "link": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/04253f32a0737e24161786b1bcdf4b9b.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -310,25 +296,11 @@
     {
         "id": "9185",
         "channel": "MEKAMELEEN TV (1920×1080)",
-        "link": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/7bc5f0aa20bf13bf7bebae536285c0e5.m3u8",
         "country": "malaysia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "malaysia_-_-_-_-"
-        ]
-    },
-    {
-        "id": "9186",
-        "channel": "MTA 3 (1920×1080)",
-        "link": "http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8?checkedby:iptvcat.com",
-        "country": "malaysia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -338,11 +310,11 @@
     {
         "id": "3251",
         "channel": "SHARJA TV (1920×1080), Sharjah TV",
-        "link": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/db5e999730ab3ac741c3536b3b783d19.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
@@ -352,26 +324,26 @@
     {
         "id": "3316",
         "channel": "Sky News Arabia, SKY NEWS ARABIA (1280×720)",
-        "link": "https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/2bfea05771ef098276f8a11ffc1b755a.m3u8",
         "country": "malaysia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
             "malaysia_-_-_-_-",
-            "united_kingdom"
+            "united_kingdom_-_-_-_-_-_-_-"
         ]
     },
     {
         "id": "9204",
         "channel": "Syria TV, SYRIA TV (1920×1080)",
-        "link": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/f2959987727c83ee91c5a59ef9fd9303.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986, ...",
         "URI": [
@@ -381,11 +353,11 @@
     {
         "id": "2155",
         "channel": "Watan TV, WATAR (1280×720)",
-        "link": "http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/1e3bffcb880dcd566be2c97b6efc36b7.m3u8",
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -395,11 +367,11 @@
     {
         "id": "9210",
         "channel": "ZAGROS TV (1280×720)",
-        "link": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/f52fa51bac3673e49e1aa94ef4131cc6.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -409,11 +381,11 @@
     {
         "id": "9212",
         "channel": "ZEE ALWAN (1280×720)",
-        "link": "http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
         "country": "malaysia",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "4257",
         "URI": [
@@ -423,11 +395,11 @@
     {
         "id": "9213",
         "channel": "ZEE ALWAN (1280×720)",
-        "link": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "4257",
         "URI": [
@@ -437,11 +409,11 @@
     {
         "id": "9218",
         "channel": "ZEE ALWAN (1280×720)",
-        "link": "http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/ab669ee189b5d02e94f2d3410a9e492a.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -451,11 +423,11 @@
     {
         "id": "9219",
         "channel": "ZEE ALWAN (1280×720)",
-        "link": "http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/220e404c41c00480dd4e73da1e59353d.m3u8",
         "country": "malaysia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "11989",
         "URI": [
@@ -465,13 +437,13 @@
     {
         "id": "1504",
         "channel": "ABN SAT (1280×720), ABNsat",
-        "link": "http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/60bc4834f1e06dc9d617d2e587f632df.m3u8",
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "sd",
+        "mbps": "1490",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -479,11 +451,11 @@
     {
         "id": "9156",
         "channel": "AE | Hawas TV, Hawas TV, HAWAS TV (1280×720)",
-        "link": "https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/8debdde463b99414730e77c522ec6de1.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -493,11 +465,11 @@
     {
         "id": "2146",
         "channel": "Ajyal TV, AJYAL TV (1920×1080)",
-        "link": "http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/b5b5c70dcf188c6f30cf0877928f7682.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -507,11 +479,11 @@
     {
         "id": "9113",
         "channel": "AL HAYAT (1280×720)",
-        "link": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/23b0f6ab8c802feaa32a981489a7bd87.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -521,13 +493,13 @@
     {
         "id": "9116",
         "channel": "Al Horreya, AL HORREYA TV (1920×1080), EG | Al Horreya",
-        "link": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/bf8aebeddc053fd44819dddb6a2246b6.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "9546, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -535,11 +507,11 @@
     {
         "id": "9120",
         "channel": "AL KARMA TV (1920×1080)",
-        "link": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/6570cc997d5e65fad12fd44e056d2e6e.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -549,11 +521,11 @@
     {
         "id": "5945",
         "channel": "AL KASS 1 (1024×576), Al Kass Sports",
-        "link": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/59392f657eb380db614fc0b2b54b67f9.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -563,11 +535,11 @@
     {
         "id": "2236",
         "channel": "AL KASS 2 (1024×576), Al Kass Two",
-        "link": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/c8f78d07f5f808230acc3de4c29d2a5a.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -577,11 +549,11 @@
     {
         "id": "5946",
         "channel": "AL KASS 3 (1024×576), Al Kass Sports 3",
-        "link": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/6a5272fc5842e01ad789a4c593444155.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -591,11 +563,11 @@
     {
         "id": "2235",
         "channel": "AL KASS 5 (1024×576), Al Kass Five",
-        "link": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/f98628aaef655b68a7a89b89bbdb2ee7.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "484",
         "URI": [
@@ -605,11 +577,11 @@
     {
         "id": "9128",
         "channel": "Al Mamlaka TV, AL MAMLAKA TV (1920×1080)",
-        "link": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/5c5699c766288e5037c62d02418ba1a9.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -619,11 +591,11 @@
     {
         "id": "9131",
         "channel": "AL SHARJAH KALBA (1920×1080), Sharqiya from Kalba TV",
-        "link": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/c850402c0c6880d4149acabbc43b560b.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
@@ -633,11 +605,11 @@
     {
         "id": "9126",
         "channel": "Al Khalij TV, Al Khalij TV (1280×720)",
-        "link": "http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/8522242a5c33cf0dd43fece73edb0d86.m3u8",
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -645,27 +617,13 @@
         ]
     },
     {
-        "id": "9140",
-        "channel": "CHANNEL 4 TEEN (1920×1080)",
-        "link": "https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8?checkedby:iptvcat.com",
-        "country": "malaysia",
-        "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2022-02-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "1765",
-        "URI": [
-            "malaysia_-_-_-_-"
-        ]
-    },
-    {
         "id": "9146",
         "channel": "DUBAI ONE (1920×1080)",
-        "link": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/47dacc0d5e2f8d3e283882d9ab676455.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -675,13 +633,13 @@
     {
         "id": "9147",
         "channel": "DUBAI RACING 1 (1920×1080)",
-        "link": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/b0ec32fea555682b9ce91b4faf8313a7.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -689,11 +647,11 @@
     {
         "id": "9148",
         "channel": "DUBAI RACING 2 (1920×1080)",
-        "link": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/2e1bce2ef174205fcc26e1788abbec9a.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -703,13 +661,13 @@
     {
         "id": "9149",
         "channel": "DUBAI RACING 3 (1920×1080)",
-        "link": "http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/5f6ebdfe34d1984d42386579e2c1edc6.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
-        "mbps": "12145",
+        "mbps": "6140",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -717,11 +675,11 @@
     {
         "id": "9150",
         "channel": "DUBAI SPORTS 1 (1920×1080)",
-        "link": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/adca0a882821a4c592d62daf7b093bae.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -731,13 +689,13 @@
     {
         "id": "9151",
         "channel": "DUBAI SPORTS 2 (1920×1080), SPORT : Dubai Sports 2, SPORT | Dubai Sports 2",
-        "link": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/8f70877c8c0698ad38917bbb81a6b664.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "11126, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -745,13 +703,13 @@
     {
         "id": "9152",
         "channel": "DUBAI SPORTS 3 (1920×1080)",
-        "link": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/12c9af5d77733ea1885fc266ee84201e.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
-        "format": "sd",
-        "mbps": "523",
+        "lastChecked": "2022-03-22T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "malaysia_-_-_-_-"
         ]
@@ -759,11 +717,11 @@
     {
         "id": "9167",
         "channel": "M24 (1280×720)",
-        "link": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/04253f32a0737e24161786b1bcdf4b9b.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -773,25 +731,11 @@
     {
         "id": "9185",
         "channel": "MEKAMELEEN TV (1920×1080)",
-        "link": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/7bc5f0aa20bf13bf7bebae536285c0e5.m3u8",
         "country": "malaysia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "malaysia_-_-_-_-"
-        ]
-    },
-    {
-        "id": "9186",
-        "channel": "MTA 3 (1920×1080)",
-        "link": "http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8?checkedby:iptvcat.com",
-        "country": "malaysia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -801,11 +745,11 @@
     {
         "id": "3251",
         "channel": "SHARJA TV (1920×1080), Sharjah TV",
-        "link": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/db5e999730ab3ac741c3536b3b783d19.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
@@ -815,26 +759,26 @@
     {
         "id": "3316",
         "channel": "Sky News Arabia, SKY NEWS ARABIA (1280×720)",
-        "link": "https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/2bfea05771ef098276f8a11ffc1b755a.m3u8",
         "country": "malaysia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
             "malaysia_-_-_-_-",
-            "united_kingdom"
+            "united_kingdom_-_-_-_-_-_-_-"
         ]
     },
     {
         "id": "9204",
         "channel": "Syria TV, SYRIA TV (1920×1080)",
-        "link": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/f2959987727c83ee91c5a59ef9fd9303.m3u8",
         "country": "malaysia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986, ...",
         "URI": [
@@ -844,11 +788,11 @@
     {
         "id": "2155",
         "channel": "Watan TV, WATAR (1280×720)",
-        "link": "http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/1e3bffcb880dcd566be2c97b6efc36b7.m3u8",
         "country": "malaysia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -858,11 +802,11 @@
     {
         "id": "9210",
         "channel": "ZAGROS TV (1280×720)",
-        "link": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/f52fa51bac3673e49e1aa94ef4131cc6.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -872,11 +816,11 @@
     {
         "id": "9212",
         "channel": "ZEE ALWAN (1280×720)",
-        "link": "http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
         "country": "malaysia",
-        "liveliness": "97",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "4257",
         "URI": [
@@ -886,11 +830,11 @@
     {
         "id": "9213",
         "channel": "ZEE ALWAN (1280×720)",
-        "link": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "4257",
         "URI": [
@@ -900,11 +844,11 @@
     {
         "id": "9218",
         "channel": "ZEE ALWAN (1280×720)",
-        "link": "http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/ab669ee189b5d02e94f2d3410a9e492a.m3u8",
         "country": "malaysia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -914,11 +858,11 @@
     {
         "id": "9219",
         "channel": "ZEE ALWAN (1280×720)",
-        "link": "http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541\u0026checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/220e404c41c00480dd4e73da1e59353d.m3u8",
         "country": "malaysia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-02-12T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "11989",
         "URI": [
@@ -928,31 +872,31 @@
     {
         "id": "3316",
         "channel": "Sky News Arabia, SKY NEWS ARABIA (1280×720)",
-        "link": "https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/2bfea05771ef098276f8a11ffc1b755a.m3u8",
         "country": "malaysia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
             "malaysia_-_-_-_-",
-            "united_kingdom"
+            "united_kingdom_-_-_-_-_-_-_-"
         ]
     },
     {
         "id": "3316",
         "channel": "Sky News Arabia, SKY NEWS ARABIA (1280×720)",
-        "link": "https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:iptvcat.com",
+        "link": "https://list.iptvcat.com/my_list/s/2bfea05771ef098276f8a11ffc1b755a.m3u8",
         "country": "malaysia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-02-13T00:00:00Z",
+        "lastChecked": "2022-03-22T00:00:00Z",
         "format": "hd",
         "mbps": "5997, ...",
         "URI": [
             "malaysia_-_-_-_-",
-            "united_kingdom"
+            "united_kingdom_-_-_-_-_-_-_-"
         ]
     }
 ]
