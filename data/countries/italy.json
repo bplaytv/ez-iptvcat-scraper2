@@ -1036,20 +1036,6 @@
         ]
     },
     {
-        "id": "2536943",
-        "channel": "Giallo HD",
-        "link": "https://list.iptvcat.com/my_list/s/43325b34c2cf8623e35c1322b86ee34a.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2287262",
         "channel": "Gold 78 FHD",
         "link": "https://list.iptvcat.com/my_list/s/bc7a5528c237565ecf1aa75fce0368f7.m3u8",
@@ -1400,15 +1386,15 @@
         ]
     },
     {
-        "id": "2521265",
-        "channel": "VIP Sky Cinema Collection FHD",
-        "link": "https://list.iptvcat.com/my_list/s/e3f238be5346ce2cc52a3989c3cc6cfb.m3u8",
+        "id": "2543595",
+        "channel": "IT_Premium_Emotion_HD",
+        "link": "https://list.iptvcat.com/my_list/s/8a90df0bbbd3d63b4687f6746e8d9d03.m3u8",
         "country": "italy",
-        "liveliness": "82",
-        "status": "online",
+        "liveliness": "85",
+        "status": "offline",
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13873",
+        "mbps": "11126",
         "URI": [
             "italy_-_-_-_-_-_-_-"
         ]
@@ -2697,20 +2683,6 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
-        "URI": [
-            "italy_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2521699",
-        "channel": "VIP ---- SKY CINEMA ----",
-        "link": "https://list.iptvcat.com/my_list/s/f9582d1a6cb83093f252a51c4dd72baa.m3u8",
-        "country": "italy",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "italy_-_-_-_-_-_-_-"
         ]
@@ -4102,15 +4074,15 @@
         ]
     },
     {
-        "id": "2536605",
-        "channel": "Sky Sport Formula 1 FHD",
-        "link": "https://list.iptvcat.com/my_list/s/6e505e5145313d81192291a2323b852e.m3u8",
+        "id": "2521265",
+        "channel": "VIP Sky Cinema Collection FHD",
+        "link": "https://list.iptvcat.com/my_list/s/e3f238be5346ce2cc52a3989c3cc6cfb.m3u8",
         "country": "italy",
-        "liveliness": "73",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "13873",
         "URI": [
             "italy_-_-_-_-_-_-_-"
         ]
@@ -5502,15 +5474,15 @@
         ]
     },
     {
-        "id": "2287444",
-        "channel": "Rete Veneta HD",
-        "link": "https://list.iptvcat.com/my_list/s/af9ec6216b09fc92c9275680494c2759.m3u8",
+        "id": "2521699",
+        "channel": "VIP ---- SKY CINEMA ----",
+        "link": "https://list.iptvcat.com/my_list/s/f9582d1a6cb83093f252a51c4dd72baa.m3u8",
         "country": "italy",
-        "liveliness": "52",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "italy_-_-_-_-_-_-_-"
         ]
@@ -6902,15 +6874,15 @@
         ]
     },
     {
-        "id": "2520666",
-        "channel": "PARAMOUNT CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/a86c7756c2fe532af8c9e2cba0562797.m3u8",
+        "id": "2536605",
+        "channel": "Sky Sport Formula 1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/6e505e5145313d81192291a2323b852e.m3u8",
         "country": "italy",
-        "liveliness": "87",
+        "liveliness": "73",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "italy_-_-_-_-_-_-_-"
         ]
@@ -8302,6 +8274,20 @@
         ]
     },
     {
+        "id": "2287444",
+        "channel": "Rete Veneta HD",
+        "link": "https://list.iptvcat.com/my_list/s/af9ec6216b09fc92c9275680494c2759.m3u8",
+        "country": "italy",
+        "liveliness": "52",
+        "status": "online",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2473122",
         "channel": "12 TV Parma (540p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/5d9e8d15d7f4be1c2f977e5efb355a85.m3u8",
@@ -9331,20 +9317,6 @@
         "liveliness": "25",
         "status": "offline",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2536943",
-        "channel": "Giallo HD",
-        "link": "https://list.iptvcat.com/my_list/s/43325b34c2cf8623e35c1322b86ee34a.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -11102,6 +11074,20 @@
         ]
     },
     {
+        "id": "2520666",
+        "channel": "PARAMOUNT CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/a86c7756c2fe532af8c9e2cba0562797.m3u8",
+        "country": "italy",
+        "liveliness": "87",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "italy_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2473122",
         "channel": "12 TV Parma (540p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/5d9e8d15d7f4be1c2f977e5efb355a85.m3u8",
@@ -12138,20 +12124,6 @@
         ]
     },
     {
-        "id": "2536943",
-        "channel": "Giallo HD",
-        "link": "https://list.iptvcat.com/my_list/s/43325b34c2cf8623e35c1322b86ee34a.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2287262",
         "channel": "Gold 78 FHD",
         "link": "https://list.iptvcat.com/my_list/s/bc7a5528c237565ecf1aa75fce0368f7.m3u8",
@@ -12497,6 +12469,20 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "italy_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2543595",
+        "channel": "IT_Premium_Emotion_HD",
+        "link": "https://list.iptvcat.com/my_list/s/8a90df0bbbd3d63b4687f6746e8d9d03.m3u8",
+        "country": "italy",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "italy_-_-_-_-_-_-_-"
         ]

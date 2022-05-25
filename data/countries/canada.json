@@ -1402,34 +1402,6 @@
         ]
     },
     {
-        "id": "2545175",
-        "channel": "TSNET 360",
-        "link": "https://list.iptvcat.com/my_list/s/73a9077073b1a58272f29511004f04bc.m3u8",
-        "country": "canada",
-        "liveliness": "93",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2545182",
-        "channel": "TSNET West",
-        "link": "https://list.iptvcat.com/my_list/s/60cc5dbd539200b2d528435cbd4d072c.m3u8",
-        "country": "canada",
-        "liveliness": "93",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "1600",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2266832",
         "channel": "TV 16 Toronto (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b7f1062c838699b9aa92c3547775c210.m3u8",
@@ -3421,20 +3393,6 @@
         ]
     },
     {
-        "id": "51561",
-        "channel": "IIPC TV",
-        "link": "https://list.iptvcat.com/my_list/s/8bef2e92ad7a9a39989e183ff1240c9f.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "1760",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2512734",
         "channel": "INVESTIGATION DISCOVERY HD",
         "link": "https://list.iptvcat.com/my_list/s/849e2aae1385389bde25cd074e944e5c.m3u8",
@@ -4429,20 +4387,6 @@
         ]
     },
     {
-        "id": "2530494",
-        "channel": "Showcase East CA",
-        "link": "https://list.iptvcat.com/my_list/s/628a2f533602ea0b6493f4b993e382cb.m3u8",
-        "country": "canada",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2483992",
         "channel": "Showcase HD",
         "link": "https://list.iptvcat.com/my_list/s/f2c49cee2ec36ef05f0fdb4ace180ba0.m3u8",
@@ -4802,6 +4746,34 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2545175",
+        "channel": "TSNET 360",
+        "link": "https://list.iptvcat.com/my_list/s/73a9077073b1a58272f29511004f04bc.m3u8",
+        "country": "canada",
+        "liveliness": "93",
+        "status": "offline",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2545182",
+        "channel": "TSNET West",
+        "link": "https://list.iptvcat.com/my_list/s/60cc5dbd539200b2d528435cbd4d072c.m3u8",
+        "country": "canada",
+        "liveliness": "93",
+        "status": "offline",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -6209,20 +6181,6 @@
         ]
     },
     {
-        "id": "51561",
-        "channel": "IIPC TV",
-        "link": "https://list.iptvcat.com/my_list/s/8bef2e92ad7a9a39989e183ff1240c9f.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "1760",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2512734",
         "channel": "INVESTIGATION DISCOVERY HD",
         "link": "https://list.iptvcat.com/my_list/s/849e2aae1385389bde25cd074e944e5c.m3u8",
@@ -7212,20 +7170,6 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2530494",
-        "channel": "Showcase East CA",
-        "link": "https://list.iptvcat.com/my_list/s/628a2f533602ea0b6493f4b993e382cb.m3u8",
-        "country": "canada",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -9374,20 +9318,6 @@
         ]
     },
     {
-        "id": "2529931",
-        "channel": "HBO 1 CA",
-        "link": "https://list.iptvcat.com/my_list/s/0ac6fb7a66e11788e641580073175690.m3u8",
-        "country": "canada",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "3883",
-        "URI": [
-            "canada"
-        ]
-    },
-    {
         "id": "2545161",
         "channel": "HBO 2",
         "link": "https://list.iptvcat.com/my_list/s/af0de4334bc3359a3e266682934adc79.m3u8",
@@ -9607,6 +9537,20 @@
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
+        "URI": [
+            "canada"
+        ]
+    },
+    {
+        "id": "51561",
+        "channel": "IIPC TV",
+        "link": "https://list.iptvcat.com/my_list/s/8bef2e92ad7a9a39989e183ff1240c9f.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "1760",
         "URI": [
             "canada"
         ]
