@@ -5,10 +5,24 @@
         "link": "https://list.iptvcat.com/my_list/s/701eca05f81082b789be1cbc0306632f.m3u8",
         "country": "japan",
         "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567035",
+        "channel": "ATX",
+        "link": "https://list.iptvcat.com/my_list/s/b147591f5d291d560d65739bd607d7f6.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -19,10 +33,24 @@
         "link": "https://list.iptvcat.com/my_list/s/e6c5595035802eb13248d99fea7aa301.m3u8",
         "country": "japan",
         "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567034",
+        "channel": "Animax Japan",
+        "link": "https://list.iptvcat.com/my_list/s/26ed7b440747c55e2ad9b2a056540593.m3u8",
+        "country": "japan",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -48,7 +76,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -60,11 +88,25 @@
         "channel": "Fuji News Network (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/3452bcc26c72a31a3afa7f9806ea003d.m3u8",
         "country": "japan",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567036",
+        "channel": "Gunma TV",
+        "link": "https://list.iptvcat.com/my_list/s/5ff5b1f2eca1837e70cc46a76d11e613.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -75,8 +117,8 @@
         "link": "https://list.iptvcat.com/my_list/s/adaf6f8ec217796bc67e82e186720e2e.m3u8",
         "country": "japan",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -90,7 +132,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -104,9 +146,37 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567037",
+        "channel": "NHK Chinese Vision",
+        "link": "https://list.iptvcat.com/my_list/s/3555ef05826dc9eeb38a64c8bee313ad.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567038",
+        "channel": "NHK World Japan",
+        "link": "https://list.iptvcat.com/my_list/s/31b5851f200d666b5743b13398793244.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -118,7 +188,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
@@ -132,7 +202,7 @@
         "country": "japan",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -146,7 +216,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -160,12 +230,12 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "3433",
         "URI": [
             "japan_-_-_-_-",
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            "united_states_of_america"
         ]
     },
     {
@@ -174,10 +244,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4cd90f34a0da37f2ddcbe06544dbae5a.m3u8",
         "country": "japan",
         "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "7004",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -203,7 +273,21 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567039",
+        "channel": "QVC Japan",
+        "link": "https://list.iptvcat.com/my_list/s/8a9fc0e993a3926e32e1fe30e7ff69e9.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -217,7 +301,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
@@ -231,7 +315,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -244,10 +328,52 @@
         "link": "https://list.iptvcat.com/my_list/s/e855c9bdf599dc5ff11c6c7727729390.m3u8",
         "country": "japan",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2022-06-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567040",
+        "channel": "Tokyo MX",
+        "link": "https://list.iptvcat.com/my_list/s/da76fc8a355e2b2bbbb1cd0a1d4da91c.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567041",
+        "channel": "Tokyo MX 1",
+        "link": "https://list.iptvcat.com/my_list/s/a24e0cbb05d14334d3047d0c7d6c6b2f.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567042",
+        "channel": "Tokyo MX 2",
+        "link": "https://list.iptvcat.com/my_list/s/50f6b7c312ed5de6e9a8cb0f88008d6f.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -259,7 +385,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -273,7 +399,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -287,7 +413,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -301,7 +427,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -315,7 +441,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -329,9 +455,23 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567043",
+        "channel": "Weather Channel",
+        "link": "https://list.iptvcat.com/my_list/s/ae33c5cbdb28e801eb48872e762e6465.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -357,7 +497,7 @@
         "country": "japan",
         "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -371,7 +511,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -385,7 +525,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -398,8 +538,8 @@
         "link": "https://list.iptvcat.com/my_list/s/304397680175a103be85039c25bca510.m3u8",
         "country": "japan",
         "liveliness": "100",
-        "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -413,7 +553,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -426,8 +566,8 @@
         "link": "https://list.iptvcat.com/my_list/s/2119e6e0780e15bbdebdb3471fb8aabd.m3u8",
         "country": "japan",
         "liveliness": "100",
-        "status": "offline",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "2740",
         "URI": [
@@ -441,7 +581,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
@@ -454,10 +594,24 @@
         "link": "https://list.iptvcat.com/my_list/s/701eca05f81082b789be1cbc0306632f.m3u8",
         "country": "japan",
         "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567035",
+        "channel": "ATX",
+        "link": "https://list.iptvcat.com/my_list/s/b147591f5d291d560d65739bd607d7f6.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -468,10 +622,24 @@
         "link": "https://list.iptvcat.com/my_list/s/e6c5595035802eb13248d99fea7aa301.m3u8",
         "country": "japan",
         "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567034",
+        "channel": "Animax Japan",
+        "link": "https://list.iptvcat.com/my_list/s/26ed7b440747c55e2ad9b2a056540593.m3u8",
+        "country": "japan",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -497,7 +665,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -509,11 +677,25 @@
         "channel": "Fuji News Network (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/3452bcc26c72a31a3afa7f9806ea003d.m3u8",
         "country": "japan",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567036",
+        "channel": "Gunma TV",
+        "link": "https://list.iptvcat.com/my_list/s/5ff5b1f2eca1837e70cc46a76d11e613.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -524,8 +706,8 @@
         "link": "https://list.iptvcat.com/my_list/s/adaf6f8ec217796bc67e82e186720e2e.m3u8",
         "country": "japan",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -539,7 +721,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -553,9 +735,37 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567037",
+        "channel": "NHK Chinese Vision",
+        "link": "https://list.iptvcat.com/my_list/s/3555ef05826dc9eeb38a64c8bee313ad.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567038",
+        "channel": "NHK World Japan",
+        "link": "https://list.iptvcat.com/my_list/s/31b5851f200d666b5743b13398793244.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -567,7 +777,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
@@ -581,7 +791,7 @@
         "country": "japan",
         "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -595,7 +805,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -609,12 +819,12 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "3433",
         "URI": [
             "japan_-_-_-_-",
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            "united_states_of_america"
         ]
     },
     {
@@ -623,10 +833,10 @@
         "link": "https://list.iptvcat.com/my_list/s/4cd90f34a0da37f2ddcbe06544dbae5a.m3u8",
         "country": "japan",
         "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "7004",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -652,7 +862,21 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567039",
+        "channel": "QVC Japan",
+        "link": "https://list.iptvcat.com/my_list/s/8a9fc0e993a3926e32e1fe30e7ff69e9.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -666,7 +890,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
@@ -680,7 +904,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -693,10 +917,52 @@
         "link": "https://list.iptvcat.com/my_list/s/e855c9bdf599dc5ff11c6c7727729390.m3u8",
         "country": "japan",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2022-06-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567040",
+        "channel": "Tokyo MX",
+        "link": "https://list.iptvcat.com/my_list/s/da76fc8a355e2b2bbbb1cd0a1d4da91c.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567041",
+        "channel": "Tokyo MX 1",
+        "link": "https://list.iptvcat.com/my_list/s/a24e0cbb05d14334d3047d0c7d6c6b2f.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567042",
+        "channel": "Tokyo MX 2",
+        "link": "https://list.iptvcat.com/my_list/s/50f6b7c312ed5de6e9a8cb0f88008d6f.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -708,7 +974,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -722,7 +988,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -736,7 +1002,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -750,7 +1016,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -764,7 +1030,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -778,9 +1044,23 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
+        "URI": [
+            "japan_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2567043",
+        "channel": "Weather Channel",
+        "link": "https://list.iptvcat.com/my_list/s/ae33c5cbdb28e801eb48872e762e6465.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "japan_-_-_-_-"
         ]
@@ -806,7 +1086,7 @@
         "country": "japan",
         "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -820,7 +1100,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -834,7 +1114,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -847,8 +1127,8 @@
         "link": "https://list.iptvcat.com/my_list/s/304397680175a103be85039c25bca510.m3u8",
         "country": "japan",
         "liveliness": "100",
-        "status": "offline",
-        "lastChecked": "2022-06-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -862,7 +1142,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -875,8 +1155,8 @@
         "link": "https://list.iptvcat.com/my_list/s/2119e6e0780e15bbdebdb3471fb8aabd.m3u8",
         "country": "japan",
         "liveliness": "100",
-        "status": "offline",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "2740",
         "URI": [
@@ -890,7 +1170,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
@@ -904,12 +1184,12 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "3433",
         "URI": [
             "japan_-_-_-_-",
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            "united_states_of_america"
         ]
     },
     {
@@ -919,12 +1199,12 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-06-19T00:00:00Z",
+        "lastChecked": "2022-06-20T00:00:00Z",
         "format": "sd",
         "mbps": "3433",
         "URI": [
             "japan_-_-_-_-",
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            "united_states_of_america"
         ]
     }
 ]
