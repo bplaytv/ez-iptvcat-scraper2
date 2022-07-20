@@ -4,11 +4,11 @@
         "channel": "Gold Ireland",
         "link": "https://list.iptvcat.com/my_list/s/276c646068d64a500a8c94a5ea923a27.m3u8",
         "country": "ireland",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "sd",
-        "mbps": "1796",
+        "mbps": "1509",
         "URI": [
             "ireland_-_"
         ]
@@ -20,7 +20,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -116,25 +116,11 @@
         "channel": "RTE One",
         "link": "https://list.iptvcat.com/my_list/s/c09b0612e9be9d69313037d8af6fa806.m3u8",
         "country": "ireland",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "ireland_-_"
-        ]
-    },
-    {
-        "id": "2574558",
-        "channel": "RTE One",
-        "link": "https://list.iptvcat.com/my_list/s/7825d0763bc5fe4cde135477d1788e0c.m3u8",
-        "country": "ireland",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2022-07-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "ireland_-_"
         ]
@@ -144,9 +130,9 @@
         "channel": "RTÉ 2",
         "link": "https://list.iptvcat.com/my_list/s/5c57914bc59c316e01306debe0acf169.m3u8",
         "country": "ireland",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -158,9 +144,9 @@
         "channel": "RTÉ JR",
         "link": "https://list.iptvcat.com/my_list/s/ed927095335cfbfe7db0744ad628ea2d.m3u8",
         "country": "ireland",
-        "liveliness": "85",
-        "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -172,23 +158,9 @@
         "channel": "RTÉ News",
         "link": "https://list.iptvcat.com/my_list/s/dffb2e1c48a72a20168df2f89b517b29.m3u8",
         "country": "ireland",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1174",
-        "URI": [
-            "ireland_-_"
-        ]
-    },
-    {
-        "id": "2574564",
-        "channel": "RTÉ News",
-        "link": "https://list.iptvcat.com/my_list/s/03b93ed2f96f95dfff6900cdc79895a7.m3u8",
-        "country": "ireland",
-        "liveliness": "47",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "1174",
         "URI": [
@@ -201,22 +173,8 @@
         "link": "https://list.iptvcat.com/my_list/s/c45c952c075267d899664deb3f0d3af2.m3u8",
         "country": "ireland",
         "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "ireland_-_"
-        ]
-    },
-    {
-        "id": "2574570",
-        "channel": "Setanta Sports 1",
-        "link": "https://list.iptvcat.com/my_list/s/4b716d4df62caf597e6f44cfde94266f.m3u8",
-        "country": "ireland",
-        "liveliness": "43",
         "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -230,9 +188,9 @@
         "country": "ireland",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
-        "mbps": "5036",
+        "mbps": "5020",
         "URI": [
             "ireland_-_"
         ]
@@ -244,7 +202,7 @@
         "country": "ireland",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -256,11 +214,11 @@
         "channel": "Gold Ireland",
         "link": "https://list.iptvcat.com/my_list/s/276c646068d64a500a8c94a5ea923a27.m3u8",
         "country": "ireland",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "sd",
-        "mbps": "1796",
+        "mbps": "1509",
         "URI": [
             "ireland_-_"
         ]
@@ -272,7 +230,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -286,7 +244,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -300,7 +258,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -314,7 +272,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -328,7 +286,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -342,7 +300,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -356,7 +314,7 @@
         "country": "ireland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -368,25 +326,11 @@
         "channel": "RTE One",
         "link": "https://list.iptvcat.com/my_list/s/c09b0612e9be9d69313037d8af6fa806.m3u8",
         "country": "ireland",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "ireland_-_"
-        ]
-    },
-    {
-        "id": "2574558",
-        "channel": "RTE One",
-        "link": "https://list.iptvcat.com/my_list/s/7825d0763bc5fe4cde135477d1788e0c.m3u8",
-        "country": "ireland",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2022-07-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "ireland_-_"
         ]
@@ -396,9 +340,9 @@
         "channel": "RTÉ 2",
         "link": "https://list.iptvcat.com/my_list/s/5c57914bc59c316e01306debe0acf169.m3u8",
         "country": "ireland",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -410,9 +354,9 @@
         "channel": "RTÉ JR",
         "link": "https://list.iptvcat.com/my_list/s/ed927095335cfbfe7db0744ad628ea2d.m3u8",
         "country": "ireland",
-        "liveliness": "85",
-        "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -424,23 +368,9 @@
         "channel": "RTÉ News",
         "link": "https://list.iptvcat.com/my_list/s/dffb2e1c48a72a20168df2f89b517b29.m3u8",
         "country": "ireland",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1174",
-        "URI": [
-            "ireland_-_"
-        ]
-    },
-    {
-        "id": "2574564",
-        "channel": "RTÉ News",
-        "link": "https://list.iptvcat.com/my_list/s/03b93ed2f96f95dfff6900cdc79895a7.m3u8",
-        "country": "ireland",
-        "liveliness": "47",
-        "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "sd",
         "mbps": "1174",
         "URI": [
@@ -453,22 +383,8 @@
         "link": "https://list.iptvcat.com/my_list/s/c45c952c075267d899664deb3f0d3af2.m3u8",
         "country": "ireland",
         "liveliness": "80",
-        "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "ireland_-_"
-        ]
-    },
-    {
-        "id": "2574570",
-        "channel": "Setanta Sports 1",
-        "link": "https://list.iptvcat.com/my_list/s/4b716d4df62caf597e6f44cfde94266f.m3u8",
-        "country": "ireland",
-        "liveliness": "43",
         "status": "offline",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -482,9 +398,9 @@
         "country": "ireland",
         "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "hd",
-        "mbps": "5036",
+        "mbps": "5020",
         "URI": [
             "ireland_-_"
         ]
@@ -496,7 +412,7 @@
         "country": "ireland",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-07-19T00:00:00Z",
+        "lastChecked": "2022-07-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
