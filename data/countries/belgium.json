@@ -1,12 +1,54 @@
 [
     {
+        "id": "2585477",
+        "channel": "AB 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/f68fc5c0773c1debcc3f0ab205f8d7e7.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585464",
+        "channel": "ACHT",
+        "link": "https://list.iptvcat.com/my_list/s/4c25095ad8759979bd225e5a2cef5fc0.m3u8",
+        "country": "belgium",
+        "liveliness": "40",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585499",
+        "channel": "ATV",
+        "link": "https://list.iptvcat.com/my_list/s/f4d04b13b641b387860353a0cdbc0866.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "55565",
         "channel": "BE | Notele, Notele",
         "link": "https://list.iptvcat.com/my_list/s/d78b9f352d9736687fa7fa46c6b18d7a.m3u8",
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -20,7 +62,7 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -34,9 +76,275 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585466",
+        "channel": "BX1",
+        "link": "https://list.iptvcat.com/my_list/s/05d5e96df6bd27973b08ed3ea1e56fb5.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585495",
+        "channel": "BX1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/632417844354cdec8218a0f2193a44c9.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585441",
+        "channel": "CANVAS",
+        "link": "https://list.iptvcat.com/my_list/s/c38b68212774d9f525279dc290aa4554.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585454",
+        "channel": "CLUB RTL HD",
+        "link": "https://list.iptvcat.com/my_list/s/d87c55ac0c5ed2d1bc8c9264754f0276.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585485",
+        "channel": "Club RTL HD",
+        "link": "https://list.iptvcat.com/my_list/s/3df0db2e7d455bf0823e33184639c00b.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585434",
+        "channel": "EEN HD",
+        "link": "https://list.iptvcat.com/my_list/s/416ae02ebdc6fd3fe23b6b6fc9c566e2.m3u8",
+        "country": "belgium",
+        "liveliness": "60",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585467",
+        "channel": "ELEVEN SPORT 1",
+        "link": "https://list.iptvcat.com/my_list/s/206c7a2b853fe8525484083dd260bc18.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585468",
+        "channel": "ELEVEN SPORT 2",
+        "link": "https://list.iptvcat.com/my_list/s/cdac272a2a7b6b57a408e5f98b0f0f57.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585471",
+        "channel": "ELEVEN SPORTS 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/d2c620f64887ead4e6b9053e102c81c8.m3u8",
+        "country": "belgium",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585470",
+        "channel": "Eclips TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/50af733a7c38fb164228c5892d5ea8ae.m3u8",
+        "country": "belgium",
+        "liveliness": "25",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585476",
+        "channel": "Een HD",
+        "link": "https://list.iptvcat.com/my_list/s/3a6c28ea665bce4c77787d1fc47e0636.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585507",
+        "channel": "Eleven Sport 1 (FR)",
+        "link": "https://list.iptvcat.com/my_list/s/e27fe60937ea9be0693558132c5aa0be.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585506",
+        "channel": "Eleven Sport 1 (NL)",
+        "link": "https://list.iptvcat.com/my_list/s/87ad020f2c3fc203720d83699ac4748c.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585508",
+        "channel": "Eleven Sport 2 (BE)",
+        "link": "https://list.iptvcat.com/my_list/s/d26cd5ae3c9118533ecab48668a96920.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585503",
+        "channel": "Eleven Sports 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/555e2813fa407364cf33f0e0f7776f57.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585504",
+        "channel": "Eleven Sports 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/34e2226a6c1c63cadd5fc87ffe50879e.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585505",
+        "channel": "Eleven Sports 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/d90378cf365f0cf28e9a1edbf21a809e.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585478",
+        "channel": "Kadet",
+        "link": "https://list.iptvcat.com/my_list/s/6890fe36ed849e0fe8c32423bc8d4771.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585492",
+        "channel": "Ketnet HD",
+        "link": "https://list.iptvcat.com/my_list/s/43e508911cb0d0eeadf2da1fc50eac99.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -48,7 +356,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -62,9 +370,79 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585494",
+        "channel": "Ketnet Junior HD",
+        "link": "https://list.iptvcat.com/my_list/s/e9ba581e51433928cbc39bcaba9093b0.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585493",
+        "channel": "Ketnet Kids HD",
+        "link": "https://list.iptvcat.com/my_list/s/ea7b92bcaa4a4435782e7cd5518b0292.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585446",
+        "channel": "LA DEUX HD",
+        "link": "https://list.iptvcat.com/my_list/s/8530dba8ad329a1cb88ba1bd30aa3cac.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585399",
+        "channel": "LA TROIS",
+        "link": "https://list.iptvcat.com/my_list/s/3d0d87d704edeaa3c064136183cb3d84.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585450",
+        "channel": "LA TROIS HD",
+        "link": "https://list.iptvcat.com/my_list/s/e6eeb0712e3ae2efe56bf81153e59f9b.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -76,9 +454,79 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585497",
+        "channel": "LN24 HD",
+        "link": "https://list.iptvcat.com/my_list/s/3b574903cb35529fa38fce5e29a43e23.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585479",
+        "channel": "La Deux",
+        "link": "https://list.iptvcat.com/my_list/s/2155ebb4cdf5056e411711855cfe5d39.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585480",
+        "channel": "La Trois",
+        "link": "https://list.iptvcat.com/my_list/s/47e586fe3b04ac29126010ac38077fab.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585481",
+        "channel": "La Une HD",
+        "link": "https://list.iptvcat.com/my_list/s/1370d10d4d0f3b0c8e36685b11e75cb5.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585498",
+        "channel": "MA Tele",
+        "link": "https://list.iptvcat.com/my_list/s/26ba5bc4862e73c8dc71974df2edca76.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -90,9 +538,23 @@
         "country": "belgium",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585496",
+        "channel": "Nat Geo HD",
+        "link": "https://list.iptvcat.com/my_list/s/7f75bd96a580a66c56fd1f01ff8ecc62.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -104,7 +566,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -118,7 +580,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -132,7 +594,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -146,9 +608,23 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585486",
+        "channel": "Plug RTL HD",
+        "link": "https://list.iptvcat.com/my_list/s/6106623418d98290d5493c83f16c65d5.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -160,9 +636,93 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585439",
+        "channel": "Q2",
+        "link": "https://list.iptvcat.com/my_list/s/2d346cce29235818f98f3c5eb857518b.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585442",
+        "channel": "ROB.TV",
+        "link": "https://list.iptvcat.com/my_list/s/3b9d90ea4e9b4132387821dfdef96636.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585456",
+        "channel": "RTL TVI",
+        "link": "https://list.iptvcat.com/my_list/s/7d8e8007b2ed3cc01bc97a6bdfa97522.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585484",
+        "channel": "RTL TVI",
+        "link": "https://list.iptvcat.com/my_list/s/d3603b50379e09a706a3ad36698f1aaf.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585458",
+        "channel": "RTL TVI HD",
+        "link": "https://list.iptvcat.com/my_list/s/fdadd81d85699cd43daff301d238b5f8.m3u8",
+        "country": "belgium",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585383",
+        "channel": "RTL ZWEI FHD",
+        "link": "https://list.iptvcat.com/my_list/s/3e4a6b401ac75e36ecd06aac8cce3cd1.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -174,7 +734,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -188,7 +748,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -202,7 +762,7 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -216,9 +776,51 @@
         "country": "belgium",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585482",
+        "channel": "TVL",
+        "link": "https://list.iptvcat.com/my_list/s/5ae0c6f3f1732ba08f09e90b9e73fb9e.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585483",
+        "channel": "TVO FHD",
+        "link": "https://list.iptvcat.com/my_list/s/c51a865a8c70af720fa614ba1852992d.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585440",
+        "channel": "VIJF HD",
+        "link": "https://list.iptvcat.com/my_list/s/4f8055a96f87f3ab35efecf87b7c26c0.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1647",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -230,7 +832,7 @@
         "country": "belgium",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "sd",
         "mbps": "652",
         "URI": [
@@ -244,7 +846,7 @@
         "country": "belgium",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "sd",
         "mbps": "652",
         "URI": [
@@ -258,7 +860,7 @@
         "country": "belgium",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "sd",
         "mbps": "652",
         "URI": [
@@ -272,9 +874,177 @@
         "country": "belgium",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "sd",
         "mbps": "652",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585435",
+        "channel": "VTM",
+        "link": "https://list.iptvcat.com/my_list/s/4e9a0a5b742c60d025ac0b0dec22dc9f.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585488",
+        "channel": "VTM 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/8685028ccea9432941b8b3c017e11762.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585489",
+        "channel": "VTM 3",
+        "link": "https://list.iptvcat.com/my_list/s/7502cb1d0f4fb39db52eb754e6c690b1.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585436",
+        "channel": "VTM 4",
+        "link": "https://list.iptvcat.com/my_list/s/6ff9d0203ed8e260edc80ad9d33aedd1.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1647",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585490",
+        "channel": "VTM 4",
+        "link": "https://list.iptvcat.com/my_list/s/1c03c96be2de0a9701e019bf5d717466.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1647",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585437",
+        "channel": "VTM 4 HD",
+        "link": "https://list.iptvcat.com/my_list/s/c1e442be509337f01369be72cf996f37.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585438",
+        "channel": "VTM KZOOM",
+        "link": "https://list.iptvcat.com/my_list/s/b4f390e8600e9543ff2d672639b3c6e7.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585491",
+        "channel": "VTM Kids",
+        "link": "https://list.iptvcat.com/my_list/s/428438515682cf6911dfdc2c53ca74cd.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585473",
+        "channel": "Voo Sport World 1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/ca08a55fb789ba4e5b0ec0c550a895af.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585500",
+        "channel": "Voo Sport World 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/887e8c2bdadb03c237e6f51601628455.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585501",
+        "channel": "Voo Sport World 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/063e308b9851e0a536639a7a55484b54.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585502",
+        "channel": "Voo Sport World 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/a6b7544a6003f2c540f73d33f13cf33b.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -286,9 +1056,79 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585487",
+        "channel": "Xite Belgie HD",
+        "link": "https://list.iptvcat.com/my_list/s/34253ddddecefcfb72153f5279eb8a0d.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585338",
+        "channel": "Zes",
+        "link": "https://list.iptvcat.com/my_list/s/ca839310bf57ccd24e67942ee6877372.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585477",
+        "channel": "AB 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/f68fc5c0773c1debcc3f0ab205f8d7e7.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585464",
+        "channel": "ACHT",
+        "link": "https://list.iptvcat.com/my_list/s/4c25095ad8759979bd225e5a2cef5fc0.m3u8",
+        "country": "belgium",
+        "liveliness": "40",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585499",
+        "channel": "ATV",
+        "link": "https://list.iptvcat.com/my_list/s/f4d04b13b641b387860353a0cdbc0866.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -300,7 +1140,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -314,7 +1154,7 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -328,9 +1168,275 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585466",
+        "channel": "BX1",
+        "link": "https://list.iptvcat.com/my_list/s/05d5e96df6bd27973b08ed3ea1e56fb5.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585495",
+        "channel": "BX1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/632417844354cdec8218a0f2193a44c9.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585441",
+        "channel": "CANVAS",
+        "link": "https://list.iptvcat.com/my_list/s/c38b68212774d9f525279dc290aa4554.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585454",
+        "channel": "CLUB RTL HD",
+        "link": "https://list.iptvcat.com/my_list/s/d87c55ac0c5ed2d1bc8c9264754f0276.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585485",
+        "channel": "Club RTL HD",
+        "link": "https://list.iptvcat.com/my_list/s/3df0db2e7d455bf0823e33184639c00b.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585434",
+        "channel": "EEN HD",
+        "link": "https://list.iptvcat.com/my_list/s/416ae02ebdc6fd3fe23b6b6fc9c566e2.m3u8",
+        "country": "belgium",
+        "liveliness": "60",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585467",
+        "channel": "ELEVEN SPORT 1",
+        "link": "https://list.iptvcat.com/my_list/s/206c7a2b853fe8525484083dd260bc18.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585468",
+        "channel": "ELEVEN SPORT 2",
+        "link": "https://list.iptvcat.com/my_list/s/cdac272a2a7b6b57a408e5f98b0f0f57.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585471",
+        "channel": "ELEVEN SPORTS 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/d2c620f64887ead4e6b9053e102c81c8.m3u8",
+        "country": "belgium",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585470",
+        "channel": "Eclips TV HD",
+        "link": "https://list.iptvcat.com/my_list/s/50af733a7c38fb164228c5892d5ea8ae.m3u8",
+        "country": "belgium",
+        "liveliness": "25",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585476",
+        "channel": "Een HD",
+        "link": "https://list.iptvcat.com/my_list/s/3a6c28ea665bce4c77787d1fc47e0636.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585507",
+        "channel": "Eleven Sport 1 (FR)",
+        "link": "https://list.iptvcat.com/my_list/s/e27fe60937ea9be0693558132c5aa0be.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585506",
+        "channel": "Eleven Sport 1 (NL)",
+        "link": "https://list.iptvcat.com/my_list/s/87ad020f2c3fc203720d83699ac4748c.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585508",
+        "channel": "Eleven Sport 2 (BE)",
+        "link": "https://list.iptvcat.com/my_list/s/d26cd5ae3c9118533ecab48668a96920.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585503",
+        "channel": "Eleven Sports 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/555e2813fa407364cf33f0e0f7776f57.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585504",
+        "channel": "Eleven Sports 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/34e2226a6c1c63cadd5fc87ffe50879e.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585505",
+        "channel": "Eleven Sports 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/d90378cf365f0cf28e9a1edbf21a809e.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585478",
+        "channel": "Kadet",
+        "link": "https://list.iptvcat.com/my_list/s/6890fe36ed849e0fe8c32423bc8d4771.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585492",
+        "channel": "Ketnet HD",
+        "link": "https://list.iptvcat.com/my_list/s/43e508911cb0d0eeadf2da1fc50eac99.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -342,7 +1448,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -356,9 +1462,79 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585494",
+        "channel": "Ketnet Junior HD",
+        "link": "https://list.iptvcat.com/my_list/s/e9ba581e51433928cbc39bcaba9093b0.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585493",
+        "channel": "Ketnet Kids HD",
+        "link": "https://list.iptvcat.com/my_list/s/ea7b92bcaa4a4435782e7cd5518b0292.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585446",
+        "channel": "LA DEUX HD",
+        "link": "https://list.iptvcat.com/my_list/s/8530dba8ad329a1cb88ba1bd30aa3cac.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585399",
+        "channel": "LA TROIS",
+        "link": "https://list.iptvcat.com/my_list/s/3d0d87d704edeaa3c064136183cb3d84.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585450",
+        "channel": "LA TROIS HD",
+        "link": "https://list.iptvcat.com/my_list/s/e6eeb0712e3ae2efe56bf81153e59f9b.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -370,9 +1546,79 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585497",
+        "channel": "LN24 HD",
+        "link": "https://list.iptvcat.com/my_list/s/3b574903cb35529fa38fce5e29a43e23.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585479",
+        "channel": "La Deux",
+        "link": "https://list.iptvcat.com/my_list/s/2155ebb4cdf5056e411711855cfe5d39.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585480",
+        "channel": "La Trois",
+        "link": "https://list.iptvcat.com/my_list/s/47e586fe3b04ac29126010ac38077fab.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585481",
+        "channel": "La Une HD",
+        "link": "https://list.iptvcat.com/my_list/s/1370d10d4d0f3b0c8e36685b11e75cb5.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585498",
+        "channel": "MA Tele",
+        "link": "https://list.iptvcat.com/my_list/s/26ba5bc4862e73c8dc71974df2edca76.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -384,9 +1630,23 @@
         "country": "belgium",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585496",
+        "channel": "Nat Geo HD",
+        "link": "https://list.iptvcat.com/my_list/s/7f75bd96a580a66c56fd1f01ff8ecc62.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -398,7 +1658,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -412,7 +1672,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -426,7 +1686,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -440,9 +1700,23 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585486",
+        "channel": "Plug RTL HD",
+        "link": "https://list.iptvcat.com/my_list/s/6106623418d98290d5493c83f16c65d5.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -454,9 +1728,93 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585439",
+        "channel": "Q2",
+        "link": "https://list.iptvcat.com/my_list/s/2d346cce29235818f98f3c5eb857518b.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585442",
+        "channel": "ROB.TV",
+        "link": "https://list.iptvcat.com/my_list/s/3b9d90ea4e9b4132387821dfdef96636.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585456",
+        "channel": "RTL TVI",
+        "link": "https://list.iptvcat.com/my_list/s/7d8e8007b2ed3cc01bc97a6bdfa97522.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585484",
+        "channel": "RTL TVI",
+        "link": "https://list.iptvcat.com/my_list/s/d3603b50379e09a706a3ad36698f1aaf.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585458",
+        "channel": "RTL TVI HD",
+        "link": "https://list.iptvcat.com/my_list/s/fdadd81d85699cd43daff301d238b5f8.m3u8",
+        "country": "belgium",
+        "liveliness": "80",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585383",
+        "channel": "RTL ZWEI FHD",
+        "link": "https://list.iptvcat.com/my_list/s/3e4a6b401ac75e36ecd06aac8cce3cd1.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -468,7 +1826,7 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -482,7 +1840,7 @@
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -496,7 +1854,7 @@
         "country": "belgium",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -510,9 +1868,51 @@
         "country": "belgium",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585482",
+        "channel": "TVL",
+        "link": "https://list.iptvcat.com/my_list/s/5ae0c6f3f1732ba08f09e90b9e73fb9e.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585483",
+        "channel": "TVO FHD",
+        "link": "https://list.iptvcat.com/my_list/s/c51a865a8c70af720fa614ba1852992d.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585440",
+        "channel": "VIJF HD",
+        "link": "https://list.iptvcat.com/my_list/s/4f8055a96f87f3ab35efecf87b7c26c0.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1647",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -524,7 +1924,7 @@
         "country": "belgium",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "sd",
         "mbps": "652",
         "URI": [
@@ -538,7 +1938,7 @@
         "country": "belgium",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "sd",
         "mbps": "652",
         "URI": [
@@ -552,7 +1952,7 @@
         "country": "belgium",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "sd",
         "mbps": "652",
         "URI": [
@@ -566,9 +1966,177 @@
         "country": "belgium",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "sd",
         "mbps": "652",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585435",
+        "channel": "VTM",
+        "link": "https://list.iptvcat.com/my_list/s/4e9a0a5b742c60d025ac0b0dec22dc9f.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585488",
+        "channel": "VTM 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/8685028ccea9432941b8b3c017e11762.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585489",
+        "channel": "VTM 3",
+        "link": "https://list.iptvcat.com/my_list/s/7502cb1d0f4fb39db52eb754e6c690b1.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585436",
+        "channel": "VTM 4",
+        "link": "https://list.iptvcat.com/my_list/s/6ff9d0203ed8e260edc80ad9d33aedd1.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1647",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585490",
+        "channel": "VTM 4",
+        "link": "https://list.iptvcat.com/my_list/s/1c03c96be2de0a9701e019bf5d717466.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1647",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585437",
+        "channel": "VTM 4 HD",
+        "link": "https://list.iptvcat.com/my_list/s/c1e442be509337f01369be72cf996f37.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "offline",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585438",
+        "channel": "VTM KZOOM",
+        "link": "https://list.iptvcat.com/my_list/s/b4f390e8600e9543ff2d672639b3c6e7.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585491",
+        "channel": "VTM Kids",
+        "link": "https://list.iptvcat.com/my_list/s/428438515682cf6911dfdc2c53ca74cd.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585473",
+        "channel": "Voo Sport World 1 FHD",
+        "link": "https://list.iptvcat.com/my_list/s/ca08a55fb789ba4e5b0ec0c550a895af.m3u8",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585500",
+        "channel": "Voo Sport World 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/887e8c2bdadb03c237e6f51601628455.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585501",
+        "channel": "Voo Sport World 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/063e308b9851e0a536639a7a55484b54.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585502",
+        "channel": "Voo Sport World 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/a6b7544a6003f2c540f73d33f13cf33b.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
@@ -580,9 +2148,37 @@
         "country": "belgium",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-14T00:00:00Z",
+        "lastChecked": "2022-08-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585487",
+        "channel": "Xite Belgie HD",
+        "link": "https://list.iptvcat.com/my_list/s/34253ddddecefcfb72153f5279eb8a0d.m3u8",
+        "country": "belgium",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "belgium_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2585338",
+        "channel": "Zes",
+        "link": "https://list.iptvcat.com/my_list/s/ca839310bf57ccd24e67942ee6877372.m3u8",
+        "country": "belgium",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2022-08-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "belgium_-_-_-_-_-_-_"
         ]
