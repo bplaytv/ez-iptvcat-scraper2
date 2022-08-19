@@ -1,12 +1,28 @@
 [
     {
+        "id": "2589336",
+        "channel": "4FUN TV (576p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/8deced60ce432817e31bafde2ae1d7ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
         "id": "2472653",
         "channel": "ANTV (720p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/739dc71566cb54cc9202a6648a32e455.m3u8",
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1052",
         "URI": [
@@ -21,12 +37,28 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589410",
+        "channel": "Asharq (Portrait) (1280p)",
+        "link": "https://list.iptvcat.com/my_list/s/6ec04286398d07faefc65bd4bf49eb53.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "5020, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -36,7 +68,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -51,7 +83,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "537",
         "URI": [
@@ -66,7 +98,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -81,7 +113,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -96,7 +128,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -111,7 +143,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -127,7 +159,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -142,9 +174,9 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -157,7 +189,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -172,12 +204,60 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589255",
+        "channel": "Canal del Congreso 45.1",
+        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9546, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -187,7 +267,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -202,7 +282,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444",
         "URI": [
@@ -217,7 +297,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444",
         "URI": [
@@ -232,7 +312,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -247,12 +327,60 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589437",
+        "channel": "MMA TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/124b3fd02ced24c48b0949641e6054f8.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589275",
+        "channel": "Multimedios Saltillo [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/a2d7f897ef8a29640d6ab0efd96a37d2.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589183",
+        "channel": "Netlink TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/c5fec9f968748a69405a78ed11bcbd69.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -262,7 +390,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -277,9 +405,9 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "15836",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -291,13 +419,77 @@
         "link": "https://list.iptvcat.com/my_list/s/5c70a5f22a5f93c57df59495a93004b2.m3u8",
         "country": "indonesia",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589348",
+        "channel": "Radio Czworka (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/794e142e82d37f627c9ab5422e8782c5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589185",
+        "channel": "SEATV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/deaf45f6f0c005cdb6ad4ed9c0fb4e46.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589186",
+        "channel": "SEATV-Radio (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/18adeb0ef6752575ebcb768b19068862.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589279",
+        "channel": "TBS",
+        "link": "https://list.iptvcat.com/my_list/s/9573f52b58a77fc87c95ff64f9fc5c28.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2331",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -307,7 +499,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -321,8 +513,8 @@
         "link": "https://list.iptvcat.com/my_list/s/d5dd6fe8aa6449f2601164b43d852904.m3u8",
         "country": "indonesia",
         "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -337,7 +529,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -352,9 +544,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -367,7 +559,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -382,7 +574,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -397,7 +589,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -412,7 +604,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -427,7 +619,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -442,7 +634,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -457,7 +649,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -472,7 +664,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -487,9 +679,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -501,8 +693,8 @@
         "link": "https://list.iptvcat.com/my_list/s/b57eac5a287a39954545787572642a2e.m3u8",
         "country": "indonesia",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -517,7 +709,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -532,7 +724,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -547,7 +739,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -562,7 +754,7 @@
         "country": "indonesia",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -577,7 +769,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -592,7 +784,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -607,7 +799,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -622,7 +814,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -637,9 +829,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -652,9 +844,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -667,7 +859,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -682,9 +874,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -697,7 +889,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -712,7 +904,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -727,7 +919,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -742,7 +934,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -757,9 +949,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -772,9 +964,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -787,7 +979,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -802,9 +994,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -817,7 +1009,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -832,7 +1024,7 @@
         "country": "indonesia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -845,9 +1037,9 @@
         "channel": "TVRI Nusa Tenggara Timur (480p)",
         "link": "https://list.iptvcat.com/my_list/s/cd8ac34930025cc1c13bdf9e819cafd3.m3u8",
         "country": "indonesia",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -862,7 +1054,7 @@
         "country": "indonesia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -876,8 +1068,8 @@
         "link": "https://list.iptvcat.com/my_list/s/98b7689aa25939dec56a598a7bd5a425.m3u8",
         "country": "indonesia",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -892,9 +1084,9 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -907,7 +1099,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -922,7 +1114,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -937,9 +1129,9 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5020, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -952,9 +1144,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -967,7 +1159,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -982,7 +1174,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -997,9 +1189,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "790, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1012,7 +1204,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1027,7 +1219,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1042,7 +1234,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1057,9 +1249,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1072,7 +1264,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1087,7 +1279,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1102,7 +1294,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1117,7 +1309,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1132,7 +1324,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1147,7 +1339,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1162,7 +1354,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1177,7 +1369,7 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1191,10 +1383,10 @@
         "link": "https://list.iptvcat.com/my_list/s/d7be39daefe15cea10f3efa9b7193221.m3u8",
         "country": "indonesia",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1207,7 +1399,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1222,7 +1414,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1237,7 +1429,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1252,7 +1444,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -1267,12 +1459,28 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589336",
+        "channel": "4FUN TV (576p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/8deced60ce432817e31bafde2ae1d7ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -1282,7 +1490,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1052",
         "URI": [
@@ -1297,12 +1505,28 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589410",
+        "channel": "Asharq (Portrait) (1280p)",
+        "link": "https://list.iptvcat.com/my_list/s/6ec04286398d07faefc65bd4bf49eb53.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "5020, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -1312,7 +1536,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1327,7 +1551,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "537",
         "URI": [
@@ -1342,7 +1566,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -1357,7 +1581,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1372,7 +1596,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1387,7 +1611,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1403,7 +1627,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1418,9 +1642,9 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1433,7 +1657,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1448,12 +1672,60 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589255",
+        "channel": "Canal del Congreso 45.1",
+        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9546, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -1463,7 +1735,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -1478,7 +1750,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444",
         "URI": [
@@ -1493,7 +1765,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444",
         "URI": [
@@ -1508,7 +1780,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1523,12 +1795,60 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589437",
+        "channel": "MMA TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/124b3fd02ced24c48b0949641e6054f8.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589275",
+        "channel": "Multimedios Saltillo [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/a2d7f897ef8a29640d6ab0efd96a37d2.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589183",
+        "channel": "Netlink TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/c5fec9f968748a69405a78ed11bcbd69.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -1538,7 +1858,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -1553,9 +1873,9 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "15836",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1567,13 +1887,77 @@
         "link": "https://list.iptvcat.com/my_list/s/5c70a5f22a5f93c57df59495a93004b2.m3u8",
         "country": "indonesia",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589348",
+        "channel": "Radio Czworka (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/794e142e82d37f627c9ab5422e8782c5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589185",
+        "channel": "SEATV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/deaf45f6f0c005cdb6ad4ed9c0fb4e46.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589186",
+        "channel": "SEATV-Radio (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/18adeb0ef6752575ebcb768b19068862.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589279",
+        "channel": "TBS",
+        "link": "https://list.iptvcat.com/my_list/s/9573f52b58a77fc87c95ff64f9fc5c28.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2331",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -1583,7 +1967,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -1597,8 +1981,8 @@
         "link": "https://list.iptvcat.com/my_list/s/d5dd6fe8aa6449f2601164b43d852904.m3u8",
         "country": "indonesia",
         "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -1613,7 +1997,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1628,9 +2012,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1643,7 +2027,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1658,7 +2042,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1673,7 +2057,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1688,7 +2072,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1703,7 +2087,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1718,7 +2102,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1733,7 +2117,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1748,7 +2132,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1763,9 +2147,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1777,8 +2161,8 @@
         "link": "https://list.iptvcat.com/my_list/s/b57eac5a287a39954545787572642a2e.m3u8",
         "country": "indonesia",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1793,7 +2177,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1808,7 +2192,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1823,7 +2207,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -1838,7 +2222,7 @@
         "country": "indonesia",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1853,7 +2237,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1868,7 +2252,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1883,7 +2267,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1898,7 +2282,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1913,9 +2297,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1928,9 +2312,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1943,7 +2327,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1958,9 +2342,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -1973,7 +2357,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -1988,7 +2372,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2003,7 +2387,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2018,7 +2402,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2033,9 +2417,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2048,9 +2432,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2063,7 +2447,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2078,9 +2462,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2093,7 +2477,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2108,7 +2492,7 @@
         "country": "indonesia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2121,9 +2505,9 @@
         "channel": "TVRI Nusa Tenggara Timur (480p)",
         "link": "https://list.iptvcat.com/my_list/s/cd8ac34930025cc1c13bdf9e819cafd3.m3u8",
         "country": "indonesia",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2138,7 +2522,7 @@
         "country": "indonesia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2152,8 +2536,8 @@
         "link": "https://list.iptvcat.com/my_list/s/98b7689aa25939dec56a598a7bd5a425.m3u8",
         "country": "indonesia",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2168,9 +2552,9 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2183,7 +2567,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2198,7 +2582,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2213,9 +2597,9 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5020, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2228,9 +2612,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2243,7 +2627,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2258,7 +2642,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2273,9 +2657,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "790, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2288,7 +2672,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2303,7 +2687,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2318,7 +2702,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2333,9 +2717,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2348,7 +2732,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2363,7 +2747,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2378,7 +2762,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2393,7 +2777,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2408,7 +2792,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2423,7 +2807,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2438,7 +2822,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2453,7 +2837,7 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2467,10 +2851,10 @@
         "link": "https://list.iptvcat.com/my_list/s/d7be39daefe15cea10f3efa9b7193221.m3u8",
         "country": "indonesia",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2483,7 +2867,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2498,7 +2882,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2513,7 +2897,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2528,7 +2912,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2543,12 +2927,28 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589336",
+        "channel": "4FUN TV (576p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/8deced60ce432817e31bafde2ae1d7ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -2558,7 +2958,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1052",
         "URI": [
@@ -2573,12 +2973,28 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589410",
+        "channel": "Asharq (Portrait) (1280p)",
+        "link": "https://list.iptvcat.com/my_list/s/6ec04286398d07faefc65bd4bf49eb53.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "5020, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -2588,7 +3004,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2603,7 +3019,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "537",
         "URI": [
@@ -2618,7 +3034,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -2633,7 +3049,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2648,7 +3064,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2663,7 +3079,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2679,7 +3095,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2694,9 +3110,9 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2709,7 +3125,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2724,12 +3140,60 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589255",
+        "channel": "Canal del Congreso 45.1",
+        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9546, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -2739,7 +3203,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2754,7 +3218,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444",
         "URI": [
@@ -2769,7 +3233,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444",
         "URI": [
@@ -2784,7 +3248,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2799,12 +3263,60 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589437",
+        "channel": "MMA TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/124b3fd02ced24c48b0949641e6054f8.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589275",
+        "channel": "Multimedios Saltillo [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/a2d7f897ef8a29640d6ab0efd96a37d2.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589183",
+        "channel": "Netlink TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/c5fec9f968748a69405a78ed11bcbd69.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -2814,7 +3326,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2829,9 +3341,9 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "15836",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2843,13 +3355,77 @@
         "link": "https://list.iptvcat.com/my_list/s/5c70a5f22a5f93c57df59495a93004b2.m3u8",
         "country": "indonesia",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589348",
+        "channel": "Radio Czworka (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/794e142e82d37f627c9ab5422e8782c5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589185",
+        "channel": "SEATV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/deaf45f6f0c005cdb6ad4ed9c0fb4e46.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589186",
+        "channel": "SEATV-Radio (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/18adeb0ef6752575ebcb768b19068862.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589279",
+        "channel": "TBS",
+        "link": "https://list.iptvcat.com/my_list/s/9573f52b58a77fc87c95ff64f9fc5c28.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2331",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     },
     {
@@ -2859,7 +3435,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -2873,8 +3449,8 @@
         "link": "https://list.iptvcat.com/my_list/s/d5dd6fe8aa6449f2601164b43d852904.m3u8",
         "country": "indonesia",
         "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -2889,7 +3465,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2904,9 +3480,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -2919,7 +3495,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2934,7 +3510,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2949,7 +3525,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2964,7 +3540,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -2979,7 +3555,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -2994,7 +3570,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3009,7 +3585,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -3024,7 +3600,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3039,9 +3615,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3053,8 +3629,8 @@
         "link": "https://list.iptvcat.com/my_list/s/b57eac5a287a39954545787572642a2e.m3u8",
         "country": "indonesia",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3069,7 +3645,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3084,7 +3660,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3099,7 +3675,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3114,7 +3690,7 @@
         "country": "indonesia",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3129,7 +3705,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3144,7 +3720,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3159,7 +3735,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3174,7 +3750,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3189,9 +3765,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3204,9 +3780,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3219,7 +3795,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3234,9 +3810,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3249,7 +3825,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3264,7 +3840,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3279,7 +3855,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3294,7 +3870,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3309,9 +3885,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3324,9 +3900,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3339,7 +3915,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3354,9 +3930,9 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3369,7 +3945,7 @@
         "country": "indonesia",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3384,7 +3960,7 @@
         "country": "indonesia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3397,9 +3973,9 @@
         "channel": "TVRI Nusa Tenggara Timur (480p)",
         "link": "https://list.iptvcat.com/my_list/s/cd8ac34930025cc1c13bdf9e819cafd3.m3u8",
         "country": "indonesia",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3414,7 +3990,7 @@
         "country": "indonesia",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3428,8 +4004,8 @@
         "link": "https://list.iptvcat.com/my_list/s/98b7689aa25939dec56a598a7bd5a425.m3u8",
         "country": "indonesia",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3444,9 +4020,9 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3459,7 +4035,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3474,7 +4050,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3489,9 +4065,9 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5020, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3504,9 +4080,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3519,7 +4095,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3534,7 +4110,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3549,9 +4125,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "790, ...",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3564,7 +4140,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3579,7 +4155,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3594,7 +4170,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3609,9 +4185,9 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1444, ...",
+        "mbps": "1444",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3624,7 +4200,7 @@
         "country": "indonesia",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3639,7 +4215,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3654,7 +4230,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3669,7 +4245,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3684,7 +4260,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3699,7 +4275,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3714,7 +4290,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "sd",
         "mbps": "1444, ...",
         "URI": [
@@ -3729,7 +4305,7 @@
         "country": "indonesia",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3743,10 +4319,10 @@
         "link": "https://list.iptvcat.com/my_list/s/d7be39daefe15cea10f3efa9b7193221.m3u8",
         "country": "indonesia",
         "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3625, ...",
+        "mbps": "3625",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-"
@@ -3759,7 +4335,7 @@
         "country": "indonesia",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3774,7 +4350,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3789,7 +4365,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
         "URI": [
@@ -3804,7 +4380,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -3819,7 +4395,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -3834,7 +4410,7 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3850,13 +4426,397 @@
         "country": "indonesia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-08-18T00:00:00Z",
+        "lastChecked": "2022-08-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "indonesia",
             "indonesia_-_-_-_-_-_-_-",
             "singapore_-_-_"
+        ]
+    },
+    {
+        "id": "2589336",
+        "channel": "4FUN TV (576p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/8deced60ce432817e31bafde2ae1d7ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589410",
+        "channel": "Asharq (Portrait) (1280p)",
+        "link": "https://list.iptvcat.com/my_list/s/6ec04286398d07faefc65bd4bf49eb53.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "5020, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589255",
+        "channel": "Canal del Congreso 45.1",
+        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9546, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589437",
+        "channel": "MMA TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/124b3fd02ced24c48b0949641e6054f8.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589275",
+        "channel": "Multimedios Saltillo [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/a2d7f897ef8a29640d6ab0efd96a37d2.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589183",
+        "channel": "Netlink TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/c5fec9f968748a69405a78ed11bcbd69.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589348",
+        "channel": "Radio Czworka (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/794e142e82d37f627c9ab5422e8782c5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589185",
+        "channel": "SEATV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/deaf45f6f0c005cdb6ad4ed9c0fb4e46.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589186",
+        "channel": "SEATV-Radio (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/18adeb0ef6752575ebcb768b19068862.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589279",
+        "channel": "TBS",
+        "link": "https://list.iptvcat.com/my_list/s/9573f52b58a77fc87c95ff64f9fc5c28.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2331",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589336",
+        "channel": "4FUN TV (576p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/8deced60ce432817e31bafde2ae1d7ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2369, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589410",
+        "channel": "Asharq (Portrait) (1280p)",
+        "link": "https://list.iptvcat.com/my_list/s/6ec04286398d07faefc65bd4bf49eb53.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "5020, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589255",
+        "channel": "Canal del Congreso 45.1",
+        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9546, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589437",
+        "channel": "MMA TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/124b3fd02ced24c48b0949641e6054f8.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589275",
+        "channel": "Multimedios Saltillo [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/a2d7f897ef8a29640d6ab0efd96a37d2.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589183",
+        "channel": "Netlink TV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/c5fec9f968748a69405a78ed11bcbd69.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589348",
+        "channel": "Radio Czworka (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/794e142e82d37f627c9ab5422e8782c5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589185",
+        "channel": "SEATV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/deaf45f6f0c005cdb6ad4ed9c0fb4e46.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589186",
+        "channel": "SEATV-Radio (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/18adeb0ef6752575ebcb768b19068862.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
+        ]
+    },
+    {
+        "id": "2589279",
+        "channel": "TBS",
+        "link": "https://list.iptvcat.com/my_list/s/9573f52b58a77fc87c95ff64f9fc5c28.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2331",
+        "URI": [
+            "indonesia",
+            "indonesia_-_-_-_-_-_-_-",
+            "new_zealand_-_-_"
         ]
     }
 ]
