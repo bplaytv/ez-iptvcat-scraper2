@@ -63,8 +63,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
+        "format": "hd",
+        "mbps": "7986, ...",
         "URI": [
             "india_-_-_-_-_-_-_-_-_"
         ]
@@ -134,7 +134,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "4318, ...",
         "URI": [
             "india_-_-_-_-_-_-_-_-_"
         ]
@@ -414,7 +414,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "7986, ...",
+        "mbps": "3625",
         "URI": [
             "india_-_-_-_-_-_-_-_-_"
         ]
@@ -540,7 +540,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1764, ...",
+        "mbps": "1299",
         "URI": [
             "india_-_-_-_-_-_-_-_-_"
         ]
@@ -933,8 +933,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1008",
+        "format": "hd",
+        "mbps": "7986, ...",
         "URI": [
             "india_-_-_-_-_-_-_-_-_"
         ]
@@ -1004,7 +1004,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "4318, ...",
         "URI": [
             "india_-_-_-_-_-_-_-_-_"
         ]
@@ -1284,7 +1284,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "7986, ...",
+        "mbps": "3625",
         "URI": [
             "india_-_-_-_-_-_-_-_-_"
         ]
@@ -1410,7 +1410,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1764, ...",
+        "mbps": "1299",
         "URI": [
             "india_-_-_-_-_-_-_-_-_"
         ]
@@ -1740,21 +1740,6 @@
         ]
     },
     {
-        "id": "379",
-        "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
-        "country": "india",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "india_-_-_-_-_-_-_-_-_",
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "386",
         "channel": "Tamil Vision International, Tamil Vision TV",
         "link": "https://list.iptvcat.com/my_list/s/a24ccb6eb140468621ab517572827df2.m3u8",
@@ -1794,6 +1779,21 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "india_-_-_-_-_-_-_-_-_",
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "379",
+        "channel": "Prime Canada TV",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "country": "india",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
         "URI": [
             "india_-_-_-_-_-_-_-_-_",
             "canada_-_-_-_-_-"
