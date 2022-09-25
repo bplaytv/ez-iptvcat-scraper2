@@ -1117,7 +1117,7 @@
         "mbps": "4821",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "australia"
+            "australia_-_-_-_-_-"
         ]
     },
     {
@@ -5536,6 +5536,21 @@
         ]
     },
     {
+        "id": "2584429",
+        "channel": "Tropical Moon Urban TV",
+        "link": "https://list.iptvcat.com/my_list/s/e49b642a5582996105a4586ed6fd6ef0.m3u8",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4821",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "australia_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2584136",
         "channel": "Canal 11 Aysén",
         "link": "https://list.iptvcat.com/my_list/s/ec42f038deaa09db89132e2f6d72aca7.m3u8",
@@ -5623,21 +5638,6 @@
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "australia_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2584429",
-        "channel": "Tropical Moon Urban TV",
-        "link": "https://list.iptvcat.com/my_list/s/e49b642a5582996105a4586ed6fd6ef0.m3u8",
-        "country": "france",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4821",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "australia"
         ]
     },
     {
@@ -5965,6 +5965,21 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "australia_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2584429",
+        "channel": "Tropical Moon Urban TV",
+        "link": "https://list.iptvcat.com/my_list/s/e49b642a5582996105a4586ed6fd6ef0.m3u8",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4821",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "australia_-_-_-_-_-"
