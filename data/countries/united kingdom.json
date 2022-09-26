@@ -184,20 +184,6 @@
         ]
     },
     {
-        "id": "2623945",
-        "channel": "5 USA +1",
-        "link": "https://list.iptvcat.com/my_list/s/5d6697682af9b9aca53983a7fe8fb607.m3u8",
-        "country": "united kingdom",
-        "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2285",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2585472",
         "channel": "5USA",
         "link": "https://list.iptvcat.com/my_list/s/5d6e124a28c79fd6630c8d323263bac8.m3u8",
@@ -1411,142 +1397,15 @@
         ]
     },
     {
-        "id": "2607431",
-        "channel": "Supertoons TV",
-        "link": "https://list.iptvcat.com/my_list/s/ce797e44bca4cca580b893daa1b3778d.m3u8",
+        "id": "2623963",
+        "channel": "BBC Scotland",
+        "link": "https://list.iptvcat.com/my_list/s/7fd9c9cae7fcc45343523349d6b64e07.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-",
-            "australia_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2596198",
-        "channel": "TCM UK",
-        "link": "https://list.iptvcat.com/my_list/s/f7f2491516606e16227ce7831157032e.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2596199",
-        "channel": "TG4",
-        "link": "https://list.iptvcat.com/my_list/s/accb8f59a7a07d492fc60c2f77cd3c0a.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "984174",
-        "channel": "TGRT BELGESEL",
-        "link": "https://list.iptvcat.com/my_list/s/2b068e268c88895f2e0e9711ee60df72.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624406",
-        "channel": "THREE",
-        "link": "https://list.iptvcat.com/my_list/s/8aabed1fd9657e1af60672da97537776.m3u8",
-        "country": "united kingdom",
-        "liveliness": "59",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2285",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2497309",
-        "channel": "TLC",
-        "link": "https://list.iptvcat.com/my_list/s/31430b497ae4723f8aefbe9b3397aa3a.m3u8",
-        "country": "united kingdom",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2596202",
-        "channel": "TLC",
-        "link": "https://list.iptvcat.com/my_list/s/e58c04cb6e9470935a9988ab022c55f2.m3u8",
-        "country": "united kingdom",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2497311",
-        "channel": "TRAVEL CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/beff84c44e1687a28140cd8ed54ff7a2.m3u8",
-        "country": "united kingdom",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2601132",
-        "channel": "TV Brusque (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/a5ad9bcb9a580346559a41fde09d7c0b.m3u8",
-        "country": "united kingdom",
-        "liveliness": "79",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2602335",
-        "channel": "TV Ellef (540p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/2eee0e10f6afc25789a56c03de0d06dd.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "mbps": "2883",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2444,20 +2303,6 @@
         ]
     },
     {
-        "id": "2624062",
-        "channel": "itv 4 +1",
-        "link": "https://list.iptvcat.com/my_list/s/a2b1c11179f0d3f86a0b14a1d9aa5c1a.m3u8",
-        "country": "united kingdom",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2624064",
         "channel": "itv BE",
         "link": "https://list.iptvcat.com/my_list/s/2d1e28be60af16a1dcdb8d3ab69d2746.m3u8",
@@ -2509,118 +2354,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624505",
-        "channel": "SKY MOVIES SCI-FI \u0026 HORROR",
-        "link": "https://list.iptvcat.com/my_list/s/2f983c394c19ac3df29a71bfe7bbe818.m3u8",
-        "country": "united kingdom",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624402",
-        "channel": "SKY MOVIES SCI-FI \u0026 HORROR",
-        "link": "https://list.iptvcat.com/my_list/s/5096258485ce91b1b787fc754071dd62.m3u8",
-        "country": "united kingdom",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624506",
-        "channel": "SKY MOVIES THRILLER",
-        "link": "https://list.iptvcat.com/my_list/s/1f027782f1ddba14a53da80808d52655.m3u8",
-        "country": "united kingdom",
-        "liveliness": "70",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624403",
-        "channel": "SKY MOVIES THRILLER",
-        "link": "https://list.iptvcat.com/my_list/s/44945c4f7cc28716c505f4cfcbda7e08.m3u8",
-        "country": "united kingdom",
-        "liveliness": "85",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624507",
-        "channel": "SKY NEWS",
-        "link": "https://list.iptvcat.com/my_list/s/d40d6c5b58752c973b7ccee4f1f96bf1.m3u8",
-        "country": "united kingdom",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1853",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624404",
-        "channel": "SKY NEWS B1",
-        "link": "https://list.iptvcat.com/my_list/s/c84494de01795b381eb3fa3b3ccce01e.m3u8",
-        "country": "united kingdom",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624508",
-        "channel": "SKY NEWS B1",
-        "link": "https://list.iptvcat.com/my_list/s/d3f0f0f70b4a5d4c0528a3b20448d387.m3u8",
-        "country": "united kingdom",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2497284",
-        "channel": "SKY ONE",
-        "link": "https://list.iptvcat.com/my_list/s/a5d0ed38ae12b16e2c39631c38c0297d.m3u8",
-        "country": "united kingdom",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3804,20 +3537,6 @@
         ]
     },
     {
-        "id": "2603585",
-        "channel": "SoriTV [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3aae92aafa6b2e4656a6e89ac7080241.m3u8",
-        "country": "united kingdom",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2606915",
         "channel": "Sportoutdoor.tv",
         "link": "https://list.iptvcat.com/my_list/s/31430694e3ba10dc5143728b177570cd.m3u8",
@@ -3889,79 +3608,94 @@
         ]
     },
     {
-        "id": "2624142",
-        "channel": "RT News",
-        "link": "https://list.iptvcat.com/my_list/s/9a8a6d2965ba0bf5aae438c149051acd.m3u8",
+        "id": "2607431",
+        "channel": "Supertoons TV",
+        "link": "https://list.iptvcat.com/my_list/s/ce797e44bca4cca580b893daa1b3778d.m3u8",
         "country": "united kingdom",
-        "liveliness": "52",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-",
+            "australia_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2596198",
+        "channel": "TCM UK",
+        "link": "https://list.iptvcat.com/my_list/s/f7f2491516606e16227ce7831157032e.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2596199",
+        "channel": "TG4",
+        "link": "https://list.iptvcat.com/my_list/s/accb8f59a7a07d492fc60c2f77cd3c0a.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "984174",
+        "channel": "TGRT BELGESEL",
+        "link": "https://list.iptvcat.com/my_list/s/2b068e268c88895f2e0e9711ee60df72.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2624406",
+        "channel": "THREE",
+        "link": "https://list.iptvcat.com/my_list/s/8aabed1fd9657e1af60672da97537776.m3u8",
+        "country": "united kingdom",
+        "liveliness": "59",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "2285",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2596167",
-        "channel": "RTE 2",
-        "link": "https://list.iptvcat.com/my_list/s/e7aad7d4b232e461f272cda827fba279.m3u8",
+        "id": "2497309",
+        "channel": "TLC",
+        "link": "https://list.iptvcat.com/my_list/s/31430b497ae4723f8aefbe9b3397aa3a.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2596168",
-        "channel": "RTE Jr",
-        "link": "https://list.iptvcat.com/my_list/s/15ee4dc554a093fc1fb193fb2df2bec8.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624420",
-        "channel": "RTE News",
-        "link": "https://list.iptvcat.com/my_list/s/b0489059a859962ad98457a552e2f784.m3u8",
-        "country": "united kingdom",
-        "liveliness": "19",
-        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1174",
+        "mbps": "1736",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2596169",
-        "channel": "RTE News",
-        "link": "https://list.iptvcat.com/my_list/s/19811d4fda424b7687358cbf541e1af1.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2596170",
-        "channel": "RTE One",
-        "link": "https://list.iptvcat.com/my_list/s/b345c07c80ed877234a902c1593b0ac4.m3u8",
+        "id": "2596202",
+        "channel": "TLC",
+        "link": "https://list.iptvcat.com/my_list/s/e58c04cb6e9470935a9988ab022c55f2.m3u8",
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
@@ -3973,15 +3707,43 @@
         ]
     },
     {
-        "id": "2602067",
-        "channel": "RTV Oost (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/097750471d2e264f9baab312c185eaa4.m3u8",
+        "id": "2497311",
+        "channel": "TRAVEL CHANNEL",
+        "link": "https://list.iptvcat.com/my_list/s/beff84c44e1687a28140cd8ed54ff7a2.m3u8",
+        "country": "united kingdom",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2601132",
+        "channel": "TV Brusque (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/a5ad9bcb9a580346559a41fde09d7c0b.m3u8",
+        "country": "united kingdom",
+        "liveliness": "79",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2602335",
+        "channel": "TV Ellef (540p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/2eee0e10f6afc25789a56c03de0d06dd.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "9905",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4770,20 +4532,6 @@
         ]
     },
     {
-        "id": "2624136",
-        "channel": "Really",
-        "link": "https://list.iptvcat.com/my_list/s/a5f4608371c97870f1df25f1dd2977ca.m3u8",
-        "country": "united kingdom",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2596166",
         "channel": "Really",
         "link": "https://list.iptvcat.com/my_list/s/fcfa77b4d72cdd3d630c62ed73767a1e.m3u8",
@@ -4892,20 +4640,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624140",
-        "channel": "Revelation",
-        "link": "https://list.iptvcat.com/my_list/s/9a42a7dc95d9984fee0617f39463aad6.m3u8",
-        "country": "united kingdom",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5303,61 +5037,115 @@
         ]
     },
     {
-        "id": "2604265",
-        "channel": "Mobile County Public Schools TV Network (MCPSS)",
-        "link": "https://list.iptvcat.com/my_list/s/cd9cda397eff5953cf830187a977898a.m3u8",
+        "id": "2624505",
+        "channel": "SKY MOVIES SCI-FI \u0026 HORROR",
+        "link": "https://list.iptvcat.com/my_list/s/2f983c394c19ac3df29a71bfe7bbe818.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "52",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2601707",
-        "channel": "Mojitv",
-        "link": "https://list.iptvcat.com/my_list/s/ae8271d4175d56389a365bed6b6c84f4.m3u8",
+        "id": "2624402",
+        "channel": "SKY MOVIES SCI-FI \u0026 HORROR",
+        "link": "https://list.iptvcat.com/my_list/s/5096258485ce91b1b787fc754071dd62.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2606795",
-        "channel": "Mondo TV Kids",
-        "link": "https://list.iptvcat.com/my_list/s/4b4d89a8fcb795c9fe2bbd97919c4a4e.m3u8",
+        "id": "2624506",
+        "channel": "SKY MOVIES THRILLER",
+        "link": "https://list.iptvcat.com/my_list/s/1f027782f1ddba14a53da80808d52655.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
+        "liveliness": "70",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-",
-            "australia_-_-_-_-_-"
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2608379",
-        "channel": "Monterey Channel (Monterey CA) (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/fdc923b35786e53fed306bd5fff60554.m3u8",
+        "id": "2624403",
+        "channel": "SKY MOVIES THRILLER",
+        "link": "https://list.iptvcat.com/my_list/s/44945c4f7cc28716c505f4cfcbda7e08.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2624507",
+        "channel": "SKY NEWS",
+        "link": "https://list.iptvcat.com/my_list/s/d40d6c5b58752c973b7ccee4f1f96bf1.m3u8",
+        "country": "united kingdom",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2624404",
+        "channel": "SKY NEWS B1",
+        "link": "https://list.iptvcat.com/my_list/s/c84494de01795b381eb3fa3b3ccce01e.m3u8",
+        "country": "united kingdom",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3795, ...",
+        "mbps": "3795",
         "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-",
-            "australia_-_-_-_-_-"
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2624508",
+        "channel": "SKY NEWS B1",
+        "link": "https://list.iptvcat.com/my_list/s/d3f0f0f70b4a5d4c0528a3b20448d387.m3u8",
+        "country": "united kingdom",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2497284",
+        "channel": "SKY ONE",
+        "link": "https://list.iptvcat.com/my_list/s/a5d0ed38ae12b16e2c39631c38c0297d.m3u8",
+        "country": "united kingdom",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -6031,20 +5819,6 @@
         ]
     },
     {
-        "id": "2624110",
-        "channel": "Now 90s",
-        "link": "https://list.iptvcat.com/my_list/s/e16986b64289fad5d602876bda9c7b25.m3u8",
-        "country": "united kingdom",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2596157",
         "channel": "Now 90s",
         "link": "https://list.iptvcat.com/my_list/s/7ac0aeaab3a379f89edd29e14d185f5c.m3u8",
@@ -6418,20 +6192,6 @@
         ]
     },
     {
-        "id": "2624114",
-        "channel": "Pick",
-        "link": "https://list.iptvcat.com/my_list/s/e9090622ba2e4771ee868f23ed1b4a56.m3u8",
-        "country": "united kingdom",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2596159",
         "channel": "Pick",
         "link": "https://list.iptvcat.com/my_list/s/f85f3ea3b8e52e4e3ecff8c672fe2439.m3u8",
@@ -6728,23 +6488,23 @@
         ]
     },
     {
-        "id": "2624357",
-        "channel": "ITV Be",
-        "link": "https://list.iptvcat.com/my_list/s/fa1432b05304755fd08184b37ff83831.m3u8",
+        "id": "2624142",
+        "channel": "RT News",
+        "link": "https://list.iptvcat.com/my_list/s/9a8a6d2965ba0bf5aae438c149051acd.m3u8",
         "country": "united kingdom",
-        "liveliness": "64",
-        "status": "online",
+        "liveliness": "52",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1357",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2596129",
-        "channel": "ITV East",
-        "link": "https://list.iptvcat.com/my_list/s/a73b4bd28c8ebf0ebb6b30f9cfce9a78.m3u8",
+        "id": "2596167",
+        "channel": "RTE 2",
+        "link": "https://list.iptvcat.com/my_list/s/e7aad7d4b232e461f272cda827fba279.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
@@ -6756,15 +6516,57 @@
         ]
     },
     {
-        "id": "2497239",
-        "channel": "ITV Granada",
-        "link": "https://list.iptvcat.com/my_list/s/fbf8706c31bc525b696a73bfbafa1779.m3u8",
+        "id": "2596168",
+        "channel": "RTE Jr",
+        "link": "https://list.iptvcat.com/my_list/s/15ee4dc554a093fc1fb193fb2df2bec8.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2596169",
+        "channel": "RTE News",
+        "link": "https://list.iptvcat.com/my_list/s/19811d4fda424b7687358cbf541e1af1.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2596170",
+        "channel": "RTE One",
+        "link": "https://list.iptvcat.com/my_list/s/b345c07c80ed877234a902c1593b0ac4.m3u8",
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2602067",
+        "channel": "RTV Oost (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/097750471d2e264f9baab312c185eaa4.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -7736,20 +7538,6 @@
         ]
     },
     {
-        "id": "2624495",
-        "channel": "MOVIES4MEN",
-        "link": "https://list.iptvcat.com/my_list/s/f04d9a888ebd95bc070d8ee4fc4458fe.m3u8",
-        "country": "united kingdom",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2585528",
         "channel": "MTV",
         "link": "https://list.iptvcat.com/my_list/s/d6bfe9825e5b93618b273d780ceb9175.m3u8",
@@ -8149,31 +7937,61 @@
         ]
     },
     {
-        "id": "2497205",
-        "channel": "EDEN",
-        "link": "https://list.iptvcat.com/my_list/s/3e617be91583d0b3d5020fc5b216f3db.m3u8",
+        "id": "2604265",
+        "channel": "Mobile County Public Schools TV Network (MCPSS)",
+        "link": "https://list.iptvcat.com/my_list/s/cd9cda397eff5953cf830187a977898a.m3u8",
         "country": "united kingdom",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2596111",
-        "channel": "EIR Sports 1 UK",
-        "link": "https://list.iptvcat.com/my_list/s/6e91467e0878e768c312e58d46764a10.m3u8",
+        "id": "2601707",
+        "channel": "Mojitv",
+        "link": "https://list.iptvcat.com/my_list/s/ae8271d4175d56389a365bed6b6c84f4.m3u8",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2606795",
+        "channel": "Mondo TV Kids",
+        "link": "https://list.iptvcat.com/my_list/s/4b4d89a8fcb795c9fe2bbd97919c4a4e.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-",
+            "australia_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2608379",
+        "channel": "Monterey Channel (Monterey CA) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/fdc923b35786e53fed306bd5fff60554.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-",
+            "australia_-_-_-_-_-"
         ]
     },
     {
@@ -9155,20 +8973,6 @@
         ]
     },
     {
-        "id": "2624036",
-        "channel": "High Street TV",
-        "link": "https://list.iptvcat.com/my_list/s/7cb0710eb7a5a71865fc532ac8bc676b.m3u8",
-        "country": "united kingdom",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2624038",
         "channel": "History",
         "link": "https://list.iptvcat.com/my_list/s/0189696924efddfe9d7a384a3d987b4e.m3u8",
@@ -9564,15 +9368,43 @@
         ]
     },
     {
-        "id": "2623963",
-        "channel": "BBC Scotland",
-        "link": "https://list.iptvcat.com/my_list/s/7fd9c9cae7fcc45343523349d6b64e07.m3u8",
+        "id": "2624357",
+        "channel": "ITV Be",
+        "link": "https://list.iptvcat.com/my_list/s/fa1432b05304755fd08184b37ff83831.m3u8",
         "country": "united kingdom",
-        "liveliness": "58",
-        "status": "offline",
+        "liveliness": "64",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2883",
+        "mbps": "2334",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2596129",
+        "channel": "ITV East",
+        "link": "https://list.iptvcat.com/my_list/s/a73b4bd28c8ebf0ebb6b30f9cfce9a78.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2497239",
+        "channel": "ITV Granada",
+        "link": "https://list.iptvcat.com/my_list/s/fbf8706c31bc525b696a73bfbafa1779.m3u8",
+        "country": "united kingdom",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -10831,20 +10663,6 @@
         ]
     },
     {
-        "id": "2623988",
-        "channel": "CITV",
-        "link": "https://list.iptvcat.com/my_list/s/b5755728dc9b373597c3697b8befd7a3.m3u8",
-        "country": "united kingdom",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2285",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2596090",
         "channel": "CITV",
         "link": "https://list.iptvcat.com/my_list/s/584c6e038f687a8dda405f3f5c90a7a3.m3u8",
@@ -10962,6 +10780,34 @@
         "link": "https://list.iptvcat.com/my_list/s/1e11dd6d01a38611ad96f91a7cca49b5.m3u8",
         "country": "united kingdom",
         "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2497173",
+        "channel": "COMEDY CENTRAL EXTRA",
+        "link": "https://list.iptvcat.com/my_list/s/f6b2e1de9943af0936b9addc898394b1.m3u8",
+        "country": "united kingdom",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2497179",
+        "channel": "CRIME \u0026 INVESTIGATION",
+        "link": "https://list.iptvcat.com/my_list/s/4e7ea40cb854f15d48d04575f9afbd0e.m3u8",
+        "country": "united kingdom",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -11146,20 +10992,6 @@
         "link": "https://list.iptvcat.com/my_list/s/0986b2996791baddee2ddb10db9d0208.m3u8",
         "country": "united kingdom",
         "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2285",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2623945",
-        "channel": "5 USA +1",
-        "link": "https://list.iptvcat.com/my_list/s/5d6697682af9b9aca53983a7fe8fb607.m3u8",
-        "country": "united kingdom",
-        "liveliness": "44",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -12382,29 +12214,15 @@
         ]
     },
     {
-        "id": "2497205",
-        "channel": "EDEN",
-        "link": "https://list.iptvcat.com/my_list/s/3e617be91583d0b3d5020fc5b216f3db.m3u8",
+        "id": "2623963",
+        "channel": "BBC Scotland",
+        "link": "https://list.iptvcat.com/my_list/s/7fd9c9cae7fcc45343523349d6b64e07.m3u8",
         "country": "united kingdom",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "58",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2596111",
-        "channel": "EIR Sports 1 UK",
-        "link": "https://list.iptvcat.com/my_list/s/6e91467e0878e768c312e58d46764a10.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "2883",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -13383,20 +13201,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624036",
-        "channel": "High Street TV",
-        "link": "https://list.iptvcat.com/my_list/s/7cb0710eb7a5a71865fc532ac8bc676b.m3u8",
-        "country": "united kingdom",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -14805,20 +14609,6 @@
         ]
     },
     {
-        "id": "2624495",
-        "channel": "MOVIES4MEN",
-        "link": "https://list.iptvcat.com/my_list/s/f04d9a888ebd95bc070d8ee4fc4458fe.m3u8",
-        "country": "united kingdom",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2585528",
         "channel": "MTV",
         "link": "https://list.iptvcat.com/my_list/s/d6bfe9825e5b93618b273d780ceb9175.m3u8",
@@ -15946,20 +15736,6 @@
         ]
     },
     {
-        "id": "2624110",
-        "channel": "Now 90s",
-        "link": "https://list.iptvcat.com/my_list/s/e16986b64289fad5d602876bda9c7b25.m3u8",
-        "country": "united kingdom",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2596157",
         "channel": "Now 90s",
         "link": "https://list.iptvcat.com/my_list/s/7ac0aeaab3a379f89edd29e14d185f5c.m3u8",
@@ -16333,20 +16109,6 @@
         ]
     },
     {
-        "id": "2624114",
-        "channel": "Pick",
-        "link": "https://list.iptvcat.com/my_list/s/e9090622ba2e4771ee868f23ed1b4a56.m3u8",
-        "country": "united kingdom",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2596159",
         "channel": "Pick",
         "link": "https://list.iptvcat.com/my_list/s/f85f3ea3b8e52e4e3ecff8c672fe2439.m3u8",
@@ -16680,20 +16442,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624420",
-        "channel": "RTE News",
-        "link": "https://list.iptvcat.com/my_list/s/b0489059a859962ad98457a552e2f784.m3u8",
-        "country": "united kingdom",
-        "liveliness": "19",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1174",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -17524,20 +17272,6 @@
         ]
     },
     {
-        "id": "2624136",
-        "channel": "Really",
-        "link": "https://list.iptvcat.com/my_list/s/a5f4608371c97870f1df25f1dd2977ca.m3u8",
-        "country": "united kingdom",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2596166",
         "channel": "Really",
         "link": "https://list.iptvcat.com/my_list/s/fcfa77b4d72cdd3d630c62ed73767a1e.m3u8",
@@ -17646,20 +17380,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2624140",
-        "channel": "Revelation",
-        "link": "https://list.iptvcat.com/my_list/s/9a42a7dc95d9984fee0617f39463aad6.m3u8",
-        "country": "united kingdom",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -18057,26 +17777,25 @@
         ]
     },
     {
-        "id": "2607431",
-        "channel": "Supertoons TV",
-        "link": "https://list.iptvcat.com/my_list/s/ce797e44bca4cca580b893daa1b3778d.m3u8",
+        "id": "2624505",
+        "channel": "SKY MOVIES SCI-FI \u0026 HORROR",
+        "link": "https://list.iptvcat.com/my_list/s/2f983c394c19ac3df29a71bfe7bbe818.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "52",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-",
-            "australia_-_-_-_-_-"
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2596198",
-        "channel": "TCM UK",
-        "link": "https://list.iptvcat.com/my_list/s/f7f2491516606e16227ce7831157032e.m3u8",
+        "id": "2624402",
+        "channel": "SKY MOVIES SCI-FI \u0026 HORROR",
+        "link": "https://list.iptvcat.com/my_list/s/5096258485ce91b1b787fc754071dd62.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
@@ -18086,113 +17805,85 @@
         ]
     },
     {
-        "id": "2596199",
-        "channel": "TG4",
-        "link": "https://list.iptvcat.com/my_list/s/accb8f59a7a07d492fc60c2f77cd3c0a.m3u8",
+        "id": "2624506",
+        "channel": "SKY MOVIES THRILLER",
+        "link": "https://list.iptvcat.com/my_list/s/1f027782f1ddba14a53da80808d52655.m3u8",
         "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "984174",
-        "channel": "TGRT BELGESEL",
-        "link": "https://list.iptvcat.com/my_list/s/2b068e268c88895f2e0e9711ee60df72.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
+        "liveliness": "70",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2624406",
-        "channel": "THREE",
-        "link": "https://list.iptvcat.com/my_list/s/8aabed1fd9657e1af60672da97537776.m3u8",
+        "id": "2624403",
+        "channel": "SKY MOVIES THRILLER",
+        "link": "https://list.iptvcat.com/my_list/s/44945c4f7cc28716c505f4cfcbda7e08.m3u8",
         "country": "united kingdom",
-        "liveliness": "59",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2624507",
+        "channel": "SKY NEWS",
+        "link": "https://list.iptvcat.com/my_list/s/d40d6c5b58752c973b7ccee4f1f96bf1.m3u8",
+        "country": "united kingdom",
+        "liveliness": "67",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2285",
+        "mbps": "1853",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2497309",
-        "channel": "TLC",
-        "link": "https://list.iptvcat.com/my_list/s/31430b497ae4723f8aefbe9b3397aa3a.m3u8",
+        "id": "2624404",
+        "channel": "SKY NEWS B1",
+        "link": "https://list.iptvcat.com/my_list/s/c84494de01795b381eb3fa3b3ccce01e.m3u8",
+        "country": "united kingdom",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2624508",
+        "channel": "SKY NEWS B1",
+        "link": "https://list.iptvcat.com/my_list/s/d3f0f0f70b4a5d4c0528a3b20448d387.m3u8",
+        "country": "united kingdom",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2497284",
+        "channel": "SKY ONE",
+        "link": "https://list.iptvcat.com/my_list/s/a5d0ed38ae12b16e2c39631c38c0297d.m3u8",
         "country": "united kingdom",
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2596202",
-        "channel": "TLC",
-        "link": "https://list.iptvcat.com/my_list/s/e58c04cb6e9470935a9988ab022c55f2.m3u8",
-        "country": "united kingdom",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2497311",
-        "channel": "TRAVEL CHANNEL",
-        "link": "https://list.iptvcat.com/my_list/s/beff84c44e1687a28140cd8ed54ff7a2.m3u8",
-        "country": "united kingdom",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2601132",
-        "channel": "TV Brusque (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/a5ad9bcb9a580346559a41fde09d7c0b.m3u8",
-        "country": "united kingdom",
-        "liveliness": "79",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2602335",
-        "channel": "TV Ellef (540p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/2eee0e10f6afc25789a56c03de0d06dd.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -19090,20 +18781,6 @@
         ]
     },
     {
-        "id": "2624062",
-        "channel": "itv 4 +1",
-        "link": "https://list.iptvcat.com/my_list/s/a2b1c11179f0d3f86a0b14a1d9aa5c1a.m3u8",
-        "country": "united kingdom",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2624064",
         "channel": "itv BE",
         "link": "https://list.iptvcat.com/my_list/s/2d1e28be60af16a1dcdb8d3ab69d2746.m3u8",
@@ -19157,34 +18834,6 @@
         "mbps": "13324",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2497173",
-        "channel": "COMEDY CENTRAL EXTRA",
-        "link": "https://list.iptvcat.com/my_list/s/f6b2e1de9943af0936b9addc898394b1.m3u8",
-        "country": "united kingdom",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2497179",
-        "channel": "CRIME \u0026 INVESTIGATION",
-        "link": "https://list.iptvcat.com/my_list/s/4e7ea40cb854f15d48d04575f9afbd0e.m3u8",
-        "country": "united kingdom",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
-        "URI": [
-            "united_kingdom"
         ]
     },
     {
@@ -20572,6 +20221,34 @@
         ]
     },
     {
+        "id": "2497205",
+        "channel": "EDEN",
+        "link": "https://list.iptvcat.com/my_list/s/3e617be91583d0b3d5020fc5b216f3db.m3u8",
+        "country": "united kingdom",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2596111",
+        "channel": "EIR Sports 1 UK",
+        "link": "https://list.iptvcat.com/my_list/s/6e91467e0878e768c312e58d46764a10.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
         "id": "2603745",
         "channel": "3/24",
         "link": "https://list.iptvcat.com/my_list/s/f5f706eee4ff684bec06374514188f00.m3u8",
@@ -20747,20 +20424,6 @@
         "link": "https://list.iptvcat.com/my_list/s/0986b2996791baddee2ddb10db9d0208.m3u8",
         "country": "united kingdom",
         "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2285",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2623945",
-        "channel": "5 USA +1",
-        "link": "https://list.iptvcat.com/my_list/s/5d6697682af9b9aca53983a7fe8fb607.m3u8",
-        "country": "united kingdom",
-        "liveliness": "44",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -23250,20 +22913,6 @@
         ]
     },
     {
-        "id": "2623988",
-        "channel": "CITV",
-        "link": "https://list.iptvcat.com/my_list/s/b5755728dc9b373597c3697b8befd7a3.m3u8",
-        "country": "united kingdom",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2285",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2596090",
         "channel": "CITV",
         "link": "https://list.iptvcat.com/my_list/s/584c6e038f687a8dda405f3f5c90a7a3.m3u8",
@@ -23381,6 +23030,34 @@
         "link": "https://list.iptvcat.com/my_list/s/1e11dd6d01a38611ad96f91a7cca49b5.m3u8",
         "country": "united kingdom",
         "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2497173",
+        "channel": "COMEDY CENTRAL EXTRA",
+        "link": "https://list.iptvcat.com/my_list/s/f6b2e1de9943af0936b9addc898394b1.m3u8",
+        "country": "united kingdom",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1736",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2497179",
+        "channel": "CRIME \u0026 INVESTIGATION",
+        "link": "https://list.iptvcat.com/my_list/s/4e7ea40cb854f15d48d04575f9afbd0e.m3u8",
+        "country": "united kingdom",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -23565,20 +23242,6 @@
         "link": "https://list.iptvcat.com/my_list/s/0986b2996791baddee2ddb10db9d0208.m3u8",
         "country": "united kingdom",
         "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2285",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2623945",
-        "channel": "5 USA +1",
-        "link": "https://list.iptvcat.com/my_list/s/5d6697682af9b9aca53983a7fe8fb607.m3u8",
-        "country": "united kingdom",
-        "liveliness": "44",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -24796,6 +24459,20 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "450",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2623963",
+        "channel": "BBC Scotland",
+        "link": "https://list.iptvcat.com/my_list/s/7fd9c9cae7fcc45343523349d6b64e07.m3u8",
+        "country": "united kingdom",
+        "liveliness": "58",
+        "status": "offline",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "united_kingdom_-_-_-_-_-_-_-_-_-_-"
         ]

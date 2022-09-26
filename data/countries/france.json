@@ -992,43 +992,29 @@
         ]
     },
     {
-        "id": "132623",
-        "channel": "TV7 Colmar",
-        "link": "https://list.iptvcat.com/my_list/s/61032e9a419624f26a8be18b08478207.m3u8",
+        "id": "690",
+        "channel": "Fashion TV Paris",
+        "link": "https://list.iptvcat.com/my_list/s/b7f643c87902819c72e23413e97bafb3.m3u8",
         "country": "france",
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "1357",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "679589",
-        "channel": "TV78",
-        "link": "https://list.iptvcat.com/my_list/s/1f3b0aada53803281946f821a441768b.m3u8",
+        "id": "2472303",
+        "channel": "Fashion TV Paris (144p)",
+        "link": "https://list.iptvcat.com/my_list/s/e9ae79d5a4b1b07e1c6a990023007f5d.m3u8",
         "country": "france",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2576246",
-        "channel": "TVE Internacional Asia-Oceania (576p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/daf7393c90bf8bc723cdb686c3abc2e0.m3u8",
-        "country": "france",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2480",
+        "mbps": "331",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -1160,7 +1146,7 @@
         "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "australia"
+            "australia_-_-_-_-_-"
         ]
     },
     {
@@ -3470,20 +3456,6 @@
         ]
     },
     {
-        "id": "2580166",
-        "channel": "Suram TV (1080p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/f036a375712169b3f39e5cd51b08bd42.m3u8",
-        "country": "france",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2584390",
         "channel": "T-Vinet",
         "link": "https://list.iptvcat.com/my_list/s/4d6a2eb8099b6f5a6c8f4eda087b81f8.m3u8",
@@ -3564,6 +3536,48 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "132623",
+        "channel": "TV7 Colmar",
+        "link": "https://list.iptvcat.com/my_list/s/61032e9a419624f26a8be18b08478207.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "679589",
+        "channel": "TV78",
+        "link": "https://list.iptvcat.com/my_list/s/1f3b0aada53803281946f821a441768b.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2576246",
+        "channel": "TVE Internacional Asia-Oceania (576p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/daf7393c90bf8bc723cdb686c3abc2e0.m3u8",
+        "country": "france",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2480",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_"
         ]
@@ -4561,6 +4575,34 @@
         ]
     },
     {
+        "id": "690",
+        "channel": "Fashion TV Paris",
+        "link": "https://list.iptvcat.com/my_list/s/b7f643c87902819c72e23413e97bafb3.m3u8",
+        "country": "france",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2472303",
+        "channel": "Fashion TV Paris (144p)",
+        "link": "https://list.iptvcat.com/my_list/s/e9ae79d5a4b1b07e1c6a990023007f5d.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "331",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "2605045",
         "channel": "Amuse Animation",
         "link": "https://list.iptvcat.com/my_list/s/8bde217d5361ea30e1f22cddf4b8f2db.m3u8",
@@ -5551,6 +5593,21 @@
         ]
     },
     {
+        "id": "2584454",
+        "channel": "V Classic TV",
+        "link": "https://list.iptvcat.com/my_list/s/f319e6c5710b76d10f6b97dfd33a0d4b.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "australia_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2584136",
         "channel": "Canal 11 Aysén",
         "link": "https://list.iptvcat.com/my_list/s/ec42f038deaa09db89132e2f6d72aca7.m3u8",
@@ -5638,21 +5695,6 @@
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "australia_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2584454",
-        "channel": "V Classic TV",
-        "link": "https://list.iptvcat.com/my_list/s/f319e6c5710b76d10f6b97dfd33a0d4b.m3u8",
-        "country": "france",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "france_-_-_-_-_-_-_-_-_-_-_-_",
-            "australia"
         ]
     },
     {
@@ -5980,6 +6022,21 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4821",
+        "URI": [
+            "france_-_-_-_-_-_-_-_-_-_-_-_",
+            "australia_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2584454",
+        "channel": "V Classic TV",
+        "link": "https://list.iptvcat.com/my_list/s/f319e6c5710b76d10f6b97dfd33a0d4b.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "france_-_-_-_-_-_-_-_-_-_-_-_",
             "australia_-_-_-_-_-"

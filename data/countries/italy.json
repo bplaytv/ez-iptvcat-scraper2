@@ -14,20 +14,6 @@
         ]
     },
     {
-        "id": "2609180",
-        "channel": "12 TV Parma",
-        "link": "https://list.iptvcat.com/my_list/s/fbf6c56bc879bfb7e0fe77dc6d7f8b5a.m3u8",
-        "country": "italy",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2473122",
         "channel": "12 TV Parma (540p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/5d9e8d15d7f4be1c2f977e5efb355a85.m3u8",
@@ -1386,6 +1372,20 @@
         ]
     },
     {
+        "id": "132991",
+        "channel": "TeleQuattro",
+        "link": "https://list.iptvcat.com/my_list/s/ace3e349f77aab38669b3d9db4cce2b2.m3u8",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "2609179",
         "channel": "111 TV",
         "link": "https://list.iptvcat.com/my_list/s/5d041cb6e5e81e79edd0640a40dfc962.m3u8",
@@ -1395,20 +1395,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2609180",
-        "channel": "12 TV Parma",
-        "link": "https://list.iptvcat.com/my_list/s/fbf6c56bc879bfb7e0fe77dc6d7f8b5a.m3u8",
-        "country": "italy",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
         "URI": [
             "italy_-_-_-_-_-_-_-_-_"
         ]
@@ -3010,20 +2996,6 @@
         ]
     },
     {
-        "id": "2609180",
-        "channel": "12 TV Parma",
-        "link": "https://list.iptvcat.com/my_list/s/fbf6c56bc879bfb7e0fe77dc6d7f8b5a.m3u8",
-        "country": "italy",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
         "id": "2473122",
         "channel": "12 TV Parma (540p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/5d9e8d15d7f4be1c2f977e5efb355a85.m3u8",
@@ -4373,6 +4345,20 @@
         "link": "https://list.iptvcat.com/my_list/s/cd9045c620cf460d64c5328ceb1ca978.m3u8",
         "country": "italy",
         "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "132991",
+        "channel": "TeleQuattro",
+        "link": "https://list.iptvcat.com/my_list/s/ace3e349f77aab38669b3d9db4cce2b2.m3u8",
+        "country": "italy",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",

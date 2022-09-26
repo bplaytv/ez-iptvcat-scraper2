@@ -1372,20 +1372,6 @@
         ]
     },
     {
-        "id": "1337576",
-        "channel": "Bloomberg TV Australia (720p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/4397b54b8fb04871e6bce2bad10205f6.m3u8",
-        "country": "united states of america",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2592293",
         "channel": "Bloomberg US",
         "link": "https://list.iptvcat.com/my_list/s/4552741085cec073f6c13dd3a172885b.m3u8",
@@ -1400,15 +1386,15 @@
         ]
     },
     {
-        "id": "695055",
-        "channel": "CineLife",
-        "link": "https://list.iptvcat.com/my_list/s/3864fd883565580944c79b9e68979b11.m3u8",
+        "id": "2592296",
+        "channel": "Boomerang",
+        "link": "https://list.iptvcat.com/my_list/s/25ae64a9a7664f5290312eae0b4083e6.m3u8",
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370, ...",
+        "mbps": "7004",
         "URI": [
             "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4200,17 +4186,17 @@
         ]
     },
     {
-        "id": "694720",
-        "channel": "The Film Detective",
-        "link": "https://list.iptvcat.com/my_list/s/29c1ec9bd82968fac80e938c352ff799.m3u8",
+        "id": "2484234",
+        "channel": "MY38 BOSTON",
+        "link": "https://list.iptvcat.com/my_list/s/79adeac041feb5b0b6a926f3f6f8eafb.m3u8",
         "country": "united states of america",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "format": "sd",
+        "mbps": "1736",
         "URI": [
-            "united_states_of_america"
+            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -4937,20 +4923,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1052",
-        "URI": [
-            "united_states_of_america"
-        ]
-    },
-    {
-        "id": "2592650",
-        "channel": "Showtime (East) US",
-        "link": "https://list.iptvcat.com/my_list/s/3572922ec10829001f72920b3a1e310a.m3u8",
-        "country": "united states of america",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "united_states_of_america"
         ]
@@ -6328,17 +6300,17 @@
         ]
     },
     {
-        "id": "2484234",
-        "channel": "MY38 BOSTON",
-        "link": "https://list.iptvcat.com/my_list/s/79adeac041feb5b0b6a926f3f6f8eafb.m3u8",
+        "id": "694720",
+        "channel": "The Film Detective",
+        "link": "https://list.iptvcat.com/my_list/s/29c1ec9bd82968fac80e938c352ff799.m3u8",
         "country": "united states of america",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            "united_states_of_america"
         ]
     },
     {
@@ -7714,9 +7686,9 @@
         ]
     },
     {
-        "id": "2592296",
-        "channel": "Boomerang",
-        "link": "https://list.iptvcat.com/my_list/s/25ae64a9a7664f5290312eae0b4083e6.m3u8",
+        "id": "2592615",
+        "channel": "OWN (East) US",
+        "link": "https://list.iptvcat.com/my_list/s/84730102730204a8516a7a482a705b44.m3u8",
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
@@ -9100,17 +9072,17 @@
         ]
     },
     {
-        "id": "2592615",
-        "channel": "OWN (East) US",
-        "link": "https://list.iptvcat.com/my_list/s/84730102730204a8516a7a482a705b44.m3u8",
+        "id": "695055",
+        "channel": "CineLife",
+        "link": "https://list.iptvcat.com/my_list/s/3864fd883565580944c79b9e68979b11.m3u8",
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "8370, ...",
         "URI": [
-            "united_states_of_america"
+            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -14000,20 +13972,6 @@
         ]
     },
     {
-        "id": "1337576",
-        "channel": "Bloomberg TV Australia (720p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/4397b54b8fb04871e6bce2bad10205f6.m3u8",
-        "country": "united states of america",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2592293",
         "channel": "Bloomberg US",
         "link": "https://list.iptvcat.com/my_list/s/4552741085cec073f6c13dd3a172885b.m3u8",
@@ -14028,9 +13986,9 @@
         ]
     },
     {
-        "id": "2592615",
-        "channel": "OWN (East) US",
-        "link": "https://list.iptvcat.com/my_list/s/84730102730204a8516a7a482a705b44.m3u8",
+        "id": "2592296",
+        "channel": "Boomerang",
+        "link": "https://list.iptvcat.com/my_list/s/25ae64a9a7664f5290312eae0b4083e6.m3u8",
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
@@ -14038,7 +13996,7 @@
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "united_states_of_america"
+            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -15428,17 +15386,17 @@
         ]
     },
     {
-        "id": "2484234",
-        "channel": "MY38 BOSTON",
-        "link": "https://list.iptvcat.com/my_list/s/79adeac041feb5b0b6a926f3f6f8eafb.m3u8",
+        "id": "2592650",
+        "channel": "Showtime (East) US",
+        "link": "https://list.iptvcat.com/my_list/s/3572922ec10829001f72920b3a1e310a.m3u8",
         "country": "united states of america",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1736",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            "united_states_of_america"
         ]
     },
     {
@@ -16814,9 +16772,9 @@
         ]
     },
     {
-        "id": "2592426",
-        "channel": "GAC Great American Country",
-        "link": "https://list.iptvcat.com/my_list/s/16a65c9116a6b7740711b9d815d05717.m3u8",
+        "id": "2592615",
+        "channel": "OWN (East) US",
+        "link": "https://list.iptvcat.com/my_list/s/84730102730204a8516a7a482a705b44.m3u8",
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
@@ -18214,15 +18172,15 @@
         ]
     },
     {
-        "id": "695055",
-        "channel": "CineLife",
-        "link": "https://list.iptvcat.com/my_list/s/3864fd883565580944c79b9e68979b11.m3u8",
+        "id": "2484234",
+        "channel": "MY38 BOSTON",
+        "link": "https://list.iptvcat.com/my_list/s/79adeac041feb5b0b6a926f3f6f8eafb.m3u8",
         "country": "united states of america",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
+        "format": "sd",
+        "mbps": "1736",
         "URI": [
             "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -19614,6 +19572,20 @@
         ]
     },
     {
+        "id": "2592426",
+        "channel": "GAC Great American Country",
+        "link": "https://list.iptvcat.com/my_list/s/16a65c9116a6b7740711b9d815d05717.m3u8",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "11185",
         "channel": "Comet TV (Geo)",
         "link": "https://list.iptvcat.com/my_list/s/3276e422eac52fa8be5336f7bf06ea4f.m3u8",
@@ -20981,20 +20953,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
-        "URI": [
-            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1337576",
-        "channel": "Bloomberg TV Australia (720p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/4397b54b8fb04871e6bce2bad10205f6.m3u8",
-        "country": "united states of america",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
         "URI": [
             "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -22400,6 +22358,20 @@
         ]
     },
     {
+        "id": "695055",
+        "channel": "CineLife",
+        "link": "https://list.iptvcat.com/my_list/s/3864fd883565580944c79b9e68979b11.m3u8",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "11185",
         "channel": "Comet TV (Geo)",
         "link": "https://list.iptvcat.com/my_list/s/3276e422eac52fa8be5336f7bf06ea4f.m3u8",
@@ -23772,23 +23744,23 @@
         ]
     },
     {
-        "id": "1337576",
-        "channel": "Bloomberg TV Australia (720p) [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/4397b54b8fb04871e6bce2bad10205f6.m3u8",
+        "id": "2592293",
+        "channel": "Bloomberg US",
+        "link": "https://list.iptvcat.com/my_list/s/4552741085cec073f6c13dd3a172885b.m3u8",
         "country": "united states of america",
-        "liveliness": "99",
-        "status": "offline",
+        "liveliness": "100",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2592293",
-        "channel": "Bloomberg US",
-        "link": "https://list.iptvcat.com/my_list/s/4552741085cec073f6c13dd3a172885b.m3u8",
+        "id": "2592296",
+        "channel": "Boomerang",
+        "link": "https://list.iptvcat.com/my_list/s/25ae64a9a7664f5290312eae0b4083e6.m3u8",
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
