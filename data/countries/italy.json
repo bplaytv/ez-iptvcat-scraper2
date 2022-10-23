@@ -6,11 +6,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -20,11 +20,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -34,11 +34,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -46,41 +46,13 @@
         "channel": "CIELO",
         "link": "https://list.iptvcat.com/my_list/s/76248fcdf7d36d733ed55b4f256b67d3.m3u8",
         "country": "italy",
-        "liveliness": "37",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "55883",
-        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/b1811113100782b79005e52be60833a5.m3u8",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -90,25 +62,39 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1582",
-        "channel": "Canale 7",
-        "link": "https://list.iptvcat.com/my_list/s/d796c33bf28eb18b0d70b39fb88b7fed.m3u8",
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2851",
+        "mbps": "2089",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "55883",
+        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/b1811113100782b79005e52be60833a5.m3u8",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -118,11 +104,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1582",
+        "channel": "Canale 7",
+        "link": "https://list.iptvcat.com/my_list/s/d796c33bf28eb18b0d70b39fb88b7fed.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -132,11 +132,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -144,13 +144,13 @@
         "channel": "DAZN 1",
         "link": "https://list.iptvcat.com/my_list/s/e288a973927ac7ab2b590eaa4b156de5.m3u8",
         "country": "italy",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -159,12 +159,12 @@
         "link": "https://list.iptvcat.com/my_list/s/3932adee3c30b75be48af63978676b16.m3u8",
         "country": "italy",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -174,11 +174,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -188,11 +188,11 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -202,11 +202,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "10686",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -216,11 +216,11 @@
         "country": "italy",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -230,11 +230,11 @@
         "country": "italy",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -244,11 +244,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -258,11 +258,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -272,11 +272,11 @@
         "country": "italy",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -286,11 +286,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -300,11 +300,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -314,11 +314,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -328,11 +328,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -342,11 +342,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -356,11 +356,11 @@
         "country": "italy",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -370,11 +370,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -384,11 +384,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -398,11 +398,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -412,11 +412,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -426,11 +426,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -440,11 +440,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -454,11 +454,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1700",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -468,11 +468,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -482,11 +482,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -496,11 +496,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -510,11 +510,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -524,11 +524,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -538,11 +538,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -552,11 +552,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -566,11 +566,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -580,11 +580,11 @@
         "country": "italy",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -592,13 +592,13 @@
         "channel": "RAI STORIA",
         "link": "https://list.iptvcat.com/my_list/s/1480ea9d17e41718835715e549fe63ed.m3u8",
         "country": "italy",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -608,11 +608,11 @@
         "country": "italy",
         "liveliness": "74",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -622,11 +622,11 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -636,11 +636,11 @@
         "country": "italy",
         "liveliness": "64",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -650,25 +650,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1666",
-        "channel": "RDS Social TV",
-        "link": "https://list.iptvcat.com/my_list/s/c6bb35f19e1b61d4ec2737303cf19831.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -678,11 +664,25 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1666",
+        "channel": "RDS Social TV",
+        "link": "https://list.iptvcat.com/my_list/s/c6bb35f19e1b61d4ec2737303cf19831.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -692,11 +692,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2063",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -704,13 +704,13 @@
         "channel": "RTV Reggio",
         "link": "https://list.iptvcat.com/my_list/s/d14b18730470a25f610ee2f3cb5cb85f.m3u8",
         "country": "italy",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -718,13 +718,13 @@
         "channel": "RTV Sport",
         "link": "https://list.iptvcat.com/my_list/s/2eac7d8ea563cf81375ee4284323cad1.m3u8",
         "country": "italy",
-        "liveliness": "82",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -734,11 +734,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -748,11 +748,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -762,11 +762,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -776,11 +776,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -790,11 +790,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -804,25 +804,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2593364",
-        "channel": "Rai 3",
-        "link": "https://list.iptvcat.com/my_list/s/106727059d3ee2b1dc5b39294cbfe151.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -832,11 +818,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -846,11 +832,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2593364",
+        "channel": "Rai 3",
+        "link": "https://list.iptvcat.com/my_list/s/106727059d3ee2b1dc5b39294cbfe151.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -860,11 +860,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -874,11 +874,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -888,11 +888,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -902,11 +902,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -916,11 +916,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -930,11 +930,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -942,13 +942,13 @@
         "channel": "Rai Sport",
         "link": "https://list.iptvcat.com/my_list/s/3ce7234c3ecfae1ab95b7758bd726782.m3u8",
         "country": "italy",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -958,11 +958,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -972,11 +972,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -986,11 +986,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -999,12 +999,12 @@
         "link": "https://list.iptvcat.com/my_list/s/90f9b514c5d52aa184ace478ddaaba7f.m3u8",
         "country": "italy",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1014,11 +1014,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1028,11 +1028,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1040,13 +1040,13 @@
         "channel": "SKY PRIMAFILA 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/662726f4c9f0794a30820605149b1a9f.m3u8",
         "country": "italy",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3482",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1140",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1056,11 +1056,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1070,11 +1070,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1084,11 +1084,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1098,11 +1098,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1112,11 +1112,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1126,25 +1126,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2634140",
-        "channel": "Sky Sport 24",
-        "link": "https://list.iptvcat.com/my_list/s/99c7c7990fa99a1cbf8cf1c9bca1068b.m3u8",
-        "country": "italy",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1154,11 +1140,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2634140",
+        "channel": "Sky Sport 24",
+        "link": "https://list.iptvcat.com/my_list/s/99c7c7990fa99a1cbf8cf1c9bca1068b.m3u8",
+        "country": "italy",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1168,11 +1168,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1180,13 +1180,13 @@
         "channel": "Sky Sport F1",
         "link": "https://list.iptvcat.com/my_list/s/d81181f1fb00ceb5aa9d3cdb589cc9ce.m3u8",
         "country": "italy",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "11103",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1196,11 +1196,11 @@
         "country": "italy",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1210,11 +1210,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1222,13 +1222,13 @@
         "channel": "Sky Sport MotoGP",
         "link": "https://list.iptvcat.com/my_list/s/7345acde1ff13623776ab019d4bae5fd.m3u8",
         "country": "italy",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1236,13 +1236,13 @@
         "channel": "Sky Sport NBA",
         "link": "https://list.iptvcat.com/my_list/s/33297aa96384045a8ad6310100e2d4e9.m3u8",
         "country": "italy",
-        "liveliness": "84",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "22116",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1252,11 +1252,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1264,13 +1264,13 @@
         "channel": "Sky Sport Uno",
         "link": "https://list.iptvcat.com/my_list/s/a2dea19bc63fa3792c488614cfb6d024.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "937",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1280,11 +1280,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1294,11 +1294,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1308,11 +1308,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1320,13 +1320,13 @@
         "channel": "Sportitalia",
         "link": "https://list.iptvcat.com/my_list/s/07fddd5d7548fcd0f83ad7db705096dd.m3u8",
         "country": "italy",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1336,11 +1336,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1348,13 +1348,13 @@
         "channel": "Super Tennis",
         "link": "https://list.iptvcat.com/my_list/s/a51f3173c00b5c1e95894177683a52e1.m3u8",
         "country": "italy",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1364,11 +1364,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1378,11 +1378,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1392,11 +1392,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1406,11 +1406,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1420,11 +1420,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1432,41 +1432,13 @@
         "channel": "CIELO",
         "link": "https://list.iptvcat.com/my_list/s/76248fcdf7d36d733ed55b4f256b67d3.m3u8",
         "country": "italy",
-        "liveliness": "37",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "55883",
-        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/b1811113100782b79005e52be60833a5.m3u8",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1476,25 +1448,39 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1582",
-        "channel": "Canale 7",
-        "link": "https://list.iptvcat.com/my_list/s/d796c33bf28eb18b0d70b39fb88b7fed.m3u8",
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2851",
+        "mbps": "2089",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "55883",
+        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/b1811113100782b79005e52be60833a5.m3u8",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1504,11 +1490,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1582",
+        "channel": "Canale 7",
+        "link": "https://list.iptvcat.com/my_list/s/d796c33bf28eb18b0d70b39fb88b7fed.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1518,11 +1518,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1530,13 +1530,13 @@
         "channel": "DAZN 1",
         "link": "https://list.iptvcat.com/my_list/s/e288a973927ac7ab2b590eaa4b156de5.m3u8",
         "country": "italy",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1545,12 +1545,12 @@
         "link": "https://list.iptvcat.com/my_list/s/3932adee3c30b75be48af63978676b16.m3u8",
         "country": "italy",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1560,11 +1560,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1574,11 +1574,11 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1588,11 +1588,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "10686",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1602,11 +1602,11 @@
         "country": "italy",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1616,11 +1616,11 @@
         "country": "italy",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1630,11 +1630,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1644,11 +1644,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1658,11 +1658,11 @@
         "country": "italy",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1672,11 +1672,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1686,11 +1686,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1700,11 +1700,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1714,11 +1714,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1728,11 +1728,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1742,11 +1742,11 @@
         "country": "italy",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1756,11 +1756,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1770,11 +1770,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1784,11 +1784,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1798,11 +1798,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1812,11 +1812,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1826,11 +1826,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1840,11 +1840,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1700",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1854,11 +1854,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1868,11 +1868,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1882,11 +1882,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1896,11 +1896,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1910,11 +1910,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1924,11 +1924,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1938,11 +1938,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1952,11 +1952,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1966,11 +1966,11 @@
         "country": "italy",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1978,13 +1978,13 @@
         "channel": "RAI STORIA",
         "link": "https://list.iptvcat.com/my_list/s/1480ea9d17e41718835715e549fe63ed.m3u8",
         "country": "italy",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -1994,11 +1994,11 @@
         "country": "italy",
         "liveliness": "74",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2008,11 +2008,11 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2022,11 +2022,11 @@
         "country": "italy",
         "liveliness": "64",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2036,25 +2036,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1666",
-        "channel": "RDS Social TV",
-        "link": "https://list.iptvcat.com/my_list/s/c6bb35f19e1b61d4ec2737303cf19831.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2064,11 +2050,25 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1666",
+        "channel": "RDS Social TV",
+        "link": "https://list.iptvcat.com/my_list/s/c6bb35f19e1b61d4ec2737303cf19831.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2078,11 +2078,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2063",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2090,13 +2090,13 @@
         "channel": "RTV Reggio",
         "link": "https://list.iptvcat.com/my_list/s/d14b18730470a25f610ee2f3cb5cb85f.m3u8",
         "country": "italy",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2104,13 +2104,13 @@
         "channel": "RTV Sport",
         "link": "https://list.iptvcat.com/my_list/s/2eac7d8ea563cf81375ee4284323cad1.m3u8",
         "country": "italy",
-        "liveliness": "82",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2120,11 +2120,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2134,11 +2134,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2148,11 +2148,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2162,11 +2162,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2176,11 +2176,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2190,25 +2190,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2593364",
-        "channel": "Rai 3",
-        "link": "https://list.iptvcat.com/my_list/s/106727059d3ee2b1dc5b39294cbfe151.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2218,11 +2204,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2232,11 +2218,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2593364",
+        "channel": "Rai 3",
+        "link": "https://list.iptvcat.com/my_list/s/106727059d3ee2b1dc5b39294cbfe151.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2246,11 +2246,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2260,11 +2260,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2274,11 +2274,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2288,11 +2288,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2302,11 +2302,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2316,11 +2316,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2328,13 +2328,13 @@
         "channel": "Rai Sport",
         "link": "https://list.iptvcat.com/my_list/s/3ce7234c3ecfae1ab95b7758bd726782.m3u8",
         "country": "italy",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2344,11 +2344,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2358,11 +2358,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2372,11 +2372,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2385,12 +2385,12 @@
         "link": "https://list.iptvcat.com/my_list/s/90f9b514c5d52aa184ace478ddaaba7f.m3u8",
         "country": "italy",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2400,11 +2400,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2414,11 +2414,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2426,13 +2426,13 @@
         "channel": "SKY PRIMAFILA 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/662726f4c9f0794a30820605149b1a9f.m3u8",
         "country": "italy",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3482",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1140",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2442,11 +2442,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2456,11 +2456,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2470,11 +2470,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2484,11 +2484,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2498,11 +2498,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2512,25 +2512,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2634140",
-        "channel": "Sky Sport 24",
-        "link": "https://list.iptvcat.com/my_list/s/99c7c7990fa99a1cbf8cf1c9bca1068b.m3u8",
-        "country": "italy",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2540,11 +2526,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2634140",
+        "channel": "Sky Sport 24",
+        "link": "https://list.iptvcat.com/my_list/s/99c7c7990fa99a1cbf8cf1c9bca1068b.m3u8",
+        "country": "italy",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2554,11 +2554,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2566,13 +2566,13 @@
         "channel": "Sky Sport F1",
         "link": "https://list.iptvcat.com/my_list/s/d81181f1fb00ceb5aa9d3cdb589cc9ce.m3u8",
         "country": "italy",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "11103",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2582,11 +2582,11 @@
         "country": "italy",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2596,11 +2596,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2608,13 +2608,13 @@
         "channel": "Sky Sport MotoGP",
         "link": "https://list.iptvcat.com/my_list/s/7345acde1ff13623776ab019d4bae5fd.m3u8",
         "country": "italy",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2622,13 +2622,13 @@
         "channel": "Sky Sport NBA",
         "link": "https://list.iptvcat.com/my_list/s/33297aa96384045a8ad6310100e2d4e9.m3u8",
         "country": "italy",
-        "liveliness": "84",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "22116",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2638,11 +2638,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2650,13 +2650,13 @@
         "channel": "Sky Sport Uno",
         "link": "https://list.iptvcat.com/my_list/s/a2dea19bc63fa3792c488614cfb6d024.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "937",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2666,11 +2666,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2680,11 +2680,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2694,11 +2694,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2706,13 +2706,13 @@
         "channel": "Sportitalia",
         "link": "https://list.iptvcat.com/my_list/s/07fddd5d7548fcd0f83ad7db705096dd.m3u8",
         "country": "italy",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2722,11 +2722,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2734,13 +2734,13 @@
         "channel": "Super Tennis",
         "link": "https://list.iptvcat.com/my_list/s/a51f3173c00b5c1e95894177683a52e1.m3u8",
         "country": "italy",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2750,11 +2750,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2764,11 +2764,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2778,11 +2778,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2792,11 +2792,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "4481",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2806,11 +2806,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2820,11 +2820,11 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2834,11 +2834,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2848,11 +2848,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2862,11 +2862,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2876,11 +2876,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2890,11 +2890,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2904,11 +2904,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2918,11 +2918,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2932,11 +2932,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2946,11 +2946,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2958,13 +2958,13 @@
         "channel": "Tennis Channel",
         "link": "https://list.iptvcat.com/my_list/s/8146de601cae321fed52769242056f8d.m3u8",
         "country": "italy",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2974,25 +2974,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2593398",
-        "channel": "VH1",
-        "link": "https://list.iptvcat.com/my_list/s/78b1936e625629f1a635dfbf5e44d179.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3002,11 +2988,25 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2593398",
+        "channel": "VH1",
+        "link": "https://list.iptvcat.com/my_list/s/78b1936e625629f1a635dfbf5e44d179.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3016,11 +3016,11 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3030,25 +3030,11 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1740",
-        "channel": "Videolina (Sardegna)",
-        "link": "https://list.iptvcat.com/my_list/s/d56b1adc654effbcf1ca4d2f4dff48a7.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "1237",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3058,11 +3044,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1237",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1740",
+        "channel": "Videolina (Sardegna)",
+        "link": "https://list.iptvcat.com/my_list/s/d56b1adc654effbcf1ca4d2f4dff48a7.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1237",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3072,11 +3072,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3086,11 +3086,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3100,11 +3100,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3114,11 +3114,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3128,11 +3128,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3140,41 +3140,13 @@
         "channel": "CIELO",
         "link": "https://list.iptvcat.com/my_list/s/76248fcdf7d36d733ed55b4f256b67d3.m3u8",
         "country": "italy",
-        "liveliness": "37",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "55883",
-        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/b1811113100782b79005e52be60833a5.m3u8",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3184,25 +3156,39 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "1582",
-        "channel": "Canale 7",
-        "link": "https://list.iptvcat.com/my_list/s/d796c33bf28eb18b0d70b39fb88b7fed.m3u8",
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2851",
+        "mbps": "2089",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "55883",
+        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/b1811113100782b79005e52be60833a5.m3u8",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3212,11 +3198,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1582",
+        "channel": "Canale 7",
+        "link": "https://list.iptvcat.com/my_list/s/d796c33bf28eb18b0d70b39fb88b7fed.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3226,11 +3226,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3238,13 +3238,13 @@
         "channel": "DAZN 1",
         "link": "https://list.iptvcat.com/my_list/s/e288a973927ac7ab2b590eaa4b156de5.m3u8",
         "country": "italy",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3253,12 +3253,12 @@
         "link": "https://list.iptvcat.com/my_list/s/3932adee3c30b75be48af63978676b16.m3u8",
         "country": "italy",
         "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3268,11 +3268,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3282,11 +3282,11 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3296,11 +3296,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "10686",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3310,11 +3310,11 @@
         "country": "italy",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3324,11 +3324,11 @@
         "country": "italy",
         "liveliness": "89",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3338,11 +3338,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3352,11 +3352,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3366,11 +3366,11 @@
         "country": "italy",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3380,11 +3380,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3394,11 +3394,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3408,11 +3408,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3422,11 +3422,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3436,11 +3436,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3450,11 +3450,11 @@
         "country": "italy",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3464,11 +3464,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3478,11 +3478,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3492,11 +3492,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3506,11 +3506,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3520,11 +3520,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3534,11 +3534,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3548,11 +3548,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1700",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3562,11 +3562,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3576,11 +3576,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3590,11 +3590,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3604,11 +3604,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3618,11 +3618,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3632,11 +3632,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3646,11 +3646,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3660,11 +3660,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3674,11 +3674,11 @@
         "country": "italy",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3686,13 +3686,13 @@
         "channel": "RAI STORIA",
         "link": "https://list.iptvcat.com/my_list/s/1480ea9d17e41718835715e549fe63ed.m3u8",
         "country": "italy",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3702,11 +3702,11 @@
         "country": "italy",
         "liveliness": "74",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3716,11 +3716,11 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3730,11 +3730,11 @@
         "country": "italy",
         "liveliness": "64",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3744,25 +3744,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1666",
-        "channel": "RDS Social TV",
-        "link": "https://list.iptvcat.com/my_list/s/c6bb35f19e1b61d4ec2737303cf19831.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3772,11 +3758,25 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1666",
+        "channel": "RDS Social TV",
+        "link": "https://list.iptvcat.com/my_list/s/c6bb35f19e1b61d4ec2737303cf19831.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3786,11 +3786,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2063",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3798,13 +3798,13 @@
         "channel": "RTV Reggio",
         "link": "https://list.iptvcat.com/my_list/s/d14b18730470a25f610ee2f3cb5cb85f.m3u8",
         "country": "italy",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3812,13 +3812,13 @@
         "channel": "RTV Sport",
         "link": "https://list.iptvcat.com/my_list/s/2eac7d8ea563cf81375ee4284323cad1.m3u8",
         "country": "italy",
-        "liveliness": "82",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3828,11 +3828,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3842,11 +3842,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3856,11 +3856,11 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3870,11 +3870,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3884,11 +3884,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3898,25 +3898,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2593364",
-        "channel": "Rai 3",
-        "link": "https://list.iptvcat.com/my_list/s/106727059d3ee2b1dc5b39294cbfe151.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3926,11 +3912,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3940,11 +3926,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2593364",
+        "channel": "Rai 3",
+        "link": "https://list.iptvcat.com/my_list/s/106727059d3ee2b1dc5b39294cbfe151.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3954,11 +3954,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3968,11 +3968,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3982,11 +3982,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -3996,11 +3996,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4010,11 +4010,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4024,11 +4024,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4036,13 +4036,13 @@
         "channel": "Rai Sport",
         "link": "https://list.iptvcat.com/my_list/s/3ce7234c3ecfae1ab95b7758bd726782.m3u8",
         "country": "italy",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4052,11 +4052,11 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4066,11 +4066,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4080,11 +4080,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4093,12 +4093,12 @@
         "link": "https://list.iptvcat.com/my_list/s/90f9b514c5d52aa184ace478ddaaba7f.m3u8",
         "country": "italy",
         "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4108,11 +4108,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4122,11 +4122,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4134,13 +4134,13 @@
         "channel": "SKY PRIMAFILA 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/662726f4c9f0794a30820605149b1a9f.m3u8",
         "country": "italy",
-        "liveliness": "80",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3482",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1140",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4150,11 +4150,11 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4164,11 +4164,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4178,11 +4178,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4192,11 +4192,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4206,11 +4206,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4220,25 +4220,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2634140",
-        "channel": "Sky Sport 24",
-        "link": "https://list.iptvcat.com/my_list/s/99c7c7990fa99a1cbf8cf1c9bca1068b.m3u8",
-        "country": "italy",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4248,11 +4234,25 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2634140",
+        "channel": "Sky Sport 24",
+        "link": "https://list.iptvcat.com/my_list/s/99c7c7990fa99a1cbf8cf1c9bca1068b.m3u8",
+        "country": "italy",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4262,11 +4262,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4274,13 +4274,13 @@
         "channel": "Sky Sport F1",
         "link": "https://list.iptvcat.com/my_list/s/d81181f1fb00ceb5aa9d3cdb589cc9ce.m3u8",
         "country": "italy",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "sd",
         "mbps": "11103",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4290,11 +4290,11 @@
         "country": "italy",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4304,11 +4304,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4316,13 +4316,13 @@
         "channel": "Sky Sport MotoGP",
         "link": "https://list.iptvcat.com/my_list/s/7345acde1ff13623776ab019d4bae5fd.m3u8",
         "country": "italy",
-        "liveliness": "86",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4330,13 +4330,13 @@
         "channel": "Sky Sport NBA",
         "link": "https://list.iptvcat.com/my_list/s/33297aa96384045a8ad6310100e2d4e9.m3u8",
         "country": "italy",
-        "liveliness": "84",
+        "liveliness": "85",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "22116",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4346,11 +4346,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4358,13 +4358,13 @@
         "channel": "Sky Sport Uno",
         "link": "https://list.iptvcat.com/my_list/s/a2dea19bc63fa3792c488614cfb6d024.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "937",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4374,11 +4374,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4388,11 +4388,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4402,11 +4402,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4414,13 +4414,13 @@
         "channel": "Sportitalia",
         "link": "https://list.iptvcat.com/my_list/s/07fddd5d7548fcd0f83ad7db705096dd.m3u8",
         "country": "italy",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2022-10-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4430,11 +4430,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4442,13 +4442,13 @@
         "channel": "Super Tennis",
         "link": "https://list.iptvcat.com/my_list/s/a51f3173c00b5c1e95894177683a52e1.m3u8",
         "country": "italy",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "liveliness": "85",
+        "status": "online",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4458,11 +4458,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -4472,11 +4472,11 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-10-22T00:00:00Z",
+        "lastChecked": "2022-10-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "italy_-_-_-_-_-_-_-_-_-"
+            "italy_-_-_-_-_-_-_-_-_-_"
         ]
     }
 ]
