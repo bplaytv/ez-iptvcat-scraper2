@@ -1,40 +1,12 @@
 [
     {
-        "id": "2648023",
-        "channel": "ATV 2",
-        "link": "https://list.iptvcat.com/my_list/s/91afd24aa9442dffcf2e5b3138391975.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648021",
-        "channel": "ATV 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/637d9a97ff30eabe5485d0b3b0762e63.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2472544",
         "channel": "Antenne Vorarlberg (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/01fb1d5d80cb8157b6985f5ed1a13863.m3u8",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "liveliness": "99",
+        "status": "offline",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -48,7 +20,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -62,7 +34,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -76,23 +48,9 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648031",
-        "channel": "Go TV",
-        "link": "https://list.iptvcat.com/my_list/s/f98845214a25f7223640e64e7269e96a.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -104,7 +62,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -118,7 +76,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -134,7 +92,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -148,7 +106,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -162,7 +120,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -174,9 +132,9 @@
         "channel": "N24 Doku Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/2b47ba8b503821bf143ad8bfe97468c8.m3u8",
         "country": "austria",
-        "liveliness": "29",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -188,53 +146,11 @@
         "channel": "Nickelodeon Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/d01864834175f260b63047ecf38bcc4f.m3u8",
         "country": "austria",
-        "liveliness": "24",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "1796",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648032",
-        "channel": "OE24 TV 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/8ca5073506214449133a2c99d9b856e3.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648018",
-        "channel": "ORF 1 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/e1703d9337f94b9708cec40ebb4d6671.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648019",
-        "channel": "ORF 2 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/edd32b77e21492e9eb79c85cdde0315a.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -244,23 +160,9 @@
         "channel": "ORF 2 FHD",
         "link": "https://list.iptvcat.com/my_list/s/4b3df7c0d5d9f9c657a2cc765e285853.m3u8",
         "country": "austria",
-        "liveliness": "29",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648020",
-        "channel": "ORF 3 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/bd83e19147fa5a2c684f09a47d29910a.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -272,39 +174,11 @@
         "channel": "ORF 3 FHD",
         "link": "https://list.iptvcat.com/my_list/s/691a87ca6673998d511d14f4920a8851.m3u8",
         "country": "austria",
-        "liveliness": "24",
+        "liveliness": "25",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648028",
-        "channel": "ORF Sport 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/64fc02af9e0f7124531eb41044b280fd.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648026",
-        "channel": "Puls 24 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/b86eedc17563a3c39d1e2ca00432b57f.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -314,25 +188,11 @@
         "channel": "Puls 4 FHD",
         "link": "https://list.iptvcat.com/my_list/s/44f467f3330d20712449a44637f0ea74.m3u8",
         "country": "austria",
-        "liveliness": "29",
-        "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "liveliness": "25",
+        "status": "offline",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648029",
-        "channel": "R9 Osterreich 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/a2d7c00cbd1640664a2d50c431a1c67a.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -342,11 +202,11 @@
         "channel": "RTL 2 Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/9cdf8abc951b9ec966a17d7c0bb389b7.m3u8",
         "country": "austria",
-        "liveliness": "19",
-        "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "liveliness": "21",
+        "status": "offline",
+        "lastChecked": "2022-11-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -356,9 +216,9 @@
         "channel": "RTL PLus Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/f5ecf739338e5be3bceef462b9bd01d4.m3u8",
         "country": "austria",
-        "liveliness": "30",
+        "liveliness": "26",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -370,53 +230,11 @@
         "channel": "SAT 1 Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/96bf392e796c8e681415860f2a3f673c.m3u8",
         "country": "austria",
-        "liveliness": "43",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648024",
-        "channel": "SRF 1 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/829437d6d438c70fd459f96059a90a9b.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648025",
-        "channel": "SRF 2 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/26b24f33bd4d7aac56c553cc57398b1b.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648027",
-        "channel": "Schau TV",
-        "link": "https://list.iptvcat.com/my_list/s/33e3eccf7581b646d520e101f3fbe2fa.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -428,23 +246,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2308, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648022",
-        "channel": "Servus TV 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/1c9fc4af3df2859720fe4b49f51dbd06.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -456,7 +260,7 @@
         "country": "austria",
         "liveliness": "35",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -468,39 +272,11 @@
         "channel": "Sky Sport Austria 3 FHD",
         "link": "https://list.iptvcat.com/my_list/s/c1c408dcbb1171380777fff2e12475cf.m3u8",
         "country": "austria",
-        "liveliness": "41",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648012",
-        "channel": "Sky Sport Austria FHD",
-        "link": "https://list.iptvcat.com/my_list/s/b244d9b1957950bf3ca63ef1e3da9079.m3u8",
-        "country": "austria",
-        "liveliness": "24",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648030",
-        "channel": "Starparadies",
-        "link": "https://list.iptvcat.com/my_list/s/e0d69020f3d9a61a31d45d606f75f707.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1601",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -512,7 +288,7 @@
         "country": "austria",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -526,7 +302,7 @@
         "country": "austria",
         "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -538,39 +314,11 @@
         "channel": "oe24.TV FHD",
         "link": "https://list.iptvcat.com/my_list/s/70eeef3de1b5d48ae735d33d5c57a0e8.m3u8",
         "country": "austria",
-        "liveliness": "29",
+        "liveliness": "30",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648023",
-        "channel": "ATV 2",
-        "link": "https://list.iptvcat.com/my_list/s/91afd24aa9442dffcf2e5b3138391975.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648021",
-        "channel": "ATV 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/637d9a97ff30eabe5485d0b3b0762e63.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -580,9 +328,9 @@
         "channel": "Antenne Vorarlberg (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/01fb1d5d80cb8157b6985f5ed1a13863.m3u8",
         "country": "austria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "liveliness": "99",
+        "status": "offline",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -596,7 +344,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -610,7 +358,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089, ...",
         "URI": [
@@ -624,23 +372,9 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648031",
-        "channel": "Go TV",
-        "link": "https://list.iptvcat.com/my_list/s/f98845214a25f7223640e64e7269e96a.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -652,7 +386,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -666,7 +400,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -682,7 +416,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -696,7 +430,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -710,7 +444,7 @@
         "country": "austria",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -722,9 +456,9 @@
         "channel": "N24 Doku Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/2b47ba8b503821bf143ad8bfe97468c8.m3u8",
         "country": "austria",
-        "liveliness": "29",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -736,53 +470,11 @@
         "channel": "Nickelodeon Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/d01864834175f260b63047ecf38bcc4f.m3u8",
         "country": "austria",
-        "liveliness": "24",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "1796",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648032",
-        "channel": "OE24 TV 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/8ca5073506214449133a2c99d9b856e3.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648018",
-        "channel": "ORF 1 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/e1703d9337f94b9708cec40ebb4d6671.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648019",
-        "channel": "ORF 2 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/edd32b77e21492e9eb79c85cdde0315a.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -792,23 +484,9 @@
         "channel": "ORF 2 FHD",
         "link": "https://list.iptvcat.com/my_list/s/4b3df7c0d5d9f9c657a2cc765e285853.m3u8",
         "country": "austria",
-        "liveliness": "29",
+        "liveliness": "25",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648020",
-        "channel": "ORF 3 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/bd83e19147fa5a2c684f09a47d29910a.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -820,39 +498,11 @@
         "channel": "ORF 3 FHD",
         "link": "https://list.iptvcat.com/my_list/s/691a87ca6673998d511d14f4920a8851.m3u8",
         "country": "austria",
-        "liveliness": "24",
+        "liveliness": "25",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648028",
-        "channel": "ORF Sport 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/64fc02af9e0f7124531eb41044b280fd.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648026",
-        "channel": "Puls 24 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/b86eedc17563a3c39d1e2ca00432b57f.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -862,25 +512,11 @@
         "channel": "Puls 4 FHD",
         "link": "https://list.iptvcat.com/my_list/s/44f467f3330d20712449a44637f0ea74.m3u8",
         "country": "austria",
-        "liveliness": "29",
-        "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "liveliness": "25",
+        "status": "offline",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648029",
-        "channel": "R9 Osterreich 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/a2d7c00cbd1640664a2d50c431a1c67a.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -890,11 +526,11 @@
         "channel": "RTL 2 Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/9cdf8abc951b9ec966a17d7c0bb389b7.m3u8",
         "country": "austria",
-        "liveliness": "19",
-        "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "liveliness": "21",
+        "status": "offline",
+        "lastChecked": "2022-11-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -904,9 +540,9 @@
         "channel": "RTL PLus Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/f5ecf739338e5be3bceef462b9bd01d4.m3u8",
         "country": "austria",
-        "liveliness": "30",
+        "liveliness": "26",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -918,53 +554,11 @@
         "channel": "SAT 1 Austria HD",
         "link": "https://list.iptvcat.com/my_list/s/96bf392e796c8e681415860f2a3f673c.m3u8",
         "country": "austria",
-        "liveliness": "43",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648024",
-        "channel": "SRF 1 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/829437d6d438c70fd459f96059a90a9b.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648025",
-        "channel": "SRF 2 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/26b24f33bd4d7aac56c553cc57398b1b.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648027",
-        "channel": "Schau TV",
-        "link": "https://list.iptvcat.com/my_list/s/33e3eccf7581b646d520e101f3fbe2fa.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -976,23 +570,9 @@
         "country": "austria",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2308, ...",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648022",
-        "channel": "Servus TV 4K+",
-        "link": "https://list.iptvcat.com/my_list/s/1c9fc4af3df2859720fe4b49f51dbd06.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -1004,7 +584,7 @@
         "country": "austria",
         "liveliness": "35",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -1016,39 +596,11 @@
         "channel": "Sky Sport Austria 3 FHD",
         "link": "https://list.iptvcat.com/my_list/s/c1c408dcbb1171380777fff2e12475cf.m3u8",
         "country": "austria",
-        "liveliness": "41",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648012",
-        "channel": "Sky Sport Austria FHD",
-        "link": "https://list.iptvcat.com/my_list/s/b244d9b1957950bf3ca63ef1e3da9079.m3u8",
-        "country": "austria",
-        "liveliness": "24",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "austria_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648030",
-        "channel": "Starparadies",
-        "link": "https://list.iptvcat.com/my_list/s/e0d69020f3d9a61a31d45d606f75f707.m3u8",
-        "country": "austria",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1601",
         "URI": [
             "austria_-_-_-_-_-_-_-_-_-"
         ]
@@ -1060,7 +612,7 @@
         "country": "austria",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1074,7 +626,7 @@
         "country": "austria",
         "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -1086,9 +638,9 @@
         "channel": "oe24.TV FHD",
         "link": "https://list.iptvcat.com/my_list/s/70eeef3de1b5d48ae735d33d5c57a0e8.m3u8",
         "country": "austria",
-        "liveliness": "29",
+        "liveliness": "30",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1102,7 +654,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1118,7 +670,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1134,7 +686,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1150,7 +702,7 @@
         "country": "austria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-10T00:00:00Z",
+        "lastChecked": "2022-11-11T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
