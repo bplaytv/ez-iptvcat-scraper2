@@ -1,101 +1,12 @@
 [
     {
-        "id": "2632194",
-        "channel": "BBC One HD (540p)",
-        "link": "https://list.iptvcat.com/my_list/s/b2f85ab12c4137f1171db8db4026de8b.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632213",
-        "channel": "BBC Two HD (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/dd27a7975fdb5cfb67fbad3d0989740a.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631636",
-        "channel": "BS 12 (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/a3677d682491cbe79cbc5788d96fe8c8.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2632332",
-        "channel": "Free Speech TV (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/0b837e13779bcf9ebb14242095a9adf5.m3u8",
-        "country": "japan",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632221",
-        "channel": "Hype Tv",
-        "link": "https://list.iptvcat.com/my_list/s/176130f2818d79ae25d6d07361b71cfd.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632226",
-        "channel": "ITV 1 (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ee4eda6dba1f9207278af4dfb8b0fb72.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
         "id": "693934",
         "channel": "MX Live (Webcam)",
         "link": "https://list.iptvcat.com/my_list/s/96380a8dfe609455bf3a6cb5858801f2.m3u8",
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -109,7 +20,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
@@ -123,7 +34,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -137,9 +48,9 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "3433",
         "URI": [
             "japan_-_-_-_-_",
             "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
@@ -152,9 +63,23 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "2740, ...",
+        "URI": [
+            "japan_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2652333",
+        "channel": "Nippon TV (480p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/85503b71bfbf6f76fba4243b0362f425.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "1508",
         "URI": [
             "japan_-_-_-_-_"
         ]
@@ -166,7 +91,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -180,56 +105,11 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
             "japan_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2631946",
-        "channel": "TV Asahi (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5b7660b1ba2ee4f0afed7467ba904fcb.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631978",
-        "channel": "TV Tokyo (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5fdd73558567e9479fb7d905be606420.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631905",
-        "channel": "Toei Channel (540p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3e3ff1ceed6bcf86a439c0f50e91091c.m3u8",
-        "country": "japan",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
         ]
     },
     {
@@ -239,7 +119,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -253,7 +133,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -267,7 +147,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -281,7 +161,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -295,7 +175,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -309,7 +189,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -323,7 +203,7 @@
         "country": "japan",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -337,7 +217,7 @@
         "country": "japan",
         "liveliness": "69",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -351,7 +231,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -365,7 +245,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -379,7 +259,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -393,7 +273,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -407,7 +287,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "2740",
         "URI": [
@@ -421,100 +301,11 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
             "japan_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2632194",
-        "channel": "BBC One HD (540p)",
-        "link": "https://list.iptvcat.com/my_list/s/b2f85ab12c4137f1171db8db4026de8b.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632213",
-        "channel": "BBC Two HD (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/dd27a7975fdb5cfb67fbad3d0989740a.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631636",
-        "channel": "BS 12 (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/a3677d682491cbe79cbc5788d96fe8c8.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2632332",
-        "channel": "Free Speech TV (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/0b837e13779bcf9ebb14242095a9adf5.m3u8",
-        "country": "japan",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632221",
-        "channel": "Hype Tv",
-        "link": "https://list.iptvcat.com/my_list/s/176130f2818d79ae25d6d07361b71cfd.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632226",
-        "channel": "ITV 1 (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ee4eda6dba1f9207278af4dfb8b0fb72.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
         ]
     },
     {
@@ -524,7 +315,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -538,7 +329,7 @@
         "country": "japan",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
@@ -552,7 +343,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -566,9 +357,9 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "3433",
         "URI": [
             "japan_-_-_-_-_",
             "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
@@ -581,9 +372,23 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "2740, ...",
+        "URI": [
+            "japan_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2652333",
+        "channel": "Nippon TV (480p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/85503b71bfbf6f76fba4243b0362f425.m3u8",
+        "country": "japan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-21T00:00:00Z",
+        "format": "sd",
+        "mbps": "1508",
         "URI": [
             "japan_-_-_-_-_"
         ]
@@ -595,7 +400,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -609,56 +414,11 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "13311, ...",
         "URI": [
             "japan_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2631946",
-        "channel": "TV Asahi (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5b7660b1ba2ee4f0afed7467ba904fcb.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631978",
-        "channel": "TV Tokyo (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5fdd73558567e9479fb7d905be606420.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631905",
-        "channel": "Toei Channel (540p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3e3ff1ceed6bcf86a439c0f50e91091c.m3u8",
-        "country": "japan",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
         ]
     },
     {
@@ -668,7 +428,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -682,7 +442,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -696,7 +456,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -710,7 +470,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
         "URI": [
@@ -724,7 +484,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -738,7 +498,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -752,7 +512,7 @@
         "country": "japan",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -766,7 +526,7 @@
         "country": "japan",
         "liveliness": "69",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
         "URI": [
@@ -780,7 +540,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -794,7 +554,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -808,7 +568,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -822,7 +582,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -836,7 +596,7 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "2740",
         "URI": [
@@ -850,251 +610,11 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
             "japan_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2632194",
-        "channel": "BBC One HD (540p)",
-        "link": "https://list.iptvcat.com/my_list/s/b2f85ab12c4137f1171db8db4026de8b.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632213",
-        "channel": "BBC Two HD (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/dd27a7975fdb5cfb67fbad3d0989740a.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632332",
-        "channel": "Free Speech TV (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/0b837e13779bcf9ebb14242095a9adf5.m3u8",
-        "country": "japan",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632221",
-        "channel": "Hype Tv",
-        "link": "https://list.iptvcat.com/my_list/s/176130f2818d79ae25d6d07361b71cfd.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632226",
-        "channel": "ITV 1 (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ee4eda6dba1f9207278af4dfb8b0fb72.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631946",
-        "channel": "TV Asahi (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5b7660b1ba2ee4f0afed7467ba904fcb.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631978",
-        "channel": "TV Tokyo (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5fdd73558567e9479fb7d905be606420.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631905",
-        "channel": "Toei Channel (540p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3e3ff1ceed6bcf86a439c0f50e91091c.m3u8",
-        "country": "japan",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632194",
-        "channel": "BBC One HD (540p)",
-        "link": "https://list.iptvcat.com/my_list/s/b2f85ab12c4137f1171db8db4026de8b.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632213",
-        "channel": "BBC Two HD (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/dd27a7975fdb5cfb67fbad3d0989740a.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632332",
-        "channel": "Free Speech TV (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/0b837e13779bcf9ebb14242095a9adf5.m3u8",
-        "country": "japan",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632221",
-        "channel": "Hype Tv",
-        "link": "https://list.iptvcat.com/my_list/s/176130f2818d79ae25d6d07361b71cfd.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3066",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2632226",
-        "channel": "ITV 1 (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ee4eda6dba1f9207278af4dfb8b0fb72.m3u8",
-        "country": "japan",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631946",
-        "channel": "TV Asahi (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5b7660b1ba2ee4f0afed7467ba904fcb.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631978",
-        "channel": "TV Tokyo (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5fdd73558567e9479fb7d905be606420.m3u8",
-        "country": "japan",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1508",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
-        ]
-    },
-    {
-        "id": "2631905",
-        "channel": "Toei Channel (540p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3e3ff1ceed6bcf86a439c0f50e91091c.m3u8",
-        "country": "japan",
-        "liveliness": "75",
-        "status": "offline",
-        "lastChecked": "2022-11-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
-        "URI": [
-            "japan_-_-_-_-_",
-            "singapore_-_-_"
         ]
     },
     {
@@ -1104,9 +624,9 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "3433",
         "URI": [
             "japan_-_-_-_-_",
             "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
@@ -1119,9 +639,9 @@
         "country": "japan",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-19T00:00:00Z",
+        "lastChecked": "2022-11-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "3433",
         "URI": [
             "japan_-_-_-_-_",
             "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
