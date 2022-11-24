@@ -1,12 +1,26 @@
 [
     {
+        "id": "2660210",
+        "channel": "TVB News Channel (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/eb6d8efc5b63bc7563dbd2973c533191.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "hong_kong_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "1037",
         "channel": "澳视葡文",
         "link": "https://list.iptvcat.com/my_list/s/5262c124c20740fcf1f3310527b31984.m3u8",
         "country": "hong kong",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-23T00:00:00Z",
+        "lastChecked": "2022-11-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -20,7 +34,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-23T00:00:00Z",
+        "lastChecked": "2022-11-24T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -34,9 +48,23 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-23T00:00:00Z",
+        "lastChecked": "2022-11-24T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
+        "URI": [
+            "hong_kong_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2660210",
+        "channel": "TVB News Channel (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/eb6d8efc5b63bc7563dbd2973c533191.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-11-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "hong_kong_-_-_-_-_-_-"
         ]
@@ -48,7 +76,7 @@
         "country": "hong kong",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-23T00:00:00Z",
+        "lastChecked": "2022-11-24T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -62,7 +90,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-23T00:00:00Z",
+        "lastChecked": "2022-11-24T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -76,7 +104,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-23T00:00:00Z",
+        "lastChecked": "2022-11-24T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
