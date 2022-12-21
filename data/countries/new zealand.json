@@ -1,56 +1,14 @@
 [
     {
-        "id": "2665433",
-        "channel": "BBC World News HD",
-        "link": "https://list.iptvcat.com/my_list/s/185b131c3a3fd9ab5ef5f1fc92881333.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665419",
-        "channel": "Discovery FHD 50FPS",
-        "link": "https://list.iptvcat.com/my_list/s/f02fcf3acfbcbb47911179fdabbf99c2.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
         "id": "693966",
         "channel": "Firstlight",
         "link": "https://list.iptvcat.com/my_list/s/173b653ef380834605ee17e4e7ad0206.m3u8",
         "country": "new zealand",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-20T00:00:00Z",
+        "lastChecked": "2022-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665422",
-        "channel": "HISTORY HD",
-        "link": "https://list.iptvcat.com/my_list/s/cdd1e08361c342f9dc11e5e609d4a9bf.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
         "URI": [
             "new_zealand__1"
         ]
@@ -62,7 +20,7 @@
         "country": "new zealand",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-20T00:00:00Z",
+        "lastChecked": "2022-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "2883, ...",
         "URI": [
@@ -76,93 +34,9 @@
         "country": "new zealand",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-12-20T00:00:00Z",
+        "lastChecked": "2022-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665430",
-        "channel": "Sky News HD",
-        "link": "https://list.iptvcat.com/my_list/s/672729a3736ea65dcd4455bf6a5f7520.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665363",
-        "channel": "Sky Sport 2 FHD 50FPS",
-        "link": "https://list.iptvcat.com/my_list/s/da5cbb6ca4de321ecb7ebcf4203f64f9.m3u8",
-        "country": "new zealand",
-        "liveliness": "34",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665405",
-        "channel": "SoHo FHD 50FPS",
-        "link": "https://list.iptvcat.com/my_list/s/63e298f59e7f58294434bf483aa24b17.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665414",
-        "channel": "TLC HD",
-        "link": "https://list.iptvcat.com/my_list/s/c4b1e764c0ce4b99b3814b79dc2ffae1.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665433",
-        "channel": "BBC World News HD",
-        "link": "https://list.iptvcat.com/my_list/s/185b131c3a3fd9ab5ef5f1fc92881333.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665419",
-        "channel": "Discovery FHD 50FPS",
-        "link": "https://list.iptvcat.com/my_list/s/f02fcf3acfbcbb47911179fdabbf99c2.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
         "URI": [
             "new_zealand__1"
         ]
@@ -174,23 +48,9 @@
         "country": "new zealand",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-12-20T00:00:00Z",
+        "lastChecked": "2022-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665422",
-        "channel": "HISTORY HD",
-        "link": "https://list.iptvcat.com/my_list/s/cdd1e08361c342f9dc11e5e609d4a9bf.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
         "URI": [
             "new_zealand__1"
         ]
@@ -202,7 +62,7 @@
         "country": "new zealand",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-12-20T00:00:00Z",
+        "lastChecked": "2022-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "2883, ...",
         "URI": [
@@ -216,65 +76,9 @@
         "country": "new zealand",
         "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-12-20T00:00:00Z",
+        "lastChecked": "2022-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665430",
-        "channel": "Sky News HD",
-        "link": "https://list.iptvcat.com/my_list/s/672729a3736ea65dcd4455bf6a5f7520.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665363",
-        "channel": "Sky Sport 2 FHD 50FPS",
-        "link": "https://list.iptvcat.com/my_list/s/da5cbb6ca4de321ecb7ebcf4203f64f9.m3u8",
-        "country": "new zealand",
-        "liveliness": "34",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665405",
-        "channel": "SoHo FHD 50FPS",
-        "link": "https://list.iptvcat.com/my_list/s/63e298f59e7f58294434bf483aa24b17.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "new_zealand__1"
-        ]
-    },
-    {
-        "id": "2665414",
-        "channel": "TLC HD",
-        "link": "https://list.iptvcat.com/my_list/s/c4b1e764c0ce4b99b3814b79dc2ffae1.m3u8",
-        "country": "new zealand",
-        "liveliness": "39",
-        "status": "offline",
-        "lastChecked": "2022-12-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
         "URI": [
             "new_zealand__1"
         ]
