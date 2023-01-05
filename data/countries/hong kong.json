@@ -1,12 +1,26 @@
 [
     {
+        "id": "2670856",
+        "channel": "HKIBC (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/8a6a6204f4b88cd9c378201f1ab812d2.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
         "id": "2667251",
         "channel": "NDR Fernsehen International",
         "link": "https://list.iptvcat.com/my_list/s/0cbc6ea3109570650eba42be4fb2e5f6.m3u8",
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -14,10 +28,52 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
+        ]
+    },
+    {
+        "id": "2670860",
+        "channel": "RTHK (港台電視33) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/84b9f1e4e1c69d984761708008cf8547.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "9556",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670862",
+        "channel": "TVB J2 (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/d5b95229f038cf66a38338b60826c085.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "9556",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670873",
+        "channel": "TVB Jade (翡翠台) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/dc510e61c0299e066402cb0e73288b20.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "hong_kong__1"
         ]
     },
     {
@@ -27,9 +83,37 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670880",
+        "channel": "TVB Pearl (珍珠台) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/abea3999e8ebd372863d6cd8b15fd78c.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670886",
+        "channel": "ViuTV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/dac05c14109736731021e0e32adffca0.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
             "hong_kong__1"
         ]
@@ -41,7 +125,7 @@
         "country": "hong kong",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -55,7 +139,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -69,9 +153,23 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670856",
+        "channel": "HKIBC (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/8a6a6204f4b88cd9c378201f1ab812d2.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "hong_kong__1"
         ]
@@ -83,7 +181,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -91,10 +189,52 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
+        ]
+    },
+    {
+        "id": "2670860",
+        "channel": "RTHK (港台電視33) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/84b9f1e4e1c69d984761708008cf8547.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "9556",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670862",
+        "channel": "TVB J2 (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/d5b95229f038cf66a38338b60826c085.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "9556",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670873",
+        "channel": "TVB Jade (翡翠台) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/dc510e61c0299e066402cb0e73288b20.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "hong_kong__1"
         ]
     },
     {
@@ -104,9 +244,37 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670880",
+        "channel": "TVB Pearl (珍珠台) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/abea3999e8ebd372863d6cd8b15fd78c.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "hong_kong__1"
+        ]
+    },
+    {
+        "id": "2670886",
+        "channel": "ViuTV (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/dac05c14109736731021e0e32adffca0.m3u8",
+        "country": "hong kong",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
             "hong_kong__1"
         ]
@@ -118,7 +286,7 @@
         "country": "hong kong",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -132,7 +300,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -146,7 +314,7 @@
         "country": "hong kong",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "7114",
         "URI": [
@@ -160,7 +328,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -168,7 +336,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -181,7 +349,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -189,7 +357,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -202,7 +370,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -210,7 +378,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -223,7 +391,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -231,7 +399,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -244,7 +412,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -252,7 +420,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -265,7 +433,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -273,7 +441,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -286,7 +454,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -294,7 +462,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -307,7 +475,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -315,7 +483,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -328,7 +496,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -336,7 +504,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -349,7 +517,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -357,7 +525,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"
@@ -370,7 +538,7 @@
         "country": "hong kong",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "6241, ...",
         "URI": [
@@ -378,7 +546,7 @@
             "india__1",
             "indonesia",
             "indonesia__1",
-            "france__4",
+            "france__5",
             "germany__2",
             "canada__1",
             "australia__1"

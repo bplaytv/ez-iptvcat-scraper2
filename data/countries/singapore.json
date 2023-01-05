@@ -1,14 +1,14 @@
 [
     {
-        "id": "24731",
-        "channel": "CNA HD",
-        "link": "https://list.iptvcat.com/my_list/s/275921f704a86d48056548cdc620e676.m3u8",
+        "id": "2671128",
+        "channel": "CNA (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/da54a7b36f293e713a034f2ff2f31de9.m3u8",
         "country": "singapore",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "singapore__1"
         ]
@@ -20,7 +20,35 @@
         "country": "singapore",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-01-04T00:00:00Z",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "singapore__1"
+        ]
+    },
+    {
+        "id": "2671128",
+        "channel": "CNA (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/da54a7b36f293e713a034f2ff2f31de9.m3u8",
+        "country": "singapore",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "singapore__1"
+        ]
+    },
+    {
+        "id": "24731",
+        "channel": "CNA HD",
+        "link": "https://list.iptvcat.com/my_list/s/275921f704a86d48056548cdc620e676.m3u8",
+        "country": "singapore",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-01-05T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
