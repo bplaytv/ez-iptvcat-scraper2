@@ -6,7 +6,7 @@
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -32,9 +32,9 @@
         "channel": "20 Mediaset HD",
         "link": "https://list.iptvcat.com/my_list/s/dd2bb0802b9d70214a17869530aca254.m3u8",
         "country": "italy",
-        "liveliness": "33",
+        "liveliness": "23",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -62,23 +62,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688118",
-        "channel": "BT Sport Extra 3",
-        "link": "https://list.iptvcat.com/my_list/s/2f257c0f48eff1a54c2e1ef461b56a47.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -88,9 +74,9 @@
         "channel": "Boomerang",
         "link": "https://list.iptvcat.com/my_list/s/7801a86d4e211d6f378c9922b8749c28.m3u8",
         "country": "italy",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -104,9 +90,9 @@
         "country": "italy",
         "liveliness": "33",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "italy__2"
         ]
@@ -126,27 +112,13 @@
         ]
     },
     {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
         "id": "132966",
         "channel": "Canale 2 Altamura",
         "link": "https://list.iptvcat.com/my_list/s/4a647c91ecf6c3ed437a749c58213f55.m3u8",
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -160,7 +132,21 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -172,11 +158,11 @@
         "channel": "Canale 5 HD",
         "link": "https://list.iptvcat.com/my_list/s/a0bdbf898bd125ca87187cf1bb74a391.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -186,9 +172,9 @@
         "channel": "Canale 7",
         "link": "https://list.iptvcat.com/my_list/s/0ffcdf3ba67e1df02c54e6a3e7a1fab8.m3u8",
         "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "36",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -202,7 +188,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -216,7 +202,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -242,9 +228,9 @@
         "channel": "Comedy Central",
         "link": "https://list.iptvcat.com/my_list/s/251d901a995bdbe079826ae334a5b0ab.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -270,9 +256,9 @@
         "channel": "DAZN Sport 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/bc54a4c10b4134a9c883b617b1fd24e2.m3u8",
         "country": "italy",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -298,11 +284,11 @@
         "channel": "Dazn Serie A1 Full HD",
         "link": "https://list.iptvcat.com/my_list/s/f8c5e2dfaf45f8549c6b0711cb31245a.m3u8",
         "country": "italy",
-        "liveliness": "71",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "italy__2"
         ]
@@ -342,37 +328,9 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "10686",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688103",
-        "channel": "Eurosport 1",
-        "link": "https://list.iptvcat.com/my_list/s/c77707e4c9e236b13350eb4c2f563053.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688104",
-        "channel": "Eurosport 2",
-        "link": "https://list.iptvcat.com/my_list/s/916da1359e75dabe9079e57e65ee95f1.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -396,11 +354,11 @@
         "channel": "History HD",
         "link": "https://list.iptvcat.com/my_list/s/32494228441856d96d4d5a71d7e6ce3c.m3u8",
         "country": "italy",
-        "liveliness": "33",
+        "liveliness": "45",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "italy__2"
         ]
@@ -410,9 +368,9 @@
         "channel": "History Lab",
         "link": "https://list.iptvcat.com/my_list/s/82564728e7fb1b37d0d7921a5dbc1028.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -424,9 +382,9 @@
         "channel": "IT_PRIMAFILA 10 HD",
         "link": "https://list.iptvcat.com/my_list/s/98d955d3bd8546428d08386a4fb5199d.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -452,11 +410,11 @@
         "channel": "IT_PRIMAFILA 14 HD",
         "link": "https://list.iptvcat.com/my_list/s/d510e1ca072a2e6da54af08ede88ccf8.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1765",
         "URI": [
             "italy__2"
         ]
@@ -494,11 +452,11 @@
         "channel": "IT_PRIMAFILA 17 HD",
         "link": "https://list.iptvcat.com/my_list/s/f9a47d359da53bd3bd81a7c7781c4e1d.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1765",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "italy__2"
         ]
@@ -510,23 +468,9 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688106",
-        "channel": "Inter TV",
-        "link": "https://list.iptvcat.com/my_list/s/7997b8238a1ff14b327b6300fae9bb93.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -538,7 +482,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -550,9 +494,9 @@
         "channel": "Italia 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/bf5bd7cb6fc3ad51b1bc7ddc78bffb1c.m3u8",
         "country": "italy",
-        "liveliness": "57",
+        "liveliness": "50",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -564,9 +508,9 @@
         "channel": "Italia 1 SD",
         "link": "https://list.iptvcat.com/my_list/s/64657676e16d022c28e1b18e3722601c.m3u8",
         "country": "italy",
-        "liveliness": "50",
+        "liveliness": "45",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -608,7 +552,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -622,7 +566,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -638,7 +582,7 @@
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -650,7 +594,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -678,7 +622,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -690,9 +634,9 @@
         "channel": "LaEffe",
         "link": "https://list.iptvcat.com/my_list/s/2c7aa3743073253641dee03df4ce49c7.m3u8",
         "country": "italy",
-        "liveliness": "40",
+        "liveliness": "45",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -706,7 +650,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -720,7 +664,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -734,7 +678,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -746,9 +690,9 @@
         "channel": "Mediaset Extra",
         "link": "https://list.iptvcat.com/my_list/s/aa347bba7315bd58346b23e4448218eb.m3u8",
         "country": "italy",
-        "liveliness": "71",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -762,7 +706,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -776,7 +720,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -790,7 +734,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -804,7 +748,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -844,11 +788,11 @@
         "channel": "Nick Junior",
         "link": "https://list.iptvcat.com/my_list/s/e591296b4e6c4c2495c2b37c37c4cdaf.m3u8",
         "country": "italy",
-        "liveliness": "71",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "italy__2"
         ]
@@ -858,9 +802,9 @@
         "channel": "Nickelodeon",
         "link": "https://list.iptvcat.com/my_list/s/0955964878ae6ebcf84ad10bae804448.m3u8",
         "country": "italy",
-        "liveliness": "40",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -888,7 +832,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "1700",
         "URI": [
@@ -903,8 +847,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -917,8 +861,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -928,9 +872,9 @@
         "channel": "Pesca e Caccia",
         "link": "https://list.iptvcat.com/my_list/s/10225a54ce0ce3829ac364cd0adf8a23.m3u8",
         "country": "italy",
-        "liveliness": "18",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -956,8 +900,8 @@
         "channel": "Premium Action Full HD",
         "link": "https://list.iptvcat.com/my_list/s/6bb2d0e5ed4a3c41fe2cdb754ea5cc03.m3u8",
         "country": "italy",
-        "liveliness": "30",
-        "status": "offline",
+        "liveliness": "36",
+        "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -970,9 +914,9 @@
         "channel": "Premium Cinema  24 HD",
         "link": "https://list.iptvcat.com/my_list/s/62d318eb173ad4a70da85c933fc7c6ca.m3u8",
         "country": "italy",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1012,11 +956,11 @@
         "channel": "Premium Stories",
         "link": "https://list.iptvcat.com/my_list/s/3dc2e07cf74c051cc69badc98cbd5707.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -1028,7 +972,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1042,7 +986,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1056,7 +1000,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1070,7 +1014,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1084,7 +1028,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1098,7 +1042,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1112,7 +1056,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -1126,7 +1070,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -1138,11 +1082,11 @@
         "channel": "RSI LA 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/f0afbfd9fde3b957e8975bff59e396a6.m3u8",
         "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "31",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "italy__2"
         ]
@@ -1153,10 +1097,10 @@
         "link": "https://list.iptvcat.com/my_list/s/73ddc90c61118bdb01ce413a5e860ac4.m3u8",
         "country": "italy",
         "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "italy__2"
         ]
@@ -1170,7 +1114,7 @@
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "3188",
         "URI": [
             "italy__2"
         ]
@@ -1210,23 +1154,9 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2063",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688108",
-        "channel": "RTV Reggio",
-        "link": "https://list.iptvcat.com/my_list/s/bb93a3878a0fee5fe5a216ddea802588.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "italy__2"
         ]
@@ -1238,7 +1168,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -1252,7 +1182,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -1266,7 +1196,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1278,9 +1208,9 @@
         "channel": "Radio Capital TV",
         "link": "https://list.iptvcat.com/my_list/s/f44641f1427c6b93341e22168b91e979.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1294,7 +1224,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1308,7 +1238,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1320,11 +1250,11 @@
         "channel": "Rai 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/c8fb83e9f4ed324d70561f73da369e25.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -1348,9 +1278,9 @@
         "channel": "Rai 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/a3337592d31414e4ba56198ac2ddf62f.m3u8",
         "country": "italy",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "63",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1364,9 +1294,9 @@
         "country": "italy",
         "liveliness": "50",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -1378,7 +1308,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1392,1463 +1322,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688889",
-        "channel": "[IT-Reg] TeleRomagna24",
-        "link": "https://list.iptvcat.com/my_list/s/8df1a3fe76e64dcf481f38fe9c67be12.m3u8",
-        "country": "italy",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688765",
-        "channel": "[IT-Reg] Telefoggia",
-        "link": "https://list.iptvcat.com/my_list/s/87fca81b4f84945cfd89bb505fa5ff3a.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593373",
-        "channel": "rai Scuola",
-        "link": "https://list.iptvcat.com/my_list/s/88cedcd9fb93f8459fcb59cec0ad2f7f.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "7908",
-        "channel": "telePAVIA",
-        "link": "https://list.iptvcat.com/my_list/s/450259eccbd1e780c213d46bbb6d9197.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2649999",
-        "channel": "----C I N E M A----",
-        "link": "https://list.iptvcat.com/my_list/s/8e0b08212d21f5ffaf670fa3ec09f15d.m3u8",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2473122",
-        "channel": "12 TV Parma (540p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/5d9e8d15d7f4be1c2f977e5efb355a85.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2689172",
-        "channel": "20 Mediaset HD",
-        "link": "https://list.iptvcat.com/my_list/s/dd2bb0802b9d70214a17869530aca254.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1569",
-        "channel": "51 Radio TV",
-        "link": "https://list.iptvcat.com/my_list/s/ab165d0088b8239aef7a6955ecefc048.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1574",
-        "channel": "Aurora Arte",
-        "link": "https://list.iptvcat.com/my_list/s/aadbd8fc09b619b8d5a85ff1137c9774.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688118",
-        "channel": "BT Sport Extra 3",
-        "link": "https://list.iptvcat.com/my_list/s/2f257c0f48eff1a54c2e1ef461b56a47.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688484",
-        "channel": "Boomerang",
-        "link": "https://list.iptvcat.com/my_list/s/7801a86d4e211d6f378c9922b8749c28.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2689458",
-        "channel": "CI Crime Investigation HD",
-        "link": "https://list.iptvcat.com/my_list/s/19e4018c8e428c5001d575c197f73825.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688561",
-        "channel": "CIELO HD",
-        "link": "https://list.iptvcat.com/my_list/s/65fc5627cd5dc956d0082e589e97080d.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "132966",
-        "channel": "Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/4a647c91ecf6c3ed437a749c58213f55.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "55883",
-        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/b1811113100782b79005e52be60833a5.m3u8",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688478",
-        "channel": "Canale 5 HD",
-        "link": "https://list.iptvcat.com/my_list/s/a0bdbf898bd125ca87187cf1bb74a391.m3u8",
-        "country": "italy",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2689326",
-        "channel": "Canale 7",
-        "link": "https://list.iptvcat.com/my_list/s/0ffcdf3ba67e1df02c54e6a3e7a1fab8.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1583",
-        "channel": "Canale 7",
-        "link": "https://list.iptvcat.com/my_list/s/c5f5b69ec3e2b7bd825c3473ccaf0ad6.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1582",
-        "channel": "Canale 7",
-        "link": "https://list.iptvcat.com/my_list/s/d796c33bf28eb18b0d70b39fb88b7fed.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1584",
-        "channel": "Canale 8",
-        "link": "https://list.iptvcat.com/my_list/s/0eb6c97982e0665473cdf92aaccaf463.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688472",
-        "channel": "Comedy Central",
-        "link": "https://list.iptvcat.com/my_list/s/251d901a995bdbe079826ae334a5b0ab.m3u8",
-        "country": "italy",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688468",
-        "channel": "Crime Investigation HD",
-        "link": "https://list.iptvcat.com/my_list/s/7e48dd91556fd8d63b12dd6b7799aff5.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688433",
-        "channel": "DAZN Sport 3 HD",
-        "link": "https://list.iptvcat.com/my_list/s/bc54a4c10b4134a9c883b617b1fd24e2.m3u8",
-        "country": "italy",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688557",
-        "channel": "DAZN Sport 8 HD",
-        "link": "https://list.iptvcat.com/my_list/s/77e3d1af598fa7a6f48c4c46fd0cc31a.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688466",
-        "channel": "Dazn Serie A1 Full HD",
-        "link": "https://list.iptvcat.com/my_list/s/f8c5e2dfaf45f8549c6b0711cb31245a.m3u8",
-        "country": "italy",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688427",
-        "channel": "Discovery Sci HD",
-        "link": "https://list.iptvcat.com/my_list/s/5d0330d5d99bede2d88c86db9668ef6f.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1235",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688591",
-        "channel": "Eleven Sport 4 HD",
-        "link": "https://list.iptvcat.com/my_list/s/c4e8459b6289d9243a9ed47f9d213934.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1600",
-        "channel": "Euro Indie Music Chart TV",
-        "link": "https://list.iptvcat.com/my_list/s/008beded7927a2866c31eb4db27f0b88.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "10686",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688103",
-        "channel": "Eurosport 1",
-        "link": "https://list.iptvcat.com/my_list/s/c77707e4c9e236b13350eb4c2f563053.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688104",
-        "channel": "Eurosport 2",
-        "link": "https://list.iptvcat.com/my_list/s/916da1359e75dabe9079e57e65ee95f1.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688422",
-        "channel": "Fox Crime HD",
-        "link": "https://list.iptvcat.com/my_list/s/cf28d921efc76c7e0a5137efdf6c3776.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688492",
-        "channel": "History HD",
-        "link": "https://list.iptvcat.com/my_list/s/32494228441856d96d4d5a71d7e6ce3c.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688488",
-        "channel": "History Lab",
-        "link": "https://list.iptvcat.com/my_list/s/82564728e7fb1b37d0d7921a5dbc1028.m3u8",
-        "country": "italy",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688494",
-        "channel": "IT_PRIMAFILA 10 HD",
-        "link": "https://list.iptvcat.com/my_list/s/98d955d3bd8546428d08386a4fb5199d.m3u8",
-        "country": "italy",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688498",
-        "channel": "IT_PRIMAFILA 12 HD",
-        "link": "https://list.iptvcat.com/my_list/s/0aa56b3ebdf7544a2e441a84dc8aec46.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688499",
-        "channel": "IT_PRIMAFILA 14 HD",
-        "link": "https://list.iptvcat.com/my_list/s/d510e1ca072a2e6da54af08ede88ccf8.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688541",
-        "channel": "IT_PRIMAFILA 15 HD",
-        "link": "https://list.iptvcat.com/my_list/s/cd665cb179cab49409c464152dc0eabe.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688549",
-        "channel": "IT_PRIMAFILA 16 HD",
-        "link": "https://list.iptvcat.com/my_list/s/28e159e7b9f21b3ebb36e7a64a3d1fae.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688551",
-        "channel": "IT_PRIMAFILA 17 HD",
-        "link": "https://list.iptvcat.com/my_list/s/f9a47d359da53bd3bd81a7c7781c4e1d.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1765",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1606",
-        "channel": "Icaro TV",
-        "link": "https://list.iptvcat.com/my_list/s/4435cdfdf1cb0c49451cde00177f7391.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688106",
-        "channel": "Inter TV",
-        "link": "https://list.iptvcat.com/my_list/s/7997b8238a1ff14b327b6300fae9bb93.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593345",
-        "channel": "Italia 1",
-        "link": "https://list.iptvcat.com/my_list/s/456109ba7f2b2c7f339b8068df4ae8fc.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2689136",
-        "channel": "Italia 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/bf5bd7cb6fc3ad51b1bc7ddc78bffb1c.m3u8",
-        "country": "italy",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2689138",
-        "channel": "Italia 1 SD",
-        "link": "https://list.iptvcat.com/my_list/s/64657676e16d022c28e1b18e3722601c.m3u8",
-        "country": "italy",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688390",
-        "channel": "Italia 2",
-        "link": "https://list.iptvcat.com/my_list/s/08dfc0e308ef5df0368ff27ea727b72a.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "693911",
-        "channel": "Italia 2",
-        "link": "https://list.iptvcat.com/my_list/s/fdf61debfcb4c2067ae5e66ff87dbaaf.m3u8",
-        "country": "italy",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1607",
-        "channel": "Italia 2 TV",
-        "link": "https://list.iptvcat.com/my_list/s/3de594024117413d1ad30c7505f1846c.m3u8",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2473140",
-        "channel": "Kiss Kiss TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/9b588faf09e2c6fae4e7c62679463353.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688388",
-        "channel": "La 5",
-        "link": "https://list.iptvcat.com/my_list/s/7df3c7183782d6f106d283b5c41a3ed4.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593346",
-        "channel": "La5",
-        "link": "https://list.iptvcat.com/my_list/s/a7fcc8f71b2534480f16a09674e8e90d.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688386",
-        "channel": "La7",
-        "link": "https://list.iptvcat.com/my_list/s/0c93a3a2e741fb7067adb9a7d7defe1a.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593347",
-        "channel": "La7",
-        "link": "https://list.iptvcat.com/my_list/s/9a9c3417fe476db6deb181e31cf4ad4c.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688380",
-        "channel": "LaEffe",
-        "link": "https://list.iptvcat.com/my_list/s/2c7aa3743073253641dee03df4ce49c7.m3u8",
-        "country": "italy",
-        "liveliness": "40",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2473144",
-        "channel": "Lira TV (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/f8424e96f1d0c202ade16ff41b2e3ee7.m3u8",
-        "country": "italy",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593352",
-        "channel": "MS MOTORTV",
-        "link": "https://list.iptvcat.com/my_list/s/00b0d2d4405d7debb4be298f5e1b273e.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593348",
-        "channel": "Mediaset Extra",
-        "link": "https://list.iptvcat.com/my_list/s/eefb0c4b19c903dd883ec3c441b7b48e.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688378",
-        "channel": "Mediaset Extra",
-        "link": "https://list.iptvcat.com/my_list/s/aa347bba7315bd58346b23e4448218eb.m3u8",
-        "country": "italy",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593349",
-        "channel": "Mediaset Italia",
-        "link": "https://list.iptvcat.com/my_list/s/56fd6e28da98abe374a1783d1f2a4cb3.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593350",
-        "channel": "Mediaset Italia 2",
-        "link": "https://list.iptvcat.com/my_list/s/aec71bfdc2a5c4d4f56ed552a3a1bb54.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593351",
-        "channel": "Motor Trend",
-        "link": "https://list.iptvcat.com/my_list/s/fcd7cede115547c409d755f0ee75da52.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593353",
-        "channel": "NOVE",
-        "link": "https://list.iptvcat.com/my_list/s/63b3cd170e5d2a5b92e62648766fdfcd.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688374",
-        "channel": "NatGeo Wild HD",
-        "link": "https://list.iptvcat.com/my_list/s/f05f7c88e8fed342306879ebf4f220b8.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688372",
-        "channel": "NationalGeo HD",
-        "link": "https://list.iptvcat.com/my_list/s/c27de0134b76fdaf09cf87d3d1a2b5c6.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688368",
-        "channel": "Nick Junior",
-        "link": "https://list.iptvcat.com/my_list/s/e591296b4e6c4c2495c2b37c37c4cdaf.m3u8",
-        "country": "italy",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688362",
-        "channel": "Nickelodeon",
-        "link": "https://list.iptvcat.com/my_list/s/0955964878ae6ebcf84ad10bae804448.m3u8",
-        "country": "italy",
-        "liveliness": "40",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688359",
-        "channel": "Nove TV",
-        "link": "https://list.iptvcat.com/my_list/s/7840c5f23e03b7ceb25ea05f17b44513.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1621",
-        "channel": "Orler TV",
-        "link": "https://list.iptvcat.com/my_list/s/0ec47539e69ca899b0b926f45db509d3.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1700",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688260",
-        "channel": "PREMIUM CINEMA ENERGY",
-        "link": "https://list.iptvcat.com/my_list/s/a8dfd2733320411b1e17ef040a3d82d1.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688252",
-        "channel": "PREMIUM CINEMA ENERGY FHD",
-        "link": "https://list.iptvcat.com/my_list/s/334bb0157385b2fa9a78c19e6c7e984e.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688351",
-        "channel": "Pesca e Caccia",
-        "link": "https://list.iptvcat.com/my_list/s/10225a54ce0ce3829ac364cd0adf8a23.m3u8",
-        "country": "italy",
-        "liveliness": "18",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688347",
-        "channel": "Premium 20",
-        "link": "https://list.iptvcat.com/my_list/s/c8ae2146098e75de6912c0c75fba287a.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688343",
-        "channel": "Premium Action Full HD",
-        "link": "https://list.iptvcat.com/my_list/s/6bb2d0e5ed4a3c41fe2cdb754ea5cc03.m3u8",
-        "country": "italy",
-        "liveliness": "30",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688319",
-        "channel": "Premium Cinema  24 HD",
-        "link": "https://list.iptvcat.com/my_list/s/62d318eb173ad4a70da85c933fc7c6ca.m3u8",
-        "country": "italy",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688268",
-        "channel": "Premium Crime HD",
-        "link": "https://list.iptvcat.com/my_list/s/6a72a27ae062384d59a66f1b04f51bc3.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688263",
-        "channel": "Premium Emotion",
-        "link": "https://list.iptvcat.com/my_list/s/91c699f96e36793d79d18c0766d7b527.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688250",
-        "channel": "Premium Stories",
-        "link": "https://list.iptvcat.com/my_list/s/3dc2e07cf74c051cc69badc98cbd5707.m3u8",
-        "country": "italy",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593354",
-        "channel": "Primafila 01",
-        "link": "https://list.iptvcat.com/my_list/s/0e2c73238b44309efe2ec0ebd1cfc866.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593355",
-        "channel": "Primafila 03",
-        "link": "https://list.iptvcat.com/my_list/s/e4a356c92dbcae722271502f1e1febbe.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593358",
-        "channel": "Primafila 04",
-        "link": "https://list.iptvcat.com/my_list/s/01469f3241e24f5857edf4c4e88948bf.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593359",
-        "channel": "Primafila 05",
-        "link": "https://list.iptvcat.com/my_list/s/481e54849769e4a9d18af5bf982158ba.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593360",
-        "channel": "Primafila 07",
-        "link": "https://list.iptvcat.com/my_list/s/dd3cdfb33da6c460c6068deee71c37ae.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593361",
-        "channel": "Primafila 08",
-        "link": "https://list.iptvcat.com/my_list/s/ce0ee5f325c5933e7e442b5ff3b19cc2.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1666",
-        "channel": "RDS Social TV",
-        "link": "https://list.iptvcat.com/my_list/s/c6bb35f19e1b61d4ec2737303cf19831.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "132983",
-        "channel": "RDS Social TV",
-        "link": "https://list.iptvcat.com/my_list/s/170f2d9da23d233252eb039bdba92268.m3u8",
-        "country": "italy",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2689372",
-        "channel": "RSI LA 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/f0afbfd9fde3b957e8975bff59e396a6.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2689364",
-        "channel": "RSI La 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/73ddc90c61118bdb01ce413a5e860ac4.m3u8",
-        "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688137",
-        "channel": "RSI La1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/51af01f9e640f337b3e681caa3971601.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688135",
-        "channel": "RSI La2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/3f7909174dac372f565330e83df3113f.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688133",
-        "channel": "RTL 102.5",
-        "link": "https://list.iptvcat.com/my_list/s/920fa6008414c7bbb6571bcb6484b523.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1678",
-        "channel": "RTP",
-        "link": "https://list.iptvcat.com/my_list/s/529c8d64e11dacdb0f9b51dad869a2c1.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2063",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688108",
-        "channel": "RTV Reggio",
-        "link": "https://list.iptvcat.com/my_list/s/bb93a3878a0fee5fe5a216ddea802588.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1633",
-        "channel": "Radio 51",
-        "link": "https://list.iptvcat.com/my_list/s/2c0b72ac07ee4d14df934e9008ecea6c.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "693913",
-        "channel": "Radio 51 Lombardia",
-        "link": "https://list.iptvcat.com/my_list/s/befc55cebf42bf05149bf5256b7d9839.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2851",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1634",
-        "channel": "Radio Birikina TV",
-        "link": "https://list.iptvcat.com/my_list/s/ddbe4de96e6aa6890c6b28cdac4d27ad.m3u8",
-        "country": "italy",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688246",
-        "channel": "Radio Capital TV",
-        "link": "https://list.iptvcat.com/my_list/s/f44641f1427c6b93341e22168b91e979.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "693916",
-        "channel": "Radio Number One",
-        "link": "https://list.iptvcat.com/my_list/s/0a3514d3ff625c9ccff0c29674d2b317.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593362",
-        "channel": "Rai 1",
-        "link": "https://list.iptvcat.com/my_list/s/3be050284c52d65061aa1a78040604cb.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688241",
-        "channel": "Rai 1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/c8fb83e9f4ed324d70561f73da369e25.m3u8",
-        "country": "italy",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2593363",
-        "channel": "Rai 2",
-        "link": "https://list.iptvcat.com/my_list/s/a16f9a2b0880c337aa1974f3ed85666e.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688981",
-        "channel": "Rai 2 HD",
-        "link": "https://list.iptvcat.com/my_list/s/a3337592d31414e4ba56198ac2ddf62f.m3u8",
-        "country": "italy",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688983",
-        "channel": "Rai 2 SD",
-        "link": "https://list.iptvcat.com/my_list/s/a9b60d7dce175b8d35c739b9452a2139.m3u8",
-        "country": "italy",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1655",
-        "channel": "Rai 3",
-        "link": "https://list.iptvcat.com/my_list/s/1f22856f68f2fba4a993c47f47c78a64.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1654",
-        "channel": "Rai 3",
-        "link": "https://list.iptvcat.com/my_list/s/a372048a4fb440e752aec141aa02885f.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2862,7 +1336,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2876,7 +1350,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2637",
         "URI": [
@@ -2890,7 +1364,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2904,7 +1378,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2916,9 +1390,1409 @@
         "channel": "Rai Gulp",
         "link": "https://list.iptvcat.com/my_list/s/2ead862fb443480a45d2096743f41f00.m3u8",
         "country": "italy",
-        "liveliness": "50",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2649999",
+        "channel": "----C I N E M A----",
+        "link": "https://list.iptvcat.com/my_list/s/8e0b08212d21f5ffaf670fa3ec09f15d.m3u8",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2473122",
+        "channel": "12 TV Parma (540p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/5d9e8d15d7f4be1c2f977e5efb355a85.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2689172",
+        "channel": "20 Mediaset HD",
+        "link": "https://list.iptvcat.com/my_list/s/dd2bb0802b9d70214a17869530aca254.m3u8",
+        "country": "italy",
+        "liveliness": "23",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1569",
+        "channel": "51 Radio TV",
+        "link": "https://list.iptvcat.com/my_list/s/ab165d0088b8239aef7a6955ecefc048.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1574",
+        "channel": "Aurora Arte",
+        "link": "https://list.iptvcat.com/my_list/s/aadbd8fc09b619b8d5a85ff1137c9774.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688484",
+        "channel": "Boomerang",
+        "link": "https://list.iptvcat.com/my_list/s/7801a86d4e211d6f378c9922b8749c28.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2689458",
+        "channel": "CI Crime Investigation HD",
+        "link": "https://list.iptvcat.com/my_list/s/19e4018c8e428c5001d575c197f73825.m3u8",
+        "country": "italy",
+        "liveliness": "33",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688561",
+        "channel": "CIELO HD",
+        "link": "https://list.iptvcat.com/my_list/s/65fc5627cd5dc956d0082e589e97080d.m3u8",
+        "country": "italy",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "132966",
+        "channel": "Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/4a647c91ecf6c3ed437a749c58213f55.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "55883",
+        "channel": "Canale 2 Altamura, IT | Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/b1811113100782b79005e52be60833a5.m3u8",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688478",
+        "channel": "Canale 5 HD",
+        "link": "https://list.iptvcat.com/my_list/s/a0bdbf898bd125ca87187cf1bb74a391.m3u8",
+        "country": "italy",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2689326",
+        "channel": "Canale 7",
+        "link": "https://list.iptvcat.com/my_list/s/0ffcdf3ba67e1df02c54e6a3e7a1fab8.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1583",
+        "channel": "Canale 7",
+        "link": "https://list.iptvcat.com/my_list/s/c5f5b69ec3e2b7bd825c3473ccaf0ad6.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1582",
+        "channel": "Canale 7",
+        "link": "https://list.iptvcat.com/my_list/s/d796c33bf28eb18b0d70b39fb88b7fed.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1584",
+        "channel": "Canale 8",
+        "link": "https://list.iptvcat.com/my_list/s/0eb6c97982e0665473cdf92aaccaf463.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688472",
+        "channel": "Comedy Central",
+        "link": "https://list.iptvcat.com/my_list/s/251d901a995bdbe079826ae334a5b0ab.m3u8",
+        "country": "italy",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688468",
+        "channel": "Crime Investigation HD",
+        "link": "https://list.iptvcat.com/my_list/s/7e48dd91556fd8d63b12dd6b7799aff5.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688433",
+        "channel": "DAZN Sport 3 HD",
+        "link": "https://list.iptvcat.com/my_list/s/bc54a4c10b4134a9c883b617b1fd24e2.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688557",
+        "channel": "DAZN Sport 8 HD",
+        "link": "https://list.iptvcat.com/my_list/s/77e3d1af598fa7a6f48c4c46fd0cc31a.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688466",
+        "channel": "Dazn Serie A1 Full HD",
+        "link": "https://list.iptvcat.com/my_list/s/f8c5e2dfaf45f8549c6b0711cb31245a.m3u8",
+        "country": "italy",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688427",
+        "channel": "Discovery Sci HD",
+        "link": "https://list.iptvcat.com/my_list/s/5d0330d5d99bede2d88c86db9668ef6f.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1235",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688591",
+        "channel": "Eleven Sport 4 HD",
+        "link": "https://list.iptvcat.com/my_list/s/c4e8459b6289d9243a9ed47f9d213934.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1600",
+        "channel": "Euro Indie Music Chart TV",
+        "link": "https://list.iptvcat.com/my_list/s/008beded7927a2866c31eb4db27f0b88.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "10686",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688422",
+        "channel": "Fox Crime HD",
+        "link": "https://list.iptvcat.com/my_list/s/cf28d921efc76c7e0a5137efdf6c3776.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688492",
+        "channel": "History HD",
+        "link": "https://list.iptvcat.com/my_list/s/32494228441856d96d4d5a71d7e6ce3c.m3u8",
+        "country": "italy",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688488",
+        "channel": "History Lab",
+        "link": "https://list.iptvcat.com/my_list/s/82564728e7fb1b37d0d7921a5dbc1028.m3u8",
+        "country": "italy",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688494",
+        "channel": "IT_PRIMAFILA 10 HD",
+        "link": "https://list.iptvcat.com/my_list/s/98d955d3bd8546428d08386a4fb5199d.m3u8",
+        "country": "italy",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688498",
+        "channel": "IT_PRIMAFILA 12 HD",
+        "link": "https://list.iptvcat.com/my_list/s/0aa56b3ebdf7544a2e441a84dc8aec46.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688499",
+        "channel": "IT_PRIMAFILA 14 HD",
+        "link": "https://list.iptvcat.com/my_list/s/d510e1ca072a2e6da54af08ede88ccf8.m3u8",
+        "country": "italy",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1765",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688541",
+        "channel": "IT_PRIMAFILA 15 HD",
+        "link": "https://list.iptvcat.com/my_list/s/cd665cb179cab49409c464152dc0eabe.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688549",
+        "channel": "IT_PRIMAFILA 16 HD",
+        "link": "https://list.iptvcat.com/my_list/s/28e159e7b9f21b3ebb36e7a64a3d1fae.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688551",
+        "channel": "IT_PRIMAFILA 17 HD",
+        "link": "https://list.iptvcat.com/my_list/s/f9a47d359da53bd3bd81a7c7781c4e1d.m3u8",
+        "country": "italy",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1606",
+        "channel": "Icaro TV",
+        "link": "https://list.iptvcat.com/my_list/s/4435cdfdf1cb0c49451cde00177f7391.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593345",
+        "channel": "Italia 1",
+        "link": "https://list.iptvcat.com/my_list/s/456109ba7f2b2c7f339b8068df4ae8fc.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2689136",
+        "channel": "Italia 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/bf5bd7cb6fc3ad51b1bc7ddc78bffb1c.m3u8",
+        "country": "italy",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2689138",
+        "channel": "Italia 1 SD",
+        "link": "https://list.iptvcat.com/my_list/s/64657676e16d022c28e1b18e3722601c.m3u8",
+        "country": "italy",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688390",
+        "channel": "Italia 2",
+        "link": "https://list.iptvcat.com/my_list/s/08dfc0e308ef5df0368ff27ea727b72a.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "693911",
+        "channel": "Italia 2",
+        "link": "https://list.iptvcat.com/my_list/s/fdf61debfcb4c2067ae5e66ff87dbaaf.m3u8",
+        "country": "italy",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1607",
+        "channel": "Italia 2 TV",
+        "link": "https://list.iptvcat.com/my_list/s/3de594024117413d1ad30c7505f1846c.m3u8",
+        "country": "italy",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2473140",
+        "channel": "Kiss Kiss TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/9b588faf09e2c6fae4e7c62679463353.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688388",
+        "channel": "La 5",
+        "link": "https://list.iptvcat.com/my_list/s/7df3c7183782d6f106d283b5c41a3ed4.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593346",
+        "channel": "La5",
+        "link": "https://list.iptvcat.com/my_list/s/a7fcc8f71b2534480f16a09674e8e90d.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688386",
+        "channel": "La7",
+        "link": "https://list.iptvcat.com/my_list/s/0c93a3a2e741fb7067adb9a7d7defe1a.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593347",
+        "channel": "La7",
+        "link": "https://list.iptvcat.com/my_list/s/9a9c3417fe476db6deb181e31cf4ad4c.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688380",
+        "channel": "LaEffe",
+        "link": "https://list.iptvcat.com/my_list/s/2c7aa3743073253641dee03df4ce49c7.m3u8",
+        "country": "italy",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2473144",
+        "channel": "Lira TV (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/f8424e96f1d0c202ade16ff41b2e3ee7.m3u8",
+        "country": "italy",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593352",
+        "channel": "MS MOTORTV",
+        "link": "https://list.iptvcat.com/my_list/s/00b0d2d4405d7debb4be298f5e1b273e.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593348",
+        "channel": "Mediaset Extra",
+        "link": "https://list.iptvcat.com/my_list/s/eefb0c4b19c903dd883ec3c441b7b48e.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688378",
+        "channel": "Mediaset Extra",
+        "link": "https://list.iptvcat.com/my_list/s/aa347bba7315bd58346b23e4448218eb.m3u8",
+        "country": "italy",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593349",
+        "channel": "Mediaset Italia",
+        "link": "https://list.iptvcat.com/my_list/s/56fd6e28da98abe374a1783d1f2a4cb3.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593350",
+        "channel": "Mediaset Italia 2",
+        "link": "https://list.iptvcat.com/my_list/s/aec71bfdc2a5c4d4f56ed552a3a1bb54.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593351",
+        "channel": "Motor Trend",
+        "link": "https://list.iptvcat.com/my_list/s/fcd7cede115547c409d755f0ee75da52.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593353",
+        "channel": "NOVE",
+        "link": "https://list.iptvcat.com/my_list/s/63b3cd170e5d2a5b92e62648766fdfcd.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688374",
+        "channel": "NatGeo Wild HD",
+        "link": "https://list.iptvcat.com/my_list/s/f05f7c88e8fed342306879ebf4f220b8.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688372",
+        "channel": "NationalGeo HD",
+        "link": "https://list.iptvcat.com/my_list/s/c27de0134b76fdaf09cf87d3d1a2b5c6.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688368",
+        "channel": "Nick Junior",
+        "link": "https://list.iptvcat.com/my_list/s/e591296b4e6c4c2495c2b37c37c4cdaf.m3u8",
+        "country": "italy",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688362",
+        "channel": "Nickelodeon",
+        "link": "https://list.iptvcat.com/my_list/s/0955964878ae6ebcf84ad10bae804448.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688359",
+        "channel": "Nove TV",
+        "link": "https://list.iptvcat.com/my_list/s/7840c5f23e03b7ceb25ea05f17b44513.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1621",
+        "channel": "Orler TV",
+        "link": "https://list.iptvcat.com/my_list/s/0ec47539e69ca899b0b926f45db509d3.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "sd",
+        "mbps": "1700",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688260",
+        "channel": "PREMIUM CINEMA ENERGY",
+        "link": "https://list.iptvcat.com/my_list/s/a8dfd2733320411b1e17ef040a3d82d1.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688252",
+        "channel": "PREMIUM CINEMA ENERGY FHD",
+        "link": "https://list.iptvcat.com/my_list/s/334bb0157385b2fa9a78c19e6c7e984e.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688351",
+        "channel": "Pesca e Caccia",
+        "link": "https://list.iptvcat.com/my_list/s/10225a54ce0ce3829ac364cd0adf8a23.m3u8",
+        "country": "italy",
+        "liveliness": "13",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688347",
+        "channel": "Premium 20",
+        "link": "https://list.iptvcat.com/my_list/s/c8ae2146098e75de6912c0c75fba287a.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688343",
+        "channel": "Premium Action Full HD",
+        "link": "https://list.iptvcat.com/my_list/s/6bb2d0e5ed4a3c41fe2cdb754ea5cc03.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688319",
+        "channel": "Premium Cinema  24 HD",
+        "link": "https://list.iptvcat.com/my_list/s/62d318eb173ad4a70da85c933fc7c6ca.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688268",
+        "channel": "Premium Crime HD",
+        "link": "https://list.iptvcat.com/my_list/s/6a72a27ae062384d59a66f1b04f51bc3.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688263",
+        "channel": "Premium Emotion",
+        "link": "https://list.iptvcat.com/my_list/s/91c699f96e36793d79d18c0766d7b527.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688250",
+        "channel": "Premium Stories",
+        "link": "https://list.iptvcat.com/my_list/s/3dc2e07cf74c051cc69badc98cbd5707.m3u8",
+        "country": "italy",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593354",
+        "channel": "Primafila 01",
+        "link": "https://list.iptvcat.com/my_list/s/0e2c73238b44309efe2ec0ebd1cfc866.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593355",
+        "channel": "Primafila 03",
+        "link": "https://list.iptvcat.com/my_list/s/e4a356c92dbcae722271502f1e1febbe.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593358",
+        "channel": "Primafila 04",
+        "link": "https://list.iptvcat.com/my_list/s/01469f3241e24f5857edf4c4e88948bf.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593359",
+        "channel": "Primafila 05",
+        "link": "https://list.iptvcat.com/my_list/s/481e54849769e4a9d18af5bf982158ba.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593360",
+        "channel": "Primafila 07",
+        "link": "https://list.iptvcat.com/my_list/s/dd3cdfb33da6c460c6068deee71c37ae.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593361",
+        "channel": "Primafila 08",
+        "link": "https://list.iptvcat.com/my_list/s/ce0ee5f325c5933e7e442b5ff3b19cc2.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1666",
+        "channel": "RDS Social TV",
+        "link": "https://list.iptvcat.com/my_list/s/c6bb35f19e1b61d4ec2737303cf19831.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "132983",
+        "channel": "RDS Social TV",
+        "link": "https://list.iptvcat.com/my_list/s/170f2d9da23d233252eb039bdba92268.m3u8",
+        "country": "italy",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2689372",
+        "channel": "RSI LA 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/f0afbfd9fde3b957e8975bff59e396a6.m3u8",
+        "country": "italy",
+        "liveliness": "31",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2689364",
+        "channel": "RSI La 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/73ddc90c61118bdb01ce413a5e860ac4.m3u8",
+        "country": "italy",
+        "liveliness": "33",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688137",
+        "channel": "RSI La1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/51af01f9e640f337b3e681caa3971601.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688135",
+        "channel": "RSI La2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/3f7909174dac372f565330e83df3113f.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688133",
+        "channel": "RTL 102.5",
+        "link": "https://list.iptvcat.com/my_list/s/920fa6008414c7bbb6571bcb6484b523.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1678",
+        "channel": "RTP",
+        "link": "https://list.iptvcat.com/my_list/s/529c8d64e11dacdb0f9b51dad869a2c1.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2063",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1633",
+        "channel": "Radio 51",
+        "link": "https://list.iptvcat.com/my_list/s/2c0b72ac07ee4d14df934e9008ecea6c.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "693913",
+        "channel": "Radio 51 Lombardia",
+        "link": "https://list.iptvcat.com/my_list/s/befc55cebf42bf05149bf5256b7d9839.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2851",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1634",
+        "channel": "Radio Birikina TV",
+        "link": "https://list.iptvcat.com/my_list/s/ddbe4de96e6aa6890c6b28cdac4d27ad.m3u8",
+        "country": "italy",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688246",
+        "channel": "Radio Capital TV",
+        "link": "https://list.iptvcat.com/my_list/s/f44641f1427c6b93341e22168b91e979.m3u8",
+        "country": "italy",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "693916",
+        "channel": "Radio Number One",
+        "link": "https://list.iptvcat.com/my_list/s/0a3514d3ff625c9ccff0c29674d2b317.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593362",
+        "channel": "Rai 1",
+        "link": "https://list.iptvcat.com/my_list/s/3be050284c52d65061aa1a78040604cb.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688241",
+        "channel": "Rai 1 HD",
+        "link": "https://list.iptvcat.com/my_list/s/c8fb83e9f4ed324d70561f73da369e25.m3u8",
+        "country": "italy",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593363",
+        "channel": "Rai 2",
+        "link": "https://list.iptvcat.com/my_list/s/a16f9a2b0880c337aa1974f3ed85666e.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688981",
+        "channel": "Rai 2 HD",
+        "link": "https://list.iptvcat.com/my_list/s/a3337592d31414e4ba56198ac2ddf62f.m3u8",
+        "country": "italy",
+        "liveliness": "63",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688983",
+        "channel": "Rai 2 SD",
+        "link": "https://list.iptvcat.com/my_list/s/a9b60d7dce175b8d35c739b9452a2139.m3u8",
+        "country": "italy",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1655",
+        "channel": "Rai 3",
+        "link": "https://list.iptvcat.com/my_list/s/1f22856f68f2fba4a993c47f47c78a64.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1654",
+        "channel": "Rai 3",
+        "link": "https://list.iptvcat.com/my_list/s/a372048a4fb440e752aec141aa02885f.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593364",
+        "channel": "Rai 3",
+        "link": "https://list.iptvcat.com/my_list/s/106727059d3ee2b1dc5b39294cbfe151.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2659875",
+        "channel": "Rai 4",
+        "link": "https://list.iptvcat.com/my_list/s/96d13273e760a402779c24220d5280c1.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2637",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593365",
+        "channel": "Rai 4",
+        "link": "https://list.iptvcat.com/my_list/s/5eb791d738eedd36dc8e0ff48af5e6aa.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593366",
+        "channel": "Rai 5",
+        "link": "https://list.iptvcat.com/my_list/s/e3d953981f14e0abc1999aa28ccb5c70.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688217",
+        "channel": "Rai Gulp",
+        "link": "https://list.iptvcat.com/my_list/s/2ead862fb443480a45d2096743f41f00.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2932,7 +2806,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2944,9 +2818,9 @@
         "channel": "Rai Movie",
         "link": "https://list.iptvcat.com/my_list/s/d36c043f655fc04801585d0b5a143ee5.m3u8",
         "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "63",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2960,7 +2834,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2972,11 +2846,11 @@
         "channel": "Rai Movie HD",
         "link": "https://list.iptvcat.com/my_list/s/bc05d9dc9f4aa3619cf071b03eeb978d.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "italy__2"
         ]
@@ -2988,7 +2862,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3014,9 +2888,9 @@
         "channel": "Rai News 24 HD",
         "link": "https://list.iptvcat.com/my_list/s/fe7ea07a53b76912f9c8daa50492bba5.m3u8",
         "country": "italy",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "23",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3030,7 +2904,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3044,7 +2918,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2637",
         "URI": [
@@ -3056,9 +2930,9 @@
         "channel": "Rai Scuola HD",
         "link": "https://list.iptvcat.com/my_list/s/43518aefd0887f8c53b8ae49ff73cb77.m3u8",
         "country": "italy",
-        "liveliness": "56",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "42",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3072,7 +2946,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2637",
         "URI": [
@@ -3084,9 +2958,9 @@
         "channel": "Rai Sport   HD",
         "link": "https://list.iptvcat.com/my_list/s/d8b5e43f17baa2f9a6075d7a9921be5e.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3098,9 +2972,9 @@
         "channel": "Rai Sport HD",
         "link": "https://list.iptvcat.com/my_list/s/0c5e81f5429442922a265cd95a5aa4fa.m3u8",
         "country": "italy",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3112,9 +2986,9 @@
         "channel": "Rai Storia",
         "link": "https://list.iptvcat.com/my_list/s/275d4b67201b004e7951ef197565c89e.m3u8",
         "country": "italy",
-        "liveliness": "44",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3128,7 +3002,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3142,7 +3016,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3157,8 +3031,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "italy__2"
         ]
@@ -3170,7 +3044,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3182,9 +3056,9 @@
         "channel": "Real Time HD",
         "link": "https://list.iptvcat.com/my_list/s/050ec95df83fe8dae6a3ccff0ec3e0fe.m3u8",
         "country": "italy",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "63",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3198,7 +3072,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3212,7 +3086,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3240,7 +3114,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3266,9 +3140,9 @@
         "channel": "Sky Arte HD",
         "link": "https://list.iptvcat.com/my_list/s/4f28593f761027ca655b56e021499b0b.m3u8",
         "country": "italy",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "56",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3282,7 +3156,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3296,7 +3170,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3310,7 +3184,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3324,7 +3198,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3338,7 +3212,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3350,9 +3224,9 @@
         "channel": "Sky Cinema Comedy HD",
         "link": "https://list.iptvcat.com/my_list/s/117c1dd292d0aca8d731d2c230b47e30.m3u8",
         "country": "italy",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3364,9 +3238,9 @@
         "channel": "Sky Cinema Family HD",
         "link": "https://list.iptvcat.com/my_list/s/2483420540fba4827fd6511268690a75.m3u8",
         "country": "italy",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "56",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3378,9 +3252,9 @@
         "channel": "Sky Nature HD",
         "link": "https://list.iptvcat.com/my_list/s/845c4f3f3bc61e50f3a6eb387e4f2339.m3u8",
         "country": "italy",
-        "liveliness": "44",
+        "liveliness": "50",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3392,9 +3266,9 @@
         "channel": "Sky Series HD",
         "link": "https://list.iptvcat.com/my_list/s/a54dc738fcf5ebd14638eb090adc69a7.m3u8",
         "country": "italy",
-        "liveliness": "50",
+        "liveliness": "45",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3408,23 +3282,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688115",
-        "channel": "Sky Sport Arena",
-        "link": "https://list.iptvcat.com/my_list/s/7b46f725d988fd7f2bf6d1dda5c8e69a.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "italy__2"
         ]
@@ -3436,65 +3296,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688109",
-        "channel": "Sky Sport F1",
-        "link": "https://list.iptvcat.com/my_list/s/e876d348089dafe3462658247ccb3f26.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688119",
-        "channel": "Sky Sport F1 HD",
-        "link": "https://list.iptvcat.com/my_list/s/b425fad9919411fba05c6af780247e74.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688111",
-        "channel": "Sky Sport Football",
-        "link": "https://list.iptvcat.com/my_list/s/ca35a4dcf1b7dbfb96119d93b549378b.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688122",
-        "channel": "Sky Sport Football HD",
-        "link": "https://list.iptvcat.com/my_list/s/a4759b780e517a5d7be0769c7e502a29.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -3506,65 +3310,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688112",
-        "channel": "Sky Sport Golf",
-        "link": "https://list.iptvcat.com/my_list/s/9430015d69e95080f77a0fedf773de29.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688113",
-        "channel": "Sky Sport NBA",
-        "link": "https://list.iptvcat.com/my_list/s/ab0c3fde52e5e8498372c6a608433ce4.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688123",
-        "channel": "Sky Sport News",
-        "link": "https://list.iptvcat.com/my_list/s/3a42cd003138ce357171ab039a4b3aec.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688120",
-        "channel": "Sky Sport Racing",
-        "link": "https://list.iptvcat.com/my_list/s/aad2c87b6c64358f7fcb1eb02aaf2832.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -3584,27 +3332,13 @@
         ]
     },
     {
-        "id": "2688116",
-        "channel": "Sky Sport Uno",
-        "link": "https://list.iptvcat.com/my_list/s/3c722fa95abfbd9a93be73c61bdd549f.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
         "id": "2593393",
         "channel": "Sky Sport Uno",
         "link": "https://list.iptvcat.com/my_list/s/2adf99c5ed6432902007e588e23dc937.m3u8",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3616,25 +3350,11 @@
         "channel": "Sky Uno HD",
         "link": "https://list.iptvcat.com/my_list/s/c8ca1da7c5ce0c2877c34454e30c74cc.m3u8",
         "country": "italy",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1686",
-        "channel": "Sophia TV",
-        "link": "https://list.iptvcat.com/my_list/s/c421144c617455afc5ca702a984b7378.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322",
         "URI": [
             "italy__2"
         ]
@@ -3646,7 +3366,21 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1686",
+        "channel": "Sophia TV",
+        "link": "https://list.iptvcat.com/my_list/s/c421144c617455afc5ca702a984b7378.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
         "URI": [
@@ -3660,7 +3394,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3675,8 +3409,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "136",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "italy__2"
         ]
@@ -3688,7 +3422,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3704,7 +3438,7 @@
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "2308",
         "URI": [
             "italy__2"
         ]
@@ -3716,7 +3450,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3730,7 +3464,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -3744,9 +3478,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
-        "mbps": "899",
+        "mbps": "901",
         "URI": [
             "italy__2"
         ]
@@ -3758,7 +3492,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -3784,9 +3518,9 @@
         "channel": "TGR Val D'Aosta",
         "link": "https://list.iptvcat.com/my_list/s/0a5b97a05a4ab2ba56c66522032dd657.m3u8",
         "country": "italy",
-        "liveliness": "97",
+        "liveliness": "95",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -3800,7 +3534,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -3814,7 +3548,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3828,9 +3562,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "italy__2"
         ]
@@ -3842,7 +3576,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3856,23 +3590,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "1708",
-        "channel": "TeleQuattro",
-        "link": "https://list.iptvcat.com/my_list/s/cd9045c620cf460d64c5328ceb1ca978.m3u8",
-        "country": "italy",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "italy__2"
         ]
@@ -3884,7 +3604,21 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1708",
+        "channel": "TeleQuattro",
+        "link": "https://list.iptvcat.com/my_list/s/cd9045c620cf460d64c5328ceb1ca978.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3898,9 +3632,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3799",
         "URI": [
             "italy__2"
         ]
@@ -3912,7 +3646,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -3926,7 +3660,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3940,7 +3674,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3954,7 +3688,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3968,7 +3702,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
         "URI": [
@@ -3994,9 +3728,9 @@
         "channel": "Top Crime",
         "link": "https://list.iptvcat.com/my_list/s/c8d44c048415d1e4a99c646b32483c34.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4010,7 +3744,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4022,9 +3756,9 @@
         "channel": "Tv 2000",
         "link": "https://list.iptvcat.com/my_list/s/5c86d75138485e07e38079f324dd9a82.m3u8",
         "country": "italy",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4036,9 +3770,9 @@
         "channel": "Tv8",
         "link": "https://list.iptvcat.com/my_list/s/7604623092232d9722d008e0374df186.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -4052,7 +3786,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4066,7 +3800,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -4080,7 +3814,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4094,7 +3828,7 @@
         "country": "italy",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4108,7 +3842,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "1237",
         "URI": [
@@ -4148,9 +3882,9 @@
         "channel": "[IT-Reg] Canale 7 Puglia (Opt-1)",
         "link": "https://list.iptvcat.com/my_list/s/96dd1e030d66662bf9f96d259f47b0a5.m3u8",
         "country": "italy",
-        "liveliness": "44",
+        "liveliness": "50",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4164,7 +3898,7 @@
         "country": "italy",
         "liveliness": "50",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4190,9 +3924,9 @@
         "channel": "[IT-Reg] RTC Telecalabria",
         "link": "https://list.iptvcat.com/my_list/s/67113181a563e5c2b70fe16e19420a01.m3u8",
         "country": "italy",
-        "liveliness": "44",
+        "liveliness": "50",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -4204,9 +3938,9 @@
         "channel": "[IT-Reg] TeleMonteneve 3 Livigno",
         "link": "https://list.iptvcat.com/my_list/s/e78960d42a41df7443f3a2db0ec55c36.m3u8",
         "country": "italy",
-        "liveliness": "33",
+        "liveliness": "23",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2308",
         "URI": [
@@ -4218,9 +3952,9 @@
         "channel": "[IT-Reg] TeleRama Lecce",
         "link": "https://list.iptvcat.com/my_list/s/b32bdbd7971bc31e40c6e4312bfadb78.m3u8",
         "country": "italy",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
         "URI": [
@@ -4242,13 +3976,69 @@
         ]
     },
     {
+        "id": "2688889",
+        "channel": "[IT-Reg] TeleRomagna24",
+        "link": "https://list.iptvcat.com/my_list/s/8df1a3fe76e64dcf481f38fe9c67be12.m3u8",
+        "country": "italy",
+        "liveliness": "67",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688765",
+        "channel": "[IT-Reg] Telefoggia",
+        "link": "https://list.iptvcat.com/my_list/s/87fca81b4f84945cfd89bb505fa5ff3a.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593373",
+        "channel": "rai Scuola",
+        "link": "https://list.iptvcat.com/my_list/s/88cedcd9fb93f8459fcb59cec0ad2f7f.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-18T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "7908",
+        "channel": "telePAVIA",
+        "link": "https://list.iptvcat.com/my_list/s/450259eccbd1e780c213d46bbb6d9197.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
         "id": "2649999",
         "channel": "----C I N E M A----",
         "link": "https://list.iptvcat.com/my_list/s/8e0b08212d21f5ffaf670fa3ec09f15d.m3u8",
         "country": "italy",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -4262,7 +4052,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -4274,9 +4064,9 @@
         "channel": "20 Mediaset HD",
         "link": "https://list.iptvcat.com/my_list/s/dd2bb0802b9d70214a17869530aca254.m3u8",
         "country": "italy",
-        "liveliness": "33",
+        "liveliness": "23",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4290,7 +4080,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4304,23 +4094,9 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688118",
-        "channel": "BT Sport Extra 3",
-        "link": "https://list.iptvcat.com/my_list/s/2f257c0f48eff1a54c2e1ef461b56a47.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -4330,9 +4106,9 @@
         "channel": "Boomerang",
         "link": "https://list.iptvcat.com/my_list/s/7801a86d4e211d6f378c9922b8749c28.m3u8",
         "country": "italy",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4346,9 +4122,9 @@
         "country": "italy",
         "liveliness": "33",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "italy__2"
         ]
@@ -4368,27 +4144,13 @@
         ]
     },
     {
-        "id": "1579",
-        "channel": "Canale 2 Altamura",
-        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
-        "country": "italy",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
         "id": "132966",
         "channel": "Canale 2 Altamura",
         "link": "https://list.iptvcat.com/my_list/s/4a647c91ecf6c3ed437a749c58213f55.m3u8",
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -4402,7 +4164,21 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "1579",
+        "channel": "Canale 2 Altamura",
+        "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
+        "country": "italy",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -4414,11 +4190,11 @@
         "channel": "Canale 5 HD",
         "link": "https://list.iptvcat.com/my_list/s/a0bdbf898bd125ca87187cf1bb74a391.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -4428,9 +4204,9 @@
         "channel": "Canale 7",
         "link": "https://list.iptvcat.com/my_list/s/0ffcdf3ba67e1df02c54e6a3e7a1fab8.m3u8",
         "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "36",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4444,7 +4220,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4458,7 +4234,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -4484,9 +4260,9 @@
         "channel": "Comedy Central",
         "link": "https://list.iptvcat.com/my_list/s/251d901a995bdbe079826ae334a5b0ab.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -4512,9 +4288,9 @@
         "channel": "DAZN Sport 3 HD",
         "link": "https://list.iptvcat.com/my_list/s/bc54a4c10b4134a9c883b617b1fd24e2.m3u8",
         "country": "italy",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4540,11 +4316,11 @@
         "channel": "Dazn Serie A1 Full HD",
         "link": "https://list.iptvcat.com/my_list/s/f8c5e2dfaf45f8549c6b0711cb31245a.m3u8",
         "country": "italy",
-        "liveliness": "71",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "italy__2"
         ]
@@ -4584,37 +4360,9 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "10686",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688103",
-        "channel": "Eurosport 1",
-        "link": "https://list.iptvcat.com/my_list/s/c77707e4c9e236b13350eb4c2f563053.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688104",
-        "channel": "Eurosport 2",
-        "link": "https://list.iptvcat.com/my_list/s/916da1359e75dabe9079e57e65ee95f1.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -4638,11 +4386,11 @@
         "channel": "History HD",
         "link": "https://list.iptvcat.com/my_list/s/32494228441856d96d4d5a71d7e6ce3c.m3u8",
         "country": "italy",
-        "liveliness": "33",
+        "liveliness": "45",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "italy__2"
         ]
@@ -4652,9 +4400,9 @@
         "channel": "History Lab",
         "link": "https://list.iptvcat.com/my_list/s/82564728e7fb1b37d0d7921a5dbc1028.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -4666,9 +4414,9 @@
         "channel": "IT_PRIMAFILA 10 HD",
         "link": "https://list.iptvcat.com/my_list/s/98d955d3bd8546428d08386a4fb5199d.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -4694,11 +4442,11 @@
         "channel": "IT_PRIMAFILA 14 HD",
         "link": "https://list.iptvcat.com/my_list/s/d510e1ca072a2e6da54af08ede88ccf8.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1765",
         "URI": [
             "italy__2"
         ]
@@ -4736,11 +4484,11 @@
         "channel": "IT_PRIMAFILA 17 HD",
         "link": "https://list.iptvcat.com/my_list/s/f9a47d359da53bd3bd81a7c7781c4e1d.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "1765",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "italy__2"
         ]
@@ -4752,23 +4500,9 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688106",
-        "channel": "Inter TV",
-        "link": "https://list.iptvcat.com/my_list/s/7997b8238a1ff14b327b6300fae9bb93.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -4780,7 +4514,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4792,9 +4526,9 @@
         "channel": "Italia 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/bf5bd7cb6fc3ad51b1bc7ddc78bffb1c.m3u8",
         "country": "italy",
-        "liveliness": "57",
+        "liveliness": "50",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4806,9 +4540,9 @@
         "channel": "Italia 1 SD",
         "link": "https://list.iptvcat.com/my_list/s/64657676e16d022c28e1b18e3722601c.m3u8",
         "country": "italy",
-        "liveliness": "50",
+        "liveliness": "45",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4850,7 +4584,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4864,7 +4598,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
@@ -4880,7 +4614,7 @@
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -4892,7 +4626,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4920,7 +4654,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4932,9 +4666,9 @@
         "channel": "LaEffe",
         "link": "https://list.iptvcat.com/my_list/s/2c7aa3743073253641dee03df4ce49c7.m3u8",
         "country": "italy",
-        "liveliness": "40",
+        "liveliness": "45",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -4948,7 +4682,7 @@
         "country": "italy",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -4962,7 +4696,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4976,7 +4710,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4988,9 +4722,9 @@
         "channel": "Mediaset Extra",
         "link": "https://list.iptvcat.com/my_list/s/aa347bba7315bd58346b23e4448218eb.m3u8",
         "country": "italy",
-        "liveliness": "71",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5004,7 +4738,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5018,7 +4752,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5032,7 +4766,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5046,7 +4780,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5086,11 +4820,11 @@
         "channel": "Nick Junior",
         "link": "https://list.iptvcat.com/my_list/s/e591296b4e6c4c2495c2b37c37c4cdaf.m3u8",
         "country": "italy",
-        "liveliness": "71",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "italy__2"
         ]
@@ -5100,9 +4834,9 @@
         "channel": "Nickelodeon",
         "link": "https://list.iptvcat.com/my_list/s/0955964878ae6ebcf84ad10bae804448.m3u8",
         "country": "italy",
-        "liveliness": "40",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -5130,7 +4864,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "sd",
         "mbps": "1700",
         "URI": [
@@ -5145,8 +4879,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -5159,8 +4893,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -5170,9 +4904,9 @@
         "channel": "Pesca e Caccia",
         "link": "https://list.iptvcat.com/my_list/s/10225a54ce0ce3829ac364cd0adf8a23.m3u8",
         "country": "italy",
-        "liveliness": "18",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5198,8 +4932,8 @@
         "channel": "Premium Action Full HD",
         "link": "https://list.iptvcat.com/my_list/s/6bb2d0e5ed4a3c41fe2cdb754ea5cc03.m3u8",
         "country": "italy",
-        "liveliness": "30",
-        "status": "offline",
+        "liveliness": "36",
+        "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -5212,9 +4946,9 @@
         "channel": "Premium Cinema  24 HD",
         "link": "https://list.iptvcat.com/my_list/s/62d318eb173ad4a70da85c933fc7c6ca.m3u8",
         "country": "italy",
-        "liveliness": "57",
-        "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5254,11 +4988,11 @@
         "channel": "Premium Stories",
         "link": "https://list.iptvcat.com/my_list/s/3dc2e07cf74c051cc69badc98cbd5707.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -5270,7 +5004,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5284,7 +5018,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5298,7 +5032,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5312,7 +5046,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5326,7 +5060,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5340,7 +5074,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5354,7 +5088,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -5368,7 +5102,7 @@
         "country": "italy",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -5380,11 +5114,11 @@
         "channel": "RSI LA 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/f0afbfd9fde3b957e8975bff59e396a6.m3u8",
         "country": "italy",
-        "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "31",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "italy__2"
         ]
@@ -5395,10 +5129,10 @@
         "link": "https://list.iptvcat.com/my_list/s/73ddc90c61118bdb01ce413a5e860ac4.m3u8",
         "country": "italy",
         "liveliness": "33",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "6241",
         "URI": [
             "italy__2"
         ]
@@ -5412,7 +5146,7 @@
         "status": "online",
         "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
-        "mbps": "6241",
+        "mbps": "3188",
         "URI": [
             "italy__2"
         ]
@@ -5452,23 +5186,9 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2063",
-        "URI": [
-            "italy__2"
-        ]
-    },
-    {
-        "id": "2688108",
-        "channel": "RTV Reggio",
-        "link": "https://list.iptvcat.com/my_list/s/bb93a3878a0fee5fe5a216ddea802588.m3u8",
-        "country": "italy",
-        "liveliness": "7",
-        "status": "offline",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
         "URI": [
             "italy__2"
         ]
@@ -5480,7 +5200,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -5494,7 +5214,7 @@
         "country": "italy",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "sd",
         "mbps": "2851",
         "URI": [
@@ -5508,7 +5228,7 @@
         "country": "italy",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2023-03-17T00:00:00Z",
+        "lastChecked": "2023-03-18T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5520,9 +5240,9 @@
         "channel": "Radio Capital TV",
         "link": "https://list.iptvcat.com/my_list/s/f44641f1427c6b93341e22168b91e979.m3u8",
         "country": "italy",
-        "liveliness": "100",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5536,7 +5256,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -5550,7 +5270,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5562,11 +5282,11 @@
         "channel": "Rai 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/c8fb83e9f4ed324d70561f73da369e25.m3u8",
         "country": "italy",
-        "liveliness": "83",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
@@ -5590,9 +5310,9 @@
         "channel": "Rai 2 HD",
         "link": "https://list.iptvcat.com/my_list/s/a3337592d31414e4ba56198ac2ddf62f.m3u8",
         "country": "italy",
-        "liveliness": "71",
-        "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "liveliness": "63",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5606,9 +5326,9 @@
         "country": "italy",
         "liveliness": "50",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "italy__2"
         ]
@@ -5620,7 +5340,7 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -5634,9 +5354,79 @@
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2023-03-18T00:00:00Z",
+        "lastChecked": "2023-03-19T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593364",
+        "channel": "Rai 3",
+        "link": "https://list.iptvcat.com/my_list/s/106727059d3ee2b1dc5b39294cbfe151.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2659875",
+        "channel": "Rai 4",
+        "link": "https://list.iptvcat.com/my_list/s/96d13273e760a402779c24220d5280c1.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2637",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593365",
+        "channel": "Rai 4",
+        "link": "https://list.iptvcat.com/my_list/s/5eb791d738eedd36dc8e0ff48af5e6aa.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2593366",
+        "channel": "Rai 5",
+        "link": "https://list.iptvcat.com/my_list/s/e3d953981f14e0abc1999aa28ccb5c70.m3u8",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "italy__2"
+        ]
+    },
+    {
+        "id": "2688217",
+        "channel": "Rai Gulp",
+        "link": "https://list.iptvcat.com/my_list/s/2ead862fb443480a45d2096743f41f00.m3u8",
+        "country": "italy",
+        "liveliness": "36",
+        "status": "offline",
+        "lastChecked": "2023-03-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "italy__2"
         ]
