@@ -6,7 +6,7 @@
         "country": "new zealand",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-30T00:00:00Z",
+        "lastChecked": "2023-03-31T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -21,7 +21,7 @@
         "country": "new zealand",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-30T00:00:00Z",
+        "lastChecked": "2023-03-31T00:00:00Z",
         "format": "sd",
         "mbps": "2883, ...",
         "URI": [
@@ -36,9 +36,159 @@
         "country": "new zealand",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-03-30T00:00:00Z",
+        "lastChecked": "2023-03-31T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695290",
+        "channel": "SKY Sport 1",
+        "link": "https://list.iptvcat.com/my_list/s/5cd4421a2ca8b744a4de5ec2bc0b2e8f.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695292",
+        "channel": "SKY Sport 2",
+        "link": "https://list.iptvcat.com/my_list/s/b0ce605021e001b2085c8dd349561342.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695294",
+        "channel": "SKY Sport 3",
+        "link": "https://list.iptvcat.com/my_list/s/25ada7f9594c3431494a0ee5a6f7de6e.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2874",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695296",
+        "channel": "SKY Sport 4",
+        "link": "https://list.iptvcat.com/my_list/s/d2a2b05de0fbd7e35cca63df25b774f2.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2874",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695298",
+        "channel": "SKY Sport 5",
+        "link": "https://list.iptvcat.com/my_list/s/78e8f2db26b595c7eb54dc72accbceb6.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "1353",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695300",
+        "channel": "SKY Sport 6",
+        "link": "https://list.iptvcat.com/my_list/s/d11be3e2151e3a58065af74cebdfa657.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2874",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695302",
+        "channel": "SKY Sport 7",
+        "link": "https://list.iptvcat.com/my_list/s/ce2285edb680c697cd731de1e332adbb.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2874",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695304",
+        "channel": "SKY Sport 8",
+        "link": "https://list.iptvcat.com/my_list/s/4ccba15c395cd0d787c00390cea40ab7.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695306",
+        "channel": "SKY Sport 9",
+        "link": "https://list.iptvcat.com/my_list/s/8661b0995bb07ed68079562d55caf19b.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695288",
+        "channel": "SKY Sport SELECT",
+        "link": "https://list.iptvcat.com/my_list/s/f24ec2b1c693dfca3b9e7dda59f543cd.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "new_zealand__2",
             "new_zealand"
@@ -51,7 +201,7 @@
         "country": "new zealand",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-30T00:00:00Z",
+        "lastChecked": "2023-03-31T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -66,7 +216,7 @@
         "country": "new zealand",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2023-03-30T00:00:00Z",
+        "lastChecked": "2023-03-31T00:00:00Z",
         "format": "sd",
         "mbps": "2883, ...",
         "URI": [
@@ -81,9 +231,159 @@
         "country": "new zealand",
         "liveliness": "87",
         "status": "online",
-        "lastChecked": "2023-03-30T00:00:00Z",
+        "lastChecked": "2023-03-31T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695290",
+        "channel": "SKY Sport 1",
+        "link": "https://list.iptvcat.com/my_list/s/5cd4421a2ca8b744a4de5ec2bc0b2e8f.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695292",
+        "channel": "SKY Sport 2",
+        "link": "https://list.iptvcat.com/my_list/s/b0ce605021e001b2085c8dd349561342.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695294",
+        "channel": "SKY Sport 3",
+        "link": "https://list.iptvcat.com/my_list/s/25ada7f9594c3431494a0ee5a6f7de6e.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2874",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695296",
+        "channel": "SKY Sport 4",
+        "link": "https://list.iptvcat.com/my_list/s/d2a2b05de0fbd7e35cca63df25b774f2.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2874",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695298",
+        "channel": "SKY Sport 5",
+        "link": "https://list.iptvcat.com/my_list/s/78e8f2db26b595c7eb54dc72accbceb6.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "1353",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695300",
+        "channel": "SKY Sport 6",
+        "link": "https://list.iptvcat.com/my_list/s/d11be3e2151e3a58065af74cebdfa657.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2874",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695302",
+        "channel": "SKY Sport 7",
+        "link": "https://list.iptvcat.com/my_list/s/ce2285edb680c697cd731de1e332adbb.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2874",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695304",
+        "channel": "SKY Sport 8",
+        "link": "https://list.iptvcat.com/my_list/s/4ccba15c395cd0d787c00390cea40ab7.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695306",
+        "channel": "SKY Sport 9",
+        "link": "https://list.iptvcat.com/my_list/s/8661b0995bb07ed68079562d55caf19b.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "new_zealand__2",
+            "new_zealand"
+        ]
+    },
+    {
+        "id": "2695288",
+        "channel": "SKY Sport SELECT",
+        "link": "https://list.iptvcat.com/my_list/s/f24ec2b1c693dfca3b9e7dda59f543cd.m3u8",
+        "country": "new zealand",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-03-31T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "new_zealand__2",
             "new_zealand"
