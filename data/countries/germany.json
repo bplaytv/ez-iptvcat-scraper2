@@ -159,10 +159,10 @@
         "link": "https://list.iptvcat.com/my_list/s/5de9038886d0b97402ca61563b6da005.m3u8",
         "country": "germany",
         "liveliness": "71",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "germany__8"
         ]
@@ -354,9 +354,9 @@
         "channel": "HD SKY SPORT 3",
         "link": "https://list.iptvcat.com/my_list/s/44a09d47d83d201227bd467404d244d6.m3u8",
         "country": "germany",
-        "liveliness": "44",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2272,9 +2272,9 @@
         "channel": "Radio 21 TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/7c4129fe57ac5909677279d66a8c43ca.m3u8",
         "country": "germany",
-        "liveliness": "84",
+        "liveliness": "80",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -8132,9 +8132,9 @@
         "channel": "Radio 21 TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/7c4129fe57ac5909677279d66a8c43ca.m3u8",
         "country": "germany",
-        "liveliness": "84",
+        "liveliness": "80",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -10291,10 +10291,10 @@
         "link": "https://list.iptvcat.com/my_list/s/5de9038886d0b97402ca61563b6da005.m3u8",
         "country": "germany",
         "liveliness": "71",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "germany__8"
         ]
@@ -10486,9 +10486,9 @@
         "channel": "HD SKY SPORT 3",
         "link": "https://list.iptvcat.com/my_list/s/44a09d47d83d201227bd467404d244d6.m3u8",
         "country": "germany",
-        "liveliness": "44",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -13001,6 +13001,38 @@
         "URI": [
             "germany",
             "germany__8"
+        ]
+    },
+    {
+        "id": "2678770",
+        "channel": "TV5Monde Europe (1080p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/cb7a055e51dcdb771f2d306565124bff.m3u8",
+        "country": "germany",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "germany__8",
+            "italy__3",
+            "switzerland__2"
+        ]
+    },
+    {
+        "id": "2678770",
+        "channel": "TV5Monde Europe (1080p) [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/cb7a055e51dcdb771f2d306565124bff.m3u8",
+        "country": "germany",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "germany__8",
+            "italy__3",
+            "switzerland__2"
         ]
     },
     {

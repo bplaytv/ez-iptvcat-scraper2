@@ -18,9 +18,9 @@
         "channel": "4K FRANCE 5",
         "link": "https://list.iptvcat.com/my_list/s/c5bcb36f2ec2234da8c41b8770727b5a.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "54",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -214,9 +214,9 @@
         "channel": "BFM Grand Lille",
         "link": "https://list.iptvcat.com/my_list/s/ab83131b2e561d263f4becba47a936f1.m3u8",
         "country": "france",
-        "liveliness": "32",
+        "liveliness": "30",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -536,8 +536,8 @@
         "channel": "Cine+ Famiz HD",
         "link": "https://list.iptvcat.com/my_list/s/adc808aae9d3403281f9381ca9f59a66.m3u8",
         "country": "france",
-        "liveliness": "40",
-        "status": "offline",
+        "liveliness": "41",
+        "status": "online",
         "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -634,9 +634,9 @@
         "channel": "FHD AMAZON PRIME VIDEO 1",
         "link": "https://list.iptvcat.com/my_list/s/acf8638e509656d9b0bc64da6886eda6.m3u8",
         "country": "france",
-        "liveliness": "37",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -938,20 +938,6 @@
         ]
     },
     {
-        "id": "2685756",
-        "channel": "FHD EUROSPORTS 2",
-        "link": "https://list.iptvcat.com/my_list/s/e214d1cf8f3b3f05779d31ec951aa70f.m3u8",
-        "country": "france",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
         "id": "2685367",
         "channel": "FHD FRANCE 2",
         "link": "https://list.iptvcat.com/my_list/s/488cd644906e2412fe6dad37210461b4.m3u8",
@@ -1017,20 +1003,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
-        "id": "2686164",
-        "channel": "FHD J-ONE",
-        "link": "https://list.iptvcat.com/my_list/s/6885202e95393a044fcc09bce5b7cb1d.m3u8",
-        "country": "france",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "france__7"
         ]
@@ -1222,9 +1194,9 @@
         "channel": "FHD RAKUTEN SPOTLIGHT FRANCE",
         "link": "https://list.iptvcat.com/my_list/s/e1108d5c2e7a7f9288e99d007b1d22dd.m3u8",
         "country": "france",
-        "liveliness": "71",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1400,71 +1372,29 @@
         ]
     },
     {
-        "id": "2685196",
-        "channel": "HD RAKUTEN ACTION MOVIES",
-        "link": "https://list.iptvcat.com/my_list/s/3f8b5e9eab84919bbdab95d83f6d4714.m3u8",
+        "id": "2685146",
+        "channel": "FHD TF1",
+        "link": "https://list.iptvcat.com/my_list/s/58a1793d448f7b55c248e6cc23e752d5.m3u8",
         "country": "france",
-        "liveliness": "100",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "france__7"
         ]
     },
     {
-        "id": "2685207",
-        "channel": "HD RAKUTEN BBC DOCTOR WHO FRANCE",
-        "link": "https://list.iptvcat.com/my_list/s/52d3f3e4be16344a8de5ed4f646e54d2.m3u8",
-        "country": "france",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
-        "id": "2685198",
-        "channel": "HD RAKUTEN FAMILY",
-        "link": "https://list.iptvcat.com/my_list/s/82d7150842d0b2e51c287a5cd1147ef9.m3u8",
-        "country": "france",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
-        "id": "2685263",
-        "channel": "HD RAKUTEN FILMS FR",
-        "link": "https://list.iptvcat.com/my_list/s/c56e7ea594f73bdf8d285a2fa8174bdb.m3u8",
+        "id": "2686002",
+        "channel": "FHD TOUTE L HISTOIRE",
+        "link": "https://list.iptvcat.com/my_list/s/6b97af17dc362a52d6c5d61d76722707.m3u8",
         "country": "france",
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
-        "id": "2685268",
-        "channel": "HD RAKUTEN FILMS THRILLER",
-        "link": "https://list.iptvcat.com/my_list/s/b815b845d4001f84026b9f568e886bd6.m3u8",
-        "country": "france",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
+        "mbps": "3188",
         "URI": [
             "france__7"
         ]
@@ -1474,9 +1404,9 @@
         "channel": "HD RAKUTEN SPOTLIGHT FRANCE",
         "link": "https://list.iptvcat.com/my_list/s/cbff9d879465fb680175c83b8434d05e.m3u8",
         "country": "france",
-        "liveliness": "71",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2021,10 +1951,10 @@
         "link": "https://list.iptvcat.com/my_list/s/9a4bdb05a46ba11bedca00f95df6e05e.m3u8",
         "country": "france",
         "liveliness": "35",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "22116",
+        "mbps": "7004",
         "URI": [
             "france__7"
         ]
@@ -2104,9 +2034,9 @@
         "channel": "SD AMAZON PRIME 1",
         "link": "https://list.iptvcat.com/my_list/s/5d830bbeeee8b9f12dde71a0bbfe6f8c.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "54",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2118,9 +2048,9 @@
         "channel": "SD AMAZON PRIME 3",
         "link": "https://list.iptvcat.com/my_list/s/4f744f2b2c55ddc319cb9e14149b48f7.m3u8",
         "country": "france",
-        "liveliness": "33",
+        "liveliness": "30",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2524,9 +2454,9 @@
         "channel": "W9 FHD",
         "link": "https://list.iptvcat.com/my_list/s/24ce51f6419cfa7706b2e1a92e619b53.m3u8",
         "country": "france",
-        "liveliness": "39",
+        "liveliness": "36",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2594,9 +2524,9 @@
         "channel": "4K FRANCE 5",
         "link": "https://list.iptvcat.com/my_list/s/c5bcb36f2ec2234da8c41b8770727b5a.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "54",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2790,9 +2720,9 @@
         "channel": "BFM Grand Lille",
         "link": "https://list.iptvcat.com/my_list/s/ab83131b2e561d263f4becba47a936f1.m3u8",
         "country": "france",
-        "liveliness": "32",
+        "liveliness": "30",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3112,8 +3042,8 @@
         "channel": "Cine+ Famiz HD",
         "link": "https://list.iptvcat.com/my_list/s/adc808aae9d3403281f9381ca9f59a66.m3u8",
         "country": "france",
-        "liveliness": "40",
-        "status": "offline",
+        "liveliness": "41",
+        "status": "online",
         "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -3210,9 +3140,9 @@
         "channel": "FHD AMAZON PRIME VIDEO 1",
         "link": "https://list.iptvcat.com/my_list/s/acf8638e509656d9b0bc64da6886eda6.m3u8",
         "country": "france",
-        "liveliness": "37",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -3514,20 +3444,6 @@
         ]
     },
     {
-        "id": "2685756",
-        "channel": "FHD EUROSPORTS 2",
-        "link": "https://list.iptvcat.com/my_list/s/e214d1cf8f3b3f05779d31ec951aa70f.m3u8",
-        "country": "france",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
         "id": "2685367",
         "channel": "FHD FRANCE 2",
         "link": "https://list.iptvcat.com/my_list/s/488cd644906e2412fe6dad37210461b4.m3u8",
@@ -3593,20 +3509,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
-        "id": "2686164",
-        "channel": "FHD J-ONE",
-        "link": "https://list.iptvcat.com/my_list/s/6885202e95393a044fcc09bce5b7cb1d.m3u8",
-        "country": "france",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "france__7"
         ]
@@ -3798,9 +3700,9 @@
         "channel": "FHD RAKUTEN SPOTLIGHT FRANCE",
         "link": "https://list.iptvcat.com/my_list/s/e1108d5c2e7a7f9288e99d007b1d22dd.m3u8",
         "country": "france",
-        "liveliness": "71",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3997,20 +3899,6 @@
         "liveliness": "93",
         "status": "online",
         "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
-        "id": "2685984",
-        "channel": "FHD TREK",
-        "link": "https://list.iptvcat.com/my_list/s/af82b5a7cd7288be34178e876cdf33c4.m3u8",
-        "country": "france",
-        "liveliness": "27",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4358,9 +4246,9 @@
         "channel": "HD AMAZON PRIME 2 (LIGUE 2)",
         "link": "https://list.iptvcat.com/my_list/s/844d940aa8b0345912406aefe5896bcb.m3u8",
         "country": "france",
-        "liveliness": "53",
+        "liveliness": "48",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "9546",
         "URI": [
@@ -4372,9 +4260,9 @@
         "channel": "HD AMAZON PRIME 3 (LIGUE 2)",
         "link": "https://list.iptvcat.com/my_list/s/14bdc42aec8f4c52502a3522077f8ac4.m3u8",
         "country": "france",
-        "liveliness": "44",
+        "liveliness": "40",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4405,20 +4293,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
-        "id": "2686086",
-        "channel": "HD BABY TV",
-        "link": "https://list.iptvcat.com/my_list/s/25be3ea3be6a07dfa733171a6126faa1.m3u8",
-        "country": "france",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1685",
         "URI": [
             "france__7"
         ]
@@ -4970,20 +4844,6 @@
         ]
     },
     {
-        "id": "2685774",
-        "channel": "HD GOLF+",
-        "link": "https://list.iptvcat.com/my_list/s/7ace015f295202af8d96a3fdf0a7d035.m3u8",
-        "country": "france",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
         "id": "2686123",
         "channel": "HD GULLI",
         "link": "https://list.iptvcat.com/my_list/s/7770d831d0febb114ef7cc54e03a2eff.m3u8",
@@ -5376,6 +5236,76 @@
         ]
     },
     {
+        "id": "2685196",
+        "channel": "HD RAKUTEN ACTION MOVIES",
+        "link": "https://list.iptvcat.com/my_list/s/3f8b5e9eab84919bbdab95d83f6d4714.m3u8",
+        "country": "france",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france__7"
+        ]
+    },
+    {
+        "id": "2685207",
+        "channel": "HD RAKUTEN BBC DOCTOR WHO FRANCE",
+        "link": "https://list.iptvcat.com/my_list/s/52d3f3e4be16344a8de5ed4f646e54d2.m3u8",
+        "country": "france",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "3429",
+        "URI": [
+            "france__7"
+        ]
+    },
+    {
+        "id": "2685198",
+        "channel": "HD RAKUTEN FAMILY",
+        "link": "https://list.iptvcat.com/my_list/s/82d7150842d0b2e51c287a5cd1147ef9.m3u8",
+        "country": "france",
+        "liveliness": "59",
+        "status": "offline",
+        "lastChecked": "2023-04-04T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "france__7"
+        ]
+    },
+    {
+        "id": "2685263",
+        "channel": "HD RAKUTEN FILMS FR",
+        "link": "https://list.iptvcat.com/my_list/s/c56e7ea594f73bdf8d285a2fa8174bdb.m3u8",
+        "country": "france",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "france__7"
+        ]
+    },
+    {
+        "id": "2685268",
+        "channel": "HD RAKUTEN FILMS THRILLER",
+        "link": "https://list.iptvcat.com/my_list/s/b815b845d4001f84026b9f568e886bd6.m3u8",
+        "country": "france",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "france__7"
+        ]
+    },
+    {
         "id": "2688711",
         "channel": "3ABN",
         "link": "https://list.iptvcat.com/my_list/s/94765a6642a80094384903288fd61b31.m3u8",
@@ -5394,9 +5324,9 @@
         "channel": "4K FRANCE 5",
         "link": "https://list.iptvcat.com/my_list/s/c5bcb36f2ec2234da8c41b8770727b5a.m3u8",
         "country": "france",
-        "liveliness": "59",
+        "liveliness": "54",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -5590,9 +5520,9 @@
         "channel": "BFM Grand Lille",
         "link": "https://list.iptvcat.com/my_list/s/ab83131b2e561d263f4becba47a936f1.m3u8",
         "country": "france",
-        "liveliness": "32",
+        "liveliness": "30",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5912,8 +5842,8 @@
         "channel": "Cine+ Famiz HD",
         "link": "https://list.iptvcat.com/my_list/s/adc808aae9d3403281f9381ca9f59a66.m3u8",
         "country": "france",
-        "liveliness": "40",
-        "status": "offline",
+        "liveliness": "41",
+        "status": "online",
         "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -6010,9 +5940,9 @@
         "channel": "FHD AMAZON PRIME VIDEO 1",
         "link": "https://list.iptvcat.com/my_list/s/acf8638e509656d9b0bc64da6886eda6.m3u8",
         "country": "france",
-        "liveliness": "37",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -6314,20 +6244,6 @@
         ]
     },
     {
-        "id": "2685756",
-        "channel": "FHD EUROSPORTS 2",
-        "link": "https://list.iptvcat.com/my_list/s/e214d1cf8f3b3f05779d31ec951aa70f.m3u8",
-        "country": "france",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
         "id": "2685367",
         "channel": "FHD FRANCE 2",
         "link": "https://list.iptvcat.com/my_list/s/488cd644906e2412fe6dad37210461b4.m3u8",
@@ -6393,20 +6309,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
-        "URI": [
-            "france__7"
-        ]
-    },
-    {
-        "id": "2686164",
-        "channel": "FHD J-ONE",
-        "link": "https://list.iptvcat.com/my_list/s/6885202e95393a044fcc09bce5b7cb1d.m3u8",
-        "country": "france",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "france__7"
         ]
@@ -6598,9 +6500,9 @@
         "channel": "FHD RAKUTEN SPOTLIGHT FRANCE",
         "link": "https://list.iptvcat.com/my_list/s/e1108d5c2e7a7f9288e99d007b1d22dd.m3u8",
         "country": "france",
-        "liveliness": "71",
+        "liveliness": "63",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -6771,6 +6673,34 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
+        "URI": [
+            "france__7"
+        ]
+    },
+    {
+        "id": "2685146",
+        "channel": "FHD TF1",
+        "link": "https://list.iptvcat.com/my_list/s/58a1793d448f7b55c248e6cc23e752d5.m3u8",
+        "country": "france",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "france__7"
+        ]
+    },
+    {
+        "id": "2686002",
+        "channel": "FHD TOUTE L HISTOIRE",
+        "link": "https://list.iptvcat.com/my_list/s/6b97af17dc362a52d6c5d61d76722707.m3u8",
+        "country": "france",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "france__7"
         ]
