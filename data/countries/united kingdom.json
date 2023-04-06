@@ -1428,20 +1428,6 @@
         ]
     },
     {
-        "id": "2689910",
-        "channel": "HD AL JAZEERA NEWS",
-        "link": "https://list.iptvcat.com/my_list/s/9e0527e37fc9768201b2d32e392320be.m3u8",
-        "country": "united kingdom",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom__5"
-        ]
-    },
-    {
         "id": "2690100",
         "channel": "HD AMC",
         "link": "https://list.iptvcat.com/my_list/s/be74e1bcf2a4ffcf0ea7f264935a4df2.m3u8",
@@ -1988,20 +1974,6 @@
         ]
     },
     {
-        "id": "2690414",
-        "channel": "HD LIFE TIME",
-        "link": "https://list.iptvcat.com/my_list/s/fc9b91a77e32427f2fa3c36f5c0efe43.m3u8",
-        "country": "united kingdom",
-        "liveliness": "31",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "united_kingdom__5"
-        ]
-    },
-    {
         "id": "2690523",
         "channel": "HD MTV",
         "link": "https://list.iptvcat.com/my_list/s/6044a86df315729b8e72267668ec071a.m3u8",
@@ -2067,20 +2039,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "united_kingdom__5"
-        ]
-    },
-    {
-        "id": "2690250",
-        "channel": "HD NAT GEO WILD",
-        "link": "https://list.iptvcat.com/my_list/s/550d7d8a7d1bfc8310965ec272118ad0.m3u8",
-        "country": "united kingdom",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
         "URI": [
             "united_kingdom__5"
         ]
@@ -2361,20 +2319,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "united_kingdom__5"
-        ]
-    },
-    {
-        "id": "2690944",
-        "channel": "HD S-K-Y SPORTS PREMIER LEAGUE",
-        "link": "https://list.iptvcat.com/my_list/s/5a615e9b195cf9677a014d6af04f2cd2.m3u8",
-        "country": "united kingdom",
-        "liveliness": "49",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "united_kingdom__5"
         ]
@@ -2795,6 +2739,62 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
+        "URI": [
+            "united_kingdom__5"
+        ]
+    },
+    {
+        "id": "2596137",
+        "channel": "KISS",
+        "link": "https://list.iptvcat.com/my_list/s/abc85ecc4283a5a3d6a1f8b3561b58d1.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom__5"
+        ]
+    },
+    {
+        "id": "55829",
+        "channel": "Kanshi TV, UK | Kanshi TV",
+        "link": "https://list.iptvcat.com/my_list/s/515a908c9182049a4aa1374b0921e899.m3u8",
+        "country": "united kingdom",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "united_kingdom__5"
+        ]
+    },
+    {
+        "id": "2596136",
+        "channel": "Kerrang!",
+        "link": "https://list.iptvcat.com/my_list/s/ac965733d7013f8985235989704aa671.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom__5"
+        ]
+    },
+    {
+        "id": "2596138",
+        "channel": "Lifetime",
+        "link": "https://list.iptvcat.com/my_list/s/53071b93cbe8c75867746b62190bab4e.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "united_kingdom__5"
         ]
@@ -4197,62 +4197,6 @@
         "mbps": "7004",
         "URI": [
             "united_kingdom__5"
-        ]
-    },
-    {
-        "id": "2596137",
-        "channel": "KISS",
-        "link": "https://list.iptvcat.com/my_list/s/abc85ecc4283a5a3d6a1f8b3561b58d1.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "55829",
-        "channel": "Kanshi TV, UK | Kanshi TV",
-        "link": "https://list.iptvcat.com/my_list/s/515a908c9182049a4aa1374b0921e899.m3u8",
-        "country": "united kingdom",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2596136",
-        "channel": "Kerrang!",
-        "link": "https://list.iptvcat.com/my_list/s/ac965733d7013f8985235989704aa671.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2596138",
-        "channel": "Lifetime",
-        "link": "https://list.iptvcat.com/my_list/s/53071b93cbe8c75867746b62190bab4e.m3u8",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom"
         ]
     },
     {
@@ -6930,20 +6874,6 @@
         ]
     },
     {
-        "id": "2689910",
-        "channel": "HD AL JAZEERA NEWS",
-        "link": "https://list.iptvcat.com/my_list/s/9e0527e37fc9768201b2d32e392320be.m3u8",
-        "country": "united kingdom",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_kingdom__5"
-        ]
-    },
-    {
         "id": "2690100",
         "channel": "HD AMC",
         "link": "https://list.iptvcat.com/my_list/s/be74e1bcf2a4ffcf0ea7f264935a4df2.m3u8",
@@ -7490,20 +7420,6 @@
         ]
     },
     {
-        "id": "2690414",
-        "channel": "HD LIFE TIME",
-        "link": "https://list.iptvcat.com/my_list/s/fc9b91a77e32427f2fa3c36f5c0efe43.m3u8",
-        "country": "united kingdom",
-        "liveliness": "31",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "united_kingdom__5"
-        ]
-    },
-    {
         "id": "2690523",
         "channel": "HD MTV",
         "link": "https://list.iptvcat.com/my_list/s/6044a86df315729b8e72267668ec071a.m3u8",
@@ -7569,20 +7485,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "united_kingdom__5"
-        ]
-    },
-    {
-        "id": "2690250",
-        "channel": "HD NAT GEO WILD",
-        "link": "https://list.iptvcat.com/my_list/s/550d7d8a7d1bfc8310965ec272118ad0.m3u8",
-        "country": "united kingdom",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
         "URI": [
             "united_kingdom__5"
         ]
@@ -7863,20 +7765,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "united_kingdom__5"
-        ]
-    },
-    {
-        "id": "2690944",
-        "channel": "HD S-K-Y SPORTS PREMIER LEAGUE",
-        "link": "https://list.iptvcat.com/my_list/s/5a615e9b195cf9677a014d6af04f2cd2.m3u8",
-        "country": "united kingdom",
-        "liveliness": "49",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "united_kingdom__5"
         ]
@@ -8297,6 +8185,62 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
+        "URI": [
+            "united_kingdom__5"
+        ]
+    },
+    {
+        "id": "2596137",
+        "channel": "KISS",
+        "link": "https://list.iptvcat.com/my_list/s/abc85ecc4283a5a3d6a1f8b3561b58d1.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom__5"
+        ]
+    },
+    {
+        "id": "55829",
+        "channel": "Kanshi TV, UK | Kanshi TV",
+        "link": "https://list.iptvcat.com/my_list/s/515a908c9182049a4aa1374b0921e899.m3u8",
+        "country": "united kingdom",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "united_kingdom__5"
+        ]
+    },
+    {
+        "id": "2596136",
+        "channel": "Kerrang!",
+        "link": "https://list.iptvcat.com/my_list/s/ac965733d7013f8985235989704aa671.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom__5"
+        ]
+    },
+    {
+        "id": "2596138",
+        "channel": "Lifetime",
+        "link": "https://list.iptvcat.com/my_list/s/53071b93cbe8c75867746b62190bab4e.m3u8",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "united_kingdom__5"
         ]

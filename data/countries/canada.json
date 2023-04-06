@@ -1401,20 +1401,6 @@
         ]
     },
     {
-        "id": "2591551",
-        "channel": "Yes TV",
-        "link": "https://list.iptvcat.com/my_list/s/5de566b0b65b9169c2fcf77b3503f359.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "canada__4"
-        ]
-    },
-    {
         "id": "361",
         "channel": "5AAB TV",
         "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
@@ -3152,27 +3138,13 @@
         ]
     },
     {
-        "id": "2693815",
-        "channel": "HD ADDIKTV",
-        "link": "https://list.iptvcat.com/my_list/s/1dfa1df21f7f9d268ae2b539dd15560a.m3u8",
-        "country": "canada",
-        "liveliness": "15",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
-        "URI": [
-            "canada__4"
-        ]
-    },
-    {
         "id": "2693922",
         "channel": "HD COTTAGE LIFE",
         "link": "https://list.iptvcat.com/my_list/s/ef9ad3e78533e105a60d89498cbbb154.m3u8",
         "country": "canada",
-        "liveliness": "17",
+        "liveliness": "16",
         "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
+        "lastChecked": "2023-04-06T00:00:00Z",
         "format": "sd",
         "mbps": "2478",
         "URI": [
@@ -4165,6 +4137,20 @@
         "id": "2591549",
         "channel": "Wild TV",
         "link": "https://list.iptvcat.com/my_list/s/e7757adbd13504f8f936c7ecb5c5957d.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "canada__4"
+        ]
+    },
+    {
+        "id": "2591551",
+        "channel": "Yes TV",
+        "link": "https://list.iptvcat.com/my_list/s/5de566b0b65b9169c2fcf77b3503f359.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",

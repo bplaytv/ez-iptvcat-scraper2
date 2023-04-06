@@ -350,20 +350,6 @@
         ]
     },
     {
-        "id": "2689803",
-        "channel": "HD SKY SPORT 3",
-        "link": "https://list.iptvcat.com/my_list/s/44a09d47d83d201227bd467404d244d6.m3u8",
-        "country": "germany",
-        "liveliness": "37",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "germany__8"
-        ]
-    },
-    {
         "id": "2689805",
         "channel": "HD SKY SPORT 6",
         "link": "https://list.iptvcat.com/my_list/s/9434c82fa7c02ba2ba683681130f5873.m3u8",
@@ -6502,20 +6488,6 @@
         ]
     },
     {
-        "id": "2591987",
-        "channel": "Sky Sport 1",
-        "link": "https://list.iptvcat.com/my_list/s/c6d4adf3eb461d067b5bea989cc521c4.m3u8",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "germany__8"
-        ]
-    },
-    {
         "id": "2591989",
         "channel": "Sky Sport 2",
         "link": "https://list.iptvcat.com/my_list/s/11123994b30a8e58ed7fbb298aef33fb.m3u8",
@@ -7227,20 +7199,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "germany__8"
-        ]
-    },
-    {
-        "id": "2688317",
-        "channel": "NTV HD",
-        "link": "https://list.iptvcat.com/my_list/s/b66d10c122022427df685a8353484b44.m3u8",
-        "country": "germany",
-        "liveliness": "38",
-        "status": "online",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "germany__8"
         ]
@@ -8621,6 +8579,20 @@
         "id": "2591983",
         "channel": "Sky Krimi",
         "link": "https://list.iptvcat.com/my_list/s/ac3cce3f9eae9b373bae6eeca21067aa.m3u8",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "germany__8"
+        ]
+    },
+    {
+        "id": "2591987",
+        "channel": "Sky Sport 1",
+        "link": "https://list.iptvcat.com/my_list/s/c6d4adf3eb461d067b5bea989cc521c4.m3u8",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
@@ -10482,20 +10454,6 @@
         ]
     },
     {
-        "id": "2689803",
-        "channel": "HD SKY SPORT 3",
-        "link": "https://list.iptvcat.com/my_list/s/44a09d47d83d201227bd467404d244d6.m3u8",
-        "country": "germany",
-        "liveliness": "37",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "germany__8"
-        ]
-    },
-    {
         "id": "2689805",
         "channel": "HD SKY SPORT 6",
         "link": "https://list.iptvcat.com/my_list/s/9434c82fa7c02ba2ba683681130f5873.m3u8",
@@ -11499,6 +11457,20 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "germany__8"
+        ]
+    },
+    {
+        "id": "2688317",
+        "channel": "NTV HD",
+        "link": "https://list.iptvcat.com/my_list/s/b66d10c122022427df685a8353484b44.m3u8",
+        "country": "germany",
+        "liveliness": "38",
+        "status": "online",
+        "lastChecked": "2023-04-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "germany__8"
         ]

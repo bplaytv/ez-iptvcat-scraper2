@@ -672,34 +672,6 @@
         ]
     },
     {
-        "id": "4310",
-        "channel": "东至影视频道",
-        "link": "https://list.iptvcat.com/my_list/s/29c3321dd6de1778c34693391e81469d.m3u8",
-        "country": "china",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "china__3"
-        ]
-    },
-    {
-        "id": "4312",
-        "channel": "东至新闻综合",
-        "link": "https://list.iptvcat.com/my_list/s/20eac160c84b45ce7812fce683b8fe1f.m3u8",
-        "country": "china",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "china__3"
-        ]
-    },
-    {
         "id": "4387",
         "channel": "余姚新闻综合",
         "link": "https://list.iptvcat.com/my_list/s/1a117522ae00fa8333291c42f4f77ff6.m3u8",
@@ -1400,6 +1372,34 @@
         ]
     },
     {
+        "id": "2473334",
+        "channel": "深圳卫视 (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/8d2f07c9bd9d6df8f2878c02d083359b.m3u8",
+        "country": "china",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "china__3"
+        ]
+    },
+    {
+        "id": "2473356",
+        "channel": "深圳卫视 (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/38c28dc8a81db7abb0b9523215867c7f.m3u8",
+        "country": "china",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "china__3"
+        ]
+    },
+    {
         "id": "5270",
         "channel": "ANTV HD, 越南ANTVHD",
         "link": "https://list.iptvcat.com/my_list/s/8a5d8934170d6fcfeb934ee7ed9edbed.m3u8",
@@ -2067,34 +2067,6 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "china__3"
-        ]
-    },
-    {
-        "id": "4310",
-        "channel": "东至影视频道",
-        "link": "https://list.iptvcat.com/my_list/s/29c3321dd6de1778c34693391e81469d.m3u8",
-        "country": "china",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "china__3"
-        ]
-    },
-    {
-        "id": "4312",
-        "channel": "东至新闻综合",
-        "link": "https://list.iptvcat.com/my_list/s/20eac160c84b45ce7812fce683b8fe1f.m3u8",
-        "country": "china",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "china__3"
         ]
@@ -3934,34 +3906,6 @@
         ]
     },
     {
-        "id": "4310",
-        "channel": "东至影视频道",
-        "link": "https://list.iptvcat.com/my_list/s/29c3321dd6de1778c34693391e81469d.m3u8",
-        "country": "china",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "china__3"
-        ]
-    },
-    {
-        "id": "4312",
-        "channel": "东至新闻综合",
-        "link": "https://list.iptvcat.com/my_list/s/20eac160c84b45ce7812fce683b8fe1f.m3u8",
-        "country": "china",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2023-04-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "china__3"
-        ]
-    },
-    {
         "id": "4387",
         "channel": "余姚新闻综合",
         "link": "https://list.iptvcat.com/my_list/s/1a117522ae00fa8333291c42f4f77ff6.m3u8",
@@ -4657,6 +4601,34 @@
         "lastChecked": "2023-04-02T00:00:00Z",
         "format": "sd",
         "mbps": "1662",
+        "URI": [
+            "china__3"
+        ]
+    },
+    {
+        "id": "2473334",
+        "channel": "深圳卫视 (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/8d2f07c9bd9d6df8f2878c02d083359b.m3u8",
+        "country": "china",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "china__3"
+        ]
+    },
+    {
+        "id": "2473356",
+        "channel": "深圳卫视 (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/38c28dc8a81db7abb0b9523215867c7f.m3u8",
+        "country": "china",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "china__3"
         ]
